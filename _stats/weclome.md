@@ -6,6 +6,6 @@ category: stats
 layout: post
 ---
 
-[새로운 파일](./hi.md)
+[새로운 파일](./stats/hi.md)
 
 이동 확인해 봅시다.
