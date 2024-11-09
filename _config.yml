@@ -1,15 +1,15 @@
 # Configurations
-title:            Study GithubPages
-longtitle:        Study GithubPages (Long)
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            CUERIX Tech Documents
+longtitle:        ''
+author:           CUERIX
+email:            help@cuerix.com
 description: >
-  Build Jekyll site with the GitBook style.
+  큐릭스 기술문서 입니다.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
+url:              'https://cuerix.github.io'
 baseurl:          ''
 rss:              RSS
 
