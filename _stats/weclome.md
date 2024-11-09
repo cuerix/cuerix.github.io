@@ -6,10 +6,6 @@ category: stats
 layout: post
 ---
 
-## Depth2
+[새로운 파일](./hi.md)
 
-### Depth3
-
-#### Depth4
-
-hahaha
+이동 확인해 봅시다.
