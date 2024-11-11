@@ -5,6 +5,52 @@ date: 2024-11-11
 category: stats
 layout: post
 ---
+
+<style>
+  details {
+    margin-bottom: 8px; /* 항목 사이의 간격 줄이기 */
+    padding: 8px; /* 패딩 줄이기 */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    font-size: 0.9em; /* 폰트 크기 줄이기 */
+  }
+
+  summary {
+    font-weight: bold;
+    font-size: 1.3em; /* summary 항목 폰트 크기 조정 */
+    cursor: pointer;
+    padding: 3px; /* 패딩 줄이기 */
+    color: #000; /* 검은색으로 설정 */
+  }
+
+  details[open] summary {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 8px; /* margin 줄이기 */
+  }
+
+  .item {
+    margin-left: 15px; /* 리스트 항목 들여쓰기 줄이기 */
+    font-size: 1.5em; /* 아이템 폰트 크기 줄이기 */
+  }
+
+  .item-title {
+    font-weight: bold;
+    color: #007acc;
+    margin-bottom: 4px; /* 간격 줄이기 */
+    
+  }
+
+  .item-content {
+    margin-left: 8px; /* 들여쓰기 줄이기 */
+    color: #555;
+    font-size: 0.85em; /* 작은 폰트 크기 */
+  }
+</style>
+
+
+
+
 ### 전처리 규칙이란?
 <strong>전처리 규칙</strong>은 <strong>문자척도</strong>로 수집한 설문조사 데이터를 통계분석을 위해 <strong>숫자 척도로 교체</strong>하는 규칙을 등록 또는 관리합니다.  
 예를 들어 설문조사에 사용한 '매우 그렇다, 그렇다, 보통, 그렇지 않다, 전혀 그렇지 않다'라는 5점 등간척도는 응답자에게 노출된 문자 척도 그대로 데이터가 수집됩니다.  
