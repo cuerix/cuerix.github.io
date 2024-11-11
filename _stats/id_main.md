@@ -1,4 +1,10 @@
-# ID 메인 화면 
+---
+title: ID 메인 화면
+author: Scotty
+date: 2024-11-11
+category: stats
+layout: post
+---
 ID 메인 화면에서는  
  ①설문조사 및 데이터 분석을 할 수 있는 <strong>Stats 앱</strong>,  
 ②사용자에 맞춤에 따른 <strong>서비스 플랜</strong>,  
