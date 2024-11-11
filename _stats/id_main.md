@@ -12,7 +12,7 @@ ID 메인 화면에서는
 <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/38bd0279-6bfa-4e63-b46f-07131289a253">
 </center>
-</br>
+<br>
 <details>
   <summary>메뉴/아이콘 설명</summary>
   <div class="item">
@@ -25,5 +25,5 @@ ID 메인 화면에서는
       주문 내역 확인 및 1:1 문의를 할 수 있습니다.<br>
   </class>
   </details>
-</br>
-</br>
+<br>
+<br>
