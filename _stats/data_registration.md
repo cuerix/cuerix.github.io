@@ -1,4 +1,10 @@
-# 데이터 등록
+---
+title: 데이터 등록
+author: Scotty
+date: 2024-11-11
+category: stats
+layout: post
+---
 분석대상 데이터로 등록합니다.
 <center>
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/5cda754f-4b65-403e-9e90-f7c4a84bea00">  
