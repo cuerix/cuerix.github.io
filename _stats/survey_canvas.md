@@ -1,3 +1,10 @@
+---
+title: 설문 디자인
+author: Scotty
+date: 2024-11-11
+category: stats
+layout: post
+---
 # 설문 디자인
 <strong>설문 디자인</strong>에서는 Survey Canvas의 설문 도구를 활용하여 설문지를 디자인하고, 이를 바탕으로 설문 배포 설정을 통해 설문 조사를 진행할 수 있습니다.
 </br>
