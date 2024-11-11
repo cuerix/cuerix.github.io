@@ -5,16 +5,56 @@ date: 2024-11-11
 category: stats
 layout: post
 ---
+<style>
+  details {
+    margin-bottom: 8px; /* 항목 사이의 간격 줄이기 */
+    padding: 8px; /* 패딩 줄이기 */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    font-size: 0.9em; /* 폰트 크기 줄이기 */
+  }
 
+  summary {
+    font-weight: bold;
+    font-size: 1.3em; /* summary 항목 폰트 크기 조정 */
+    cursor: pointer;
+    padding: 3px; /* 패딩 줄이기 */
+    color: #000; /* 검은색으로 설정 */
+  }
+
+  details[open] summary {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 8px; /* margin 줄이기 */
+  }
+
+  .item {
+    margin-left: 15px; /* 리스트 항목 들여쓰기 줄이기 */
+    font-size: 1.5em; /* 아이템 폰트 크기 줄이기 */
+  }
+
+  .item-title {
+    font-weight: bold;
+    color: #007acc;
+    margin-bottom: 4px; /* 간격 줄이기 */
+    
+  }
+
+  .item-content {
+    margin-left: 8px; /* 들여쓰기 줄이기 */
+    color: #555;
+    font-size: 0.85em; /* 작은 폰트 크기 */
+  }
+</style>
 # Data Analyzer
 분석대상 데이터를 틍해 데이터 분석을 할 수 있습니다.
   <center>
  <img width="800" alt="image" src="https://github.com/user-attachments/assets/81e904d5-1ba4-4a8c-91fe-c2f13bf45155">  
   </center>
-</br>  
+<br>  
 
 
-</br>  
+<br>  
 
 
 
@@ -144,8 +184,8 @@ layout: post
 [[목차로 이동]](#index)
 
 
-</br>  
-</br>  
+<br>  
+<br>  
 
 
 ## 기술통계
@@ -239,7 +279,7 @@ layout: post
     ① 분석할 연속형 변수(열) 선택합니다. <br>
     ② 데이터 분석 아이콘을 클릭하여 분석 결과를 확인합니다. <br>
 </details>
-</br> 
+<br> 
 
 
 
@@ -272,7 +312,7 @@ layout: post
     ① 분석할 연속형 변수(열) 선택합니다.<br>
     ② 데이터 분석 아이콘을 클릭하여 분석 결과를 확인합니다. <br>
 </details>
-</br> 
+<br> 
         
  ## 카이제곱 검정
 <strong>카이제곱 검정</strong>은 범주형 데이터 간의 관계나 분포를 분석하는 데 사용하는 통계적 검정 방법입니다.<br>
@@ -301,7 +341,7 @@ layout: post
     ① 분석할 범주형 변수(열) 선택합니다.<br>
     ② 데이터 분석 아이콘을 클릭하여 분석 결과를 확인합니다. <br>
 </details>
-</br> 
+<br> 
 
 
  ## 비모수 검정
@@ -360,7 +400,7 @@ layout: post
     ③ 반복측정 결과 연속형 변수(열)을 선택합니다.<br>
     ④ 데이터 분석 아이콘을 클릭하여 분석 결과를 확인합니다.<br> <br>
 </details>
-</br> 
+<br> 
 
  ## t-검정
 <strong>t-검정(t-test)</strong>은 두 집단의 평균 차이를 비교하여 유의미한 차이가 있는지 검정하는 통계적 방법입니다.  
