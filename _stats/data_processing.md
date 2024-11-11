@@ -63,7 +63,7 @@ layout: post
        <span style="color:red"> &#8251; <strong>설문지 디자인에 사용한 척도 셋과 전처리 규칙에 등록된 척도 셋이 일치해야만</strong> 문자 척도를 점수 척도로 전환할 수 있습니다. </span>
   </strong>
 </div>
-</br>
+<br>
 
 
   <center>
@@ -81,7 +81,7 @@ layout: post
      동기화 기능입니다.
 
 </details>
-</br>  
+<br>  
 <div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
  등록한 전처리 규칙을 분석 대상 데이터에 연결하세요 .
 </div>
@@ -94,11 +94,11 @@ layout: post
   <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/1ab9ae5d-e2b1-425e-83fc-5f56d1e8e9c2">  
   </center>
-</br>  
-</br>
+<br>  
+<br>
 
-</br>
-</br>
+<br>
+<br>
 
 <details>
   <summary>전처리 규칙 등록 방법</summary>
@@ -124,9 +124,9 @@ layout: post
      동기화 기능입니다.
 
 </details>
-</br>  
+<br>  
 
 [[목차로 이동]](#index)
 
-</br>  
-</br>  
+<br>  
+<br>  
