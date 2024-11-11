@@ -46,6 +46,8 @@ layout: post
     font-size: 0.85em; /* 작은 폰트 크기 */
   }
 </style>
+
+
 # Data Analyzer
 분석대상 데이터를 틍해 데이터 분석을 할 수 있습니다.
   <center>
