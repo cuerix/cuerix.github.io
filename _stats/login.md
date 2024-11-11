@@ -1,7 +1,7 @@
 ---
 title: 가입 및 로그인
-author: JKUN
-date: 2019-04-27
+author: Scotty
+date: 2024-11-11
 category: stats
 layout: post
 ---
