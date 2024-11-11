@@ -1,3 +1,46 @@
+<style>
+  details {
+    margin-bottom: 8px; /* 항목 사이의 간격 줄이기 */
+    padding: 8px; /* 패딩 줄이기 */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    font-size: 0.9em; /* 폰트 크기 줄이기 */
+  }
+
+  summary {
+    font-weight: bold;
+    font-size: 1.3em; /* summary 항목 폰트 크기 조정 */
+    cursor: pointer;
+    padding: 3px; /* 패딩 줄이기 */
+    color: #000; /* 검은색으로 설정 */
+  }
+
+  details[open] summary {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 8px; /* margin 줄이기 */
+  }
+
+  .item {
+    margin-left: 15px; /* 리스트 항목 들여쓰기 줄이기 */
+    font-size: 1.5em; /* 아이템 폰트 크기 줄이기 */
+  }
+
+  .item-title {
+    font-weight: bold;
+    color: #007acc;
+    margin-bottom: 4px; /* 간격 줄이기 */
+    
+  }
+
+  .item-content {
+    margin-left: 8px; /* 들여쓰기 줄이기 */
+    color: #555;
+    font-size: 0.85em; /* 작은 폰트 크기 */
+  }
+</style>
+
+
 # STATS 메인 
 
 <strong>Stats 메인 페이지</strong>에서는 현재 진행 중인 <strong>'설문조사'</strong>와<strong> '데이터 분석'</strong> 현황을 확인할 수 있습니다.  
@@ -33,3 +76,4 @@
 </br>
 </br>
 </br>
+
