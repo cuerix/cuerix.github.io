@@ -1,3 +1,11 @@
+---
+title: Stats 메인
+author: Scotty
+date: 2024-11-11
+category: stats
+layout: post
+---
+
 <style>
   details {
     margin-bottom: 8px; /* 항목 사이의 간격 줄이기 */
