@@ -1,3 +1,11 @@
+---
+title: 설문 조사
+author: Scotty
+date: 2024-11-11
+category: stats
+layout: post
+---
+
 # 설문 조사
 <strong>설문조사</strong>에서는 설문조사 설정, 조사 현황과 조사 데이터 수집현황 정보를 제공합니다.  
 
