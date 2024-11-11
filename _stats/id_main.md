@@ -5,6 +5,22 @@ date: 2024-11-11
 category: stats
 layout: post
 ---
+
+<style> details { margin-bottom: 8px; /* 항목 사이의 간격 줄이기 */ padding: 8px; /* 패딩 줄이기 */ border: 1px solid #ddd; border-radius: 5px; background-color: #f9f9f9; font-size: 0.9em; /* 폰트 크기 줄이기 */ }
+summary { font-weight: bold; font-size: 1.3em; /* summary 항목 폰트 크기 조정 / cursor: pointer; padding: 3px; / 패딩 줄이기 / color: #000; / 검은색으로 설정 */ }
+
+details[open] summary { border-bottom: 1px solid #ddd; margin-bottom: 8px; /* margin 줄이기 */ }
+
+.item { margin-left: 15px; /* 리스트 항목 들여쓰기 줄이기 / font-size: 1.5em; / 아이템 폰트 크기 줄이기 */ }
+
+.item-title { font-weight: bold; color: #007acc; margin-bottom: 4px; /* 간격 줄이기 */
+
+}
+
+.item-content { margin-left: 8px; /* 들여쓰기 줄이기 / color: #555; font-size: 0.85em; / 작은 폰트 크기 */ } </style>
+
+
+
 ID 메인 화면에서는  
  ①설문조사 및 데이터 분석을 할 수 있는 <strong>Stats 앱</strong>,  
 ②사용자에 맞춤에 따른 <strong>서비스 플랜</strong>,  
