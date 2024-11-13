@@ -140,12 +140,12 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 ### 설문조사 배포 설정
 설문조사 배포 설정에서는 설문 응답을 수집하기 위한 배포방법, 응답 기간, 공개여부 등을 설정합니다.
 <center>
-<img width="800"alt="image"src="https://github.com/user-attachments/assets/6b4a9639-a0de-4cbe-9989-e795de549222">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/6b4a9639-a0de-4cbe-9989-e795de549222">
 </center>
 ### 빠른 분석 
 빠른 분석 설정은 학습자 앞에서 데이터 분석 조건을 설정해 분석 결과 공유대상을 기다리게 하는 불편함을 없애기 위해 설문조사 전 단계에서 필요한 분석 조건을 설정하는 과정입니다.  
 <center>
-<img width="800"alt="image"src="https://github.com/user-attachments/assets/a4ba50a7-e3a8-41a3-b8c0-1c8b8911506b">
+<img width="800 "alt="image" src="https://github.com/user-attachments/assets/a4ba50a7-e3a8-41a3-b8c0-1c8b8911506b">
 </center>
 #### STEP 1. 설문조사 설정
       
@@ -174,7 +174,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
           <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
        <strong>ℹ</strong> 기술통계는 숫자(단일선택/수치) 유형의 문항(열)만 선택하여 분석이 가능합니다. </strong>
        </div><br>
-       <img width="800"alt="image"src="https://github.com/user-attachments/assets/27516d09-a07f-4776-80e7-ae062d554767"><br><br><br>
+       <img width="800" alt="image" src="https://github.com/user-attachments/assets/27516d09-a07f-4776-80e7-ae062d554767"><br><br><br>
 #### [분석모듈] IPA 분석 설정<br>
 ① 설문디자인 단계에서 결과변수로 설정한 문항을 선택하고 변수명을 입력합니다.<br>
 ② 선행요인에 해당하는 문항을 선택하고 변수명을 입력합니다. <br>
