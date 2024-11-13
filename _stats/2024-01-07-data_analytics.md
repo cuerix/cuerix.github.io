@@ -15,12 +15,12 @@ layout: post
 분석 대상 데이터는 원칙적으로 데이터 분석을 즉시 수행할 수 있습니다.
 그런데 설문조사 데이터는 설문지에 노출된 척도를 그대로 수집하므로 대부분 문자 척도를 포함할 가능성이 높습니다. 문자척도는 기술통계 등 통계분석 대상이 아닙니다.  </strong>
 </div>
-</br>
+<br>
 
 <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/031b3002-62b4-41bc-9f7b-a00a68deccab">  
 </center>
-</br>
+<br>
 
 <details>
   <summary> STEP 1. 전처리 규칙 연결 (설문 응답정보) </summary>
@@ -91,7 +91,7 @@ layout: post
 <center>
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/7430b29d-ccf0-426d-9052-6cb346c087c3">  
 </center>
-</br>  
+<br>  
 
 <details>
   <summary>하위 메뉴 설명</summary>
@@ -115,32 +115,7 @@ layout: post
 
 [[목차로 이동]](#index)
 
-</br>  
-</br>  
-
-# 데이터 등록
-분석대상 데이터로 등록합니다.
-<center>
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/5cda754f-4b65-403e-9e90-f7c4a84bea00">  
-</center>
-</br>  
-<details>
-  <summary>데이터 등록 방법</summary>
-  <div class="item">
-    <div class="item-content">
-       분석 대상 데이터 제목을 입력하고, 스프레드시트 파일(.xlsx)를 업로드하여 등록합니다.<br>
-
-</details>
+<br>  
+<br>  
 
 
-</br>
-<div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
- 등록한 데이터를 분석하려면 '데이터 분석'에서 Data Analyzer로 이동하세요.
-</div>
-</br>
-
-
-
-[[목차로 이동]](#index)
-</br>  
-</br>  
