@@ -1,78 +1,75 @@
----
-title: 설문 조사
-author: Scotty
-date: 2024-11-11
-category: stats
-layout: post
----
-
 # 설문 조사
-<strong>설문조사</strong>에서는 설문조사 설정, 조사 현황과 조사 데이터 수집현황 정보를 제공합니다.  
+<strong>설문조사</strong>에서는 설문조사 설정, 조사 현황과 조사 데이터 수집현황 정보를 제공합니다.  
+설문조사 화면에서는 다음과 같이 구분되어 있습니다.  
 
-설문조사 화면에서는 다음과 같이 구분되어 있습니다.
-* 설문조사 진행가능한 설문지
+* 설문조사 진행가능한 설문지  
+
 * 현재 조사중인 설문
 * 설문조사 대기 설문
 * 종료된 설문
 
-<strong>설문조사 진행 가능한 설문지</strong>는 설문 디자인이 완료(Complete)되고 설문조사 설정과 배포 이력이 없는 설문지 입니다.  
-디자인이 완료된 설문지는 언제든지 조사 관련 설정을 수행할 수 있습니다.  
+<strong>설문조사 진행 가능한 설문지</strong>는 설문 디자인이 완료(Complete)되고 설문조사 설정과 배포 이력이 없는 설문지 입니다.    
+디자인이 완료된 설문지는 언제든지 조사 관련 설정을 수행할 수 있습니다.    
   
-<strong>설문조사 대기 설문</strong>은 설문조사 설정이 완료되어 URL/QR 코드가 생성되었으나 설문조사 일정이 도래하지 않은 설문지 목록입니다.  
-설문조사 개시일에 현재 조사중인 설문지로 이동합니다.
+    
+<strong>설문조사 대기 설문</strong>은 설문조사 설정이 완료되어 URL/QR 코드가 생성되었으나 설문조사 일정이 도래하지 않은 설문지 목록입니다.    
+설문조사 개시일에 현재 조사중인 설문지로 이동합니다.   
+
+  
+<strong>현재 조사 중인 설문</strong>은 설문조사 설정 기간 내에 속하고 희망 응답수를 충족하지 못한 상태의  설문지로서 현재 데이터 수집 중인 설문지입니다.  
+조사기간 또는 희망응답수 중 먼저 충족된 조건이 있는 경우 종료된 설문으로 이동합니다.    
   
-
-<strong>현재 조사 중인 설문</strong>은 설문조사 설정 기간 내에 속하고 희망 응답수를 충족하지 못한 상태의  설문지로서 현재 데이터 수집 중인 설문지입니다.  
-조사기간 또는 희망응답수 중 먼저 충족된 조건이 있는 경우 종료된 설문으로 이동합니다.  
-
 <strong>종료된 설문</strong>은 설문기간 또는 희망 응답 수가 충족되어 설문조사가 종료된 설문지입니다.
-
 <center>
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/bded8ef1-446f-40fc-8eb9-a922001c9095">
+<img width="800"alt="image"src="https://github.com/user-attachments/assets/bded8ef1-446f-40fc-8eb9-a922001c9095">
 </center>
 <br>
-<details>
-  <summary>메뉴/아이콘 설명</summary>
-  <div class="item">
- <div class="item-content">
-  <span class="item-title">Design</span><br>
-설문 디자인 기본정보로 이동합니다.<br><br>
-<span class="item-title">설정</span><br>
-설문조사 QR코드/URL 및 설문조사 정보를 확인하실 수 있습니다.<br><br>
- <span class="item-title">조사</span><br>
-응답을 할 수 있는 설문지입니다.<br><br>
- <span class="item-title">설문지</span><br>
-설문지 미리보기 화면입니다.<br><br>
-<span class="item-title">빠른 IPA 분석</span><br>
-사전에 빠른 IPA 분석 설정한 경우만 생성이 됩니다. <br>
+
+### 메뉴/아이콘 설명
+  
+ 
+- #### Design<br>
+    설문 디자인 기본정보로 이동합니다.<br><br>
+- #### 설정<br>
+    설문조사 QR코드/URL 및 설문조사 정보를 확인하실 수 있습니다.<br><br>
+
+- #### 조사<br>
+    응답을 할 수 있는 설문지입니다.<br><br>
+
+- #### 설문지 
+    설문지 미리보기 화면입니다.<br><br>
+
+- #### 빠른 IPA 분석<br>
+    사전에 빠른 IPA 분석 설정한 경우만 생성이 됩니다. <br>
 아이콘을 클릭하시면, 설문조사 응답결과에 따른 IPA 분석을 확인하실 수있습니다. <br><br>
- <span class="item-title">결과</span><br>
-설문 응답결과를 실시간으로 확인하실 수 있습니다.<br><br> 
- <span class="item-title">분석</span><br>
-분석대상으로 등록하여 분석을 실시합니다. <br><br>
-</details>
+
+- #### 결과<br>
+    설문 응답결과를 실시간으로 확인하실 수 있습니다.<br><br> 
+
+- #### 분석<br>
+    분석대상으로 등록하여 분석을 실시합니다. <br><br>
 
 
-### 설문조사 진행 과정
-#### 설문배포
-설문 조사설정이 완료된 설문은 응답자에게 URL/QR 코드를 배포할 수 있습니다.   
+## 설문조사 진행 과정
+
+### 설문배포
+설문 조사설정이 완료된 설문은 응답자에게 URL/QR 코드를 배포할 수 있습니다.   
 URL/QR 코드는 현재 조사중인 설문에 해당 <strong>설문조사명</strong>을 클릭하면 다음과 같이 확인하실 수 있습니다.
+
 <center>
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/37e8f078-93b7-442a-a9e2-636adb4ec19c">
+<img width="800"alt="image"src="https://github.com/user-attachments/assets/37e8f078-93b7-442a-a9e2-636adb4ec19c">
 </center>
 
 #### 응답 수집
 설문조사에서 수집된 설문응답 정보는 <strong>결과</strong>에서 실시간으로 확인하실 수 있습니다.
+
 <center>
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/b719ca17-529f-4014-b089-eb5366aa76d8">
+<img width="800"alt="image"src="https://github.com/user-attachments/assets/b719ca17-529f-4014-b089-eb5366aa76d8">
 </center>
 </br>
 <div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
-   설문 조사가 끝났다면, 분석대상으로 등록하여 전처리 규칙을 연결하세요.
+설문 조사가 끝났다면, 분석대상으로 등록하여 전처리 규칙을 연결하세요.
 </div>
 </br>
+</br>  
 
-[[목차로 이동]](#index)
-</br>  
-
-</br>
