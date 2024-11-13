@@ -146,7 +146,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 ### 빠른 분석 
 빠른 분석 설정은 학습자 앞에서 데이터 분석 조건을 설정해 분석 결과 공유대상을 기다리게 하는 불편함을 없애기 위해 설문조사 전 단계에서 필요한 분석 조건을 설정하는 과정입니다.  
 <center>
-<img width="800 "alt="image" src="https://github.com/user-attachments/assets/a4ba50a7-e3a8-41a3-b8c0-1c8b8911506b">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/a4ba50a7-e3a8-41a3-b8c0-1c8b8911506b">
 </center>
 
 #### STEP 1. 설문조사 설정
