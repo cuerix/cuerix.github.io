@@ -155,6 +155,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/a4ba50a7-e3a8-41a3-b8c0-1c8b8911506b">
 </center>
+
 #### STEP 1. 설문조사 설정
       
 #### 설문조사 설정으로 이동  
