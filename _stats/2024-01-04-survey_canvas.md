@@ -142,11 +142,13 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/6b4a9639-a0de-4cbe-9989-e795de549222">
 </center>
+
 ### 빠른 분석 
 빠른 분석 설정은 학습자 앞에서 데이터 분석 조건을 설정해 분석 결과 공유대상을 기다리게 하는 불편함을 없애기 위해 설문조사 전 단계에서 필요한 분석 조건을 설정하는 과정입니다.  
 <center>
 <img width="800 "alt="image" src="https://github.com/user-attachments/assets/a4ba50a7-e3a8-41a3-b8c0-1c8b8911506b">
 </center>
+
 #### STEP 1. 설문조사 설정
       
 #### 설문조사 설정으로 이동<br>
@@ -174,6 +176,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 
 #### [분석모듈] 기술 통계 설정<br>
 기술 통계를 분석할 문항(열)을 선택하고 완료 버튼을 클릭합니다.<br>
+
           <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
        <strong>ℹ</strong> 기술통계는 숫자(단일선택/수치) 유형의 문항(열)만 선택하여 분석이 가능합니다. </strong>
        </div><br>
@@ -184,6 +187,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 ② 선행요인에 해당하는 문항을 선택하고 변수명을 입력합니다. <br>
 ③ 변수추가를 아이콘을 클릭하여 추가 선행요인 변수를 설정합니다.<br>
 ④ 모든 설정을 설정완료 버튼을 클릭합니다.<br>
+
 <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
        <strong>ℹ</strong>IPA 분석에서는 숫자(단일선택/수치) 유형의 문항(열)만 선택하여 분석이 가능합니다. </strong>
        </div><br>
@@ -215,13 +219,16 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 #### 문항 건너뛰기 설정<br>     
 설문 디자인 단계에서 문항 건너뛰기를 설정한 경우 사용여부를 묻습니다.<br><br>
 <br>
+
 <div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
 설문조사 설정을 완료하였으면, 설문조사에서 URL/QR를 배포하세요.
 </div>
+
 <br>
 <br>
 <div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
    설문조사 설정을 완료하였으면, 설문조사에서 URL/QR를 배포하세요.
 </div>
+
 <br>
 <br>
