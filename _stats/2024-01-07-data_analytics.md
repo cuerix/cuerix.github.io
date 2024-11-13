@@ -29,7 +29,7 @@ layout: post
 ###  STEP 1. 전처리 규칙 연결 (설문 응답정보) 
 다음은 응답자가 응답한 설문 조사 데이터에서 <strong>문자척도를 숫자척도를 변환</strong>하기 위한 설정으로 먼저 분석 대상 데이터로 등록 후, 전처리 규칙을 연결합니다. <br><br>
     
- #### 분석 대상 데이터로 등록</span><br>
+ #### 분석 대상 데이터로 등록<br>
     ① 설문조사 화면에서 '현재 조사중인 설문'의 해당 설문 우측에 있는 <strong>'분석'</strong> 아이콘을 클릭합니다. <br>
    <img width="800" alt="image" src="https://github.com/user-attachments/assets/289030e2-7059-4e34-93d0-1efb12dca158"> <br>
 ② 분석대상으로 등록할 <strong>데이터 제목</strong>을 입력하고 저장합니다.
@@ -39,7 +39,7 @@ layout: post
 데이터 기본정보에서 <strong>전처리 규칙 연결</strong>을 클릭합니다.<br>
    <img width="800" alt="image" src="https://github.com/user-attachments/assets/4b22c841-9d54-4d19-a26b-48305bc420e1"> <br><br>
 
-<span class="item-title">전처리 규칙 연결</span><br>
+#### 전처리 규칙 연결<br>
 ④ 데이터 전처리 규칙 연결에서 <strong>해당 전처리 규칙 이름</strong>을 클릭하고 <strong>규칙 적용</strong> 아이콘을 클릭합니다.
 
   <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
@@ -56,7 +56,7 @@ layout: post
 등록할 <strong>데이터 제목</strong>을 입력하고 <strong>데이터 내보내기</strong> 아이콘을 클릭합니다.  
 저장된 데이터는 데이터 분석 목록에서 확인하실 수 있습니다.
    <img width="800" alt="image" src="https://github.com/user-attachments/assets/a52db872-8fd4-413c-b387-62f8bb66ae5e"> <br><br>
-</details>
+
 
   ### STEP 2. Data Analzyer으로 이동
 <strong>Data Analzyer</strong>은 분석 대상 데이터를 활용하여 분석을 실시할 수있습니다. <br><br>
