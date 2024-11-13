@@ -9,6 +9,7 @@ layout: post
 
 데이터 분석과 맞춤형 서비스를 이용하시려면, 사이트에 가입하고 로그인한 후 플랜을 선택해 주세요.  
  이후 다양한 유료 기능과 고객 지원 서비스를 이용하실 수 있습니다.
+<html>
 <style>
   /* summary (제목) 스타일 */
   summary {
@@ -22,19 +23,16 @@ layout: post
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 0 10px rgba(0, 122, 204, 0.5); /* 파란색 그림자 추가 */
     margin: 0; /* 간격 제거 */
   }
-
   /* summary 마우스 호버 효과 */
   summary:hover {
     background-color: #d0e7ff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15), 0 0 15px rgba(0, 122, 204, 0.7); /* 파란색 그림자 더 강조 */
   }
-
   /* 펼쳐진 상태에서의 summary 스타일 */
   details[open] summary {
     background-color: #c9e0ff;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 0 10px rgba(0, 122, 204, 0.5); /* 펼쳐졌을 때도 파란색 그림자 */
   }
-
   /* details 내부 콘텐츠 스타일 */
   details .panel-content {
     margin: 0;
@@ -45,13 +43,6 @@ layout: post
   }
 </style>
 
-
-<style>
-  img {
-    width: 800px;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* 그림자를 더 진하게, 흐림 정도와 크기 증가 */
-  }
-</style>
 
 
 <details>
