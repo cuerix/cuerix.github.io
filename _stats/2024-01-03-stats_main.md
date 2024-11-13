@@ -16,7 +16,7 @@ layout: post
 <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/c231f6ef-ead3-4ad4-9221-4afa92d3c9bd"> 
 </center>
-</br>
+<br>
 
 
 ### 메뉴/아이콘 설명
@@ -31,7 +31,7 @@ layout: post
 - #### 데이터 분석 현황 <br>
     분석대상으로 등록된 데이터 현황을 확인할 수 있습니다.<br><br>
   </class>
-  </details>
+
 
 
 [[목차로 이동]](#index)
