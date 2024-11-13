@@ -13,10 +13,6 @@ layout: post
  </center>
 
 ### 데이터 분석 종류 설명
-<center>
-  <img src="/assets/stats/Tony Stark.png">
-</center>
-
 <table>
     <tr>
         <th>분석종류</th>
