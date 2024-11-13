@@ -29,7 +29,7 @@ layout: post
 ###  STEP 1. 전처리 규칙 연결 (설문 응답정보) 
 다음은 응답자가 응답한 설문 조사 데이터에서 <strong>문자척도를 숫자척도를 변환</strong>하기 위한 설정으로 먼저 분석 대상 데이터로 등록 후, 전처리 규칙을 연결합니다. <br><br>
     
- #### 분석 대상 데이터로 등록<br>
+ #### 분석 대상 데이터로 등록 <br>
     ① 설문조사 화면에서 '현재 조사중인 설문'의 해당 설문 우측에 있는 <strong>'분석'</strong> 아이콘을 클릭합니다. <br>
    <img width="800" alt="image" src="https://github.com/user-attachments/assets/289030e2-7059-4e34-93d0-1efb12dca158"> <br>
 ② 분석대상으로 등록할 <strong>데이터 제목</strong>을 입력하고 저장합니다.
