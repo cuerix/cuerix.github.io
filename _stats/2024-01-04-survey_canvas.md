@@ -12,6 +12,7 @@ layout: post
 </center>
 <br>
 <br>
+
 ### 설문지 만들기
    ① <strong>'새로 만들기'</strong> 아이콘을 클릭합니다. <br>
     <img width="800" alt="image" src="https://github.com/user-attachments/assets/7043dbc6-13e7-4369-9848-be6cd3fcfac0"> <br><br>
@@ -29,6 +30,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d20cd4b3-3845-4b02-afe2-5a5d0298cf9e">
 </center>
+
 ### 설문 도구 설정
 - #### 설명글
     설명글은 설문 문항과 관련된 추가 정보를 제공합니다.   <br>
@@ -67,6 +69,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 <br>
 [[목차로 이동]](#index)
 <br>
+
 ### 메뉴 / 아이콘 설명
 - #### 새로 만들기
      새로운 설문지를 생성합니다.<br>
@@ -99,8 +102,8 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 </center>
 <br>
 <br>
+
 ### 하위 메뉴 설명
-  
     
 - #### Survey Canvas<br>
   설문지 디자인을 할 수 있는 Survey Canvas로 이동합니다.<br>
@@ -125,6 +128,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 </center>
 <br>
      ℹ '문항간 건너뛰기' 사용 시, 건너뛴 문항은 결측치가 발생되므로 반드시 결측처리를 유념한 통계분석을 수행해야 합니다.
+     
 ### 문항간 건너뛰기 설정 방법
   ① <strong>경로 목록</strong>에서 경로명을 입력하고,<br>
    ②  <strong>경로 상세설정</strong>에서 출발 문항의 해당 척도를 선택 후, 도착 문항을 선택합니다.<br>
@@ -181,8 +185,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
        </div><br>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/6d058ff8-e71c-404a-8797-9bb9dd906c02">
   STEP 3. 설문 배포 설정 방법 
-  
-    
+      
 ① 다음과 같이 <strong>설문조사 정보를 입력</strong>하여 설정합니다.<br>
 ② 설문조사 정보를 모두 입력하고, <strong>조사를 진행합니다</strong>아이콘을 클릭합니다.<br>
     <img width="800" alt="image" src="https://github.com/user-attachments/assets/6b4a9639-a0de-4cbe-9989-e795de549222"><br>
