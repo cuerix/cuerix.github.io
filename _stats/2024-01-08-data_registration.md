@@ -26,6 +26,6 @@ layout: post
 
 
 [[목차로 이동]](#index)
-</br>  
-</br>  
+<br>  
+<br>  
 <br>  
