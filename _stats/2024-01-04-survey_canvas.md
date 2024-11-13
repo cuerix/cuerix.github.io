@@ -28,6 +28,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d20cd4b3-3845-4b02-afe2-5a5d0298cf9e">
 </center>
+
 ### 설문 도구 설정
 - #### 설명글
     설명글은 설문 문항과 관련된 추가 정보를 제공합니다.     
@@ -110,6 +111,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d92172c2-71ff-4f6e-964b-d8081eb8a4e5">
 </center>
+
 ### 하위 메뉴 설명
     - #### Survey Canvas  
   설문지 디자인을 할 수 있는 Survey Canvas로 이동합니다.  
@@ -125,7 +127,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
   설문지 템플릿으로 등록하여 사용할 수 있습니다.    
 - #### 폐기  
   설문지를 삭제합니다.  
-         
+        
   
 ## 문항 간 건너뛰기
 응답자가 특정 문항에 대한 답변을 건너뛰거나, 이전의 선택에 따라 다음에 보여질 문항을 조절할 수 있습니다.  
@@ -194,6 +196,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
        <strong>ℹ</strong>IPA 분석에서는 숫자(단일선택/수치) 유형의 문항(열)만 선택하여 분석이 가능합니다. </strong>
        </div>  
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/6d058ff8-e71c-404a-8797-9bb9dd906c02">
+
 #### STEP 3. 설문 배포 설정 방법 
       
 ① 다음과 같이 <strong>설문조사 정보를 입력</strong>하여 설정합니다.  
