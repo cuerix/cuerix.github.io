@@ -5,7 +5,6 @@ date: 2024-11-11
 category: stats
 layout: post
 ---
-# STATS 메인 
 
 <strong>Stats 메인 페이지</strong>에서는 현재 진행 중인 <strong>'설문조사'</strong>와<strong> '데이터 분석'</strong> 현황을 확인할 수 있습니다.  
 또한, 설문지와 문항을 검색하여 원하는 설문지를 쉽게 찾을 수 있습니다.  
