@@ -17,21 +17,10 @@ layout: post
 </center>
 <br>
 
-<style>
-  summary {
-    font-weight: bold;
-    font-size: 1.2em;
-    background-color: #e6f0ff;
-    color: #333;
-    padding: 15px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 0 10px rgba(0, 122, 204, 0.5);
-    margin: 0; 
-  }
-</style>
-  
+
  
 
-  <summary>메뉴/아이콘 설명</summary>
+#### ✔️메뉴/아이콘 설명
   
 -  ##### 설문지/문항 검색   
     찾고자하는 설문지를 검색할 수 있습니다.  
