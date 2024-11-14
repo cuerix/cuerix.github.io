@@ -25,21 +25,22 @@ layout: post
 
 
 
-#####  STEP 1. 전처리 규칙 연결 (설문 응답정보) 
-다음은 응답자가 응답한 설문 조사 데이터에서 <strong>문자척도를 숫자척도를 변환</strong>하기 위한 설정으로 먼저 분석 대상 데이터로 등록 후, 전처리 규칙을 연결합니다. <br><br>
+
+#####  ![image](https://github.com/user-attachments/assets/9c8492a7-4a6f-47ff-99c3-660c10952102) 전처리 규칙 연결 (설문 응답정보) 
+설문 조사 데이터를 분석대상으로 등록 후, 전처리 규칙을 연결합니다. <br><br>
     
 ##### 분석 대상 데이터로 등록   
-① 설문조사 화면에서 '현재 조사중인 설문'의 해당 설문 우측에 있는 <strong>'분석'</strong> 아이콘을 클릭합니다.  
+➊ 설문조사 화면에서 '현재 조사중인 설문'의 해당 설문 우측에 있는 <strong>'분석'</strong> 아이콘을 클릭합니다.  
    <img width="800" alt="image" src="https://github.com/user-attachments/assets/289030e2-7059-4e34-93d0-1efb12dca158">   
-② 분석대상으로 등록할 <strong>데이터 제목</strong>을 입력하고 저장합니다.
+➋ 분석대상으로 등록할 <strong>데이터 제목</strong>을 입력하고 저장합니다.
    <img width="800" alt="image" src="https://github.com/user-attachments/assets/e61373f8-6dbb-4098-bd36-414ad75c6916">   
 
-③ 저장된 데이터는 <strong>데이터 기본정보</strong>로 이동합니다.   
+➌ 저장된 데이터는 <strong>데이터 기본정보</strong>로 이동합니다.   
 데이터 기본정보에서 <strong>전처리 규칙 연결</strong>을 클릭합니다.  
    <img width="800" alt="image" src="https://github.com/user-attachments/assets/4b22c841-9d54-4d19-a26b-48305bc420e1">   
 
 ##### 전처리 규칙 연결  
-④ 데이터 전처리 규칙 연결에서 <strong>해당 전처리 규칙 이름</strong>을 클릭하고 <strong>규칙 적용</strong> 아이콘을 클릭합니다.
+➊ 데이터 전처리 규칙 연결에서 <strong>해당 전처리 규칙 이름</strong>을 클릭하고 <strong>규칙 적용</strong> 아이콘을 클릭합니다.
   
   <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
        <strong> ℹ️</strong> 설문디자인에서 설정한 문항들이 <strong>척도찾기 예제</strong>를 활용하였다면,  큐릭스에서 제공하는 <strong>‘데이터 전처리 기본규칙’</strong>을 연결할 수 있습니다.</strong> <br> 만약 <strong>척도입력</strong>을 통해 문항을 설정하였다면, <strong>데이터 전처리에서 규칙을 등록</strong>하셔야합니다. <br> <span style="color:red"> &#8251; 전치리 규칙에 대한 자세한 설명은 <strong>'데이터 전처리 규칙'</strong>에서 확인하세요. </span>
@@ -50,10 +51,10 @@ layout: post
   
 
 
-⑤ 전처리 규칙 연결 여부를 묻는 질문으로서, 연결하고자 하는 전처리 규칙이 해당 척도와 일치하는지 재확인 후, <strong>적용</strong> 아이콘을 클릭합니다.
+➋ 전처리 규칙 연결 여부를 묻는 질문으로서, 연결하고자 하는 전처리 규칙이 해당 척도와 일치하는지 재확인 후, <strong>적용</strong> 아이콘을 클릭합니다.
    <img width="800" alt="image" src="https://github.com/user-attachments/assets/fe441258-4e6d-425b-9cfc-9e574d9c6341"> <br><br>
 
-⑥ 분석대상으로 등록된 데이터에 전처리 규칙을 연결한 후 다른이름으로 저장합니다.  
+➌ 분석대상으로 등록된 데이터에 전처리 규칙을 연결한 후 다른이름으로 저장합니다.  
 등록할 <strong>데이터 제목</strong>을 입력하고 <strong>데이터 내보내기</strong> 아이콘을 클릭합니다.  
 저장된 데이터는 데이터 분석 목록에서 확인하실 수 있습니다.
    <img width="800" alt="image" src="https://github.com/user-attachments/assets/a52db872-8fd4-413c-b387-62f8bb66ae5e">   
