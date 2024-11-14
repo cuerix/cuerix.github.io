@@ -16,7 +16,7 @@ layout: post
 <strong>ℹ️</strong>사용자는 등간 척도 등 점수 척도가 필요한 경우, 반드시 <strong>[기본규칙 가져오기]</strong>를 통해 전처리 기본규칙을 생성한 후, 설문지를 디자인해야 합니다. 기본규칙 외에 별도의 점수 척도 변환이 필요한 경우, 해당 척도를 척도 셋에 등록한 후 설문지를 디자인하십시오. <span style="color:red">&#8251;설문지 디자인에 사용한 척도 셋과 전처리 규칙에 등록된 척도 셋이 일치해야만 문자 척도를 점수 척도로 전환할 수 있습니다. </span> </div>
          
 
-  <center>
+<center>
 <div style="border: 1px solid grey; width: fit-content;">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/f8925c60-f849-4719-964b-23815b377d15">
 </div>
