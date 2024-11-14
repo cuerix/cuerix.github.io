@@ -38,7 +38,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d20cd4b3-3845-4b02-afe2-5a5d0298cf9e">
 </center>
 
-콘
+#### ✔️ 메뉴 / 아이콘 설명
 - ##### 문항 목록
      디자인한 설문 문항 목록 리스트입니다.
     
@@ -56,7 +56,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/3e6935f1-7b4d-4ca0-952a-f165abd6b120">
  
     
-##### 메뉴 / 아이콘 설명
+#### ✔️ 메뉴 / 아이콘 설명
 - ##### 새로 만들기
      새로운 설문지를 생성합니다.  
 - ##### 새로고침  
@@ -94,7 +94,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d92172c2-71ff-4f6e-964b-d8081eb8a4e5">
 </center>
 
-#### 하위 메뉴 설명
+#### ✔️하위 메뉴 설명
 - ##### Survey Canvas  
   설문지 디자인을 할 수 있는 Survey Canvas로 이동합니다.  
 - ##### 상세 보기  
@@ -124,7 +124,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
      ℹ '문항간 건너뛰기' 사용 시, 건너뛴 문항은 결측치가 발생되므로 반드시 결측처리를 유념한 통계분석을 수행해야 합니다.
   </div>   
 
-#### 문항간 건너뛰기 설정 방법
+#### ✔️ 문항간 건너뛰기 설정 방법
   ➊ <strong>경로 목록</strong>에서 경로명을 입력하고,  
   ➋  <strong>경로 상세설정</strong>에서 출발 문항의 해당 척도를 선택 후, 도착 문항을 선택합니다.  
   ➌  <strong>경로 구조설정</strong>에서 설정할 경로구조명을 선택/추가하여 적용 아이콘을 클릭합니다.  
@@ -144,7 +144,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/a4ba50a7-e3a8-41a3-b8c0-1c8b8911506b">
 </center>
 
-##### STEP 1. 설문조사 설정  
+#### ✔️ STEP 1. 설문조사 설정  
 ##### 설문조사 설정으로 이동  
 설문지 디자인을 완료하였으면 다음과 같이 설정합니다.  
 ➊ 설문지 기본정보 하위메뉴에서  <strong>설문조사 설정</strong>을 클릭합니다.    
@@ -153,12 +153,12 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
              <img width="800" alt="image" src="https://github.com/user-attachments/assets/f65fcd8e-94e9-40fa-872d-81558bd7a8e0">
              
    
-##### STEP 2. 빠른 IPA 설정 (선택)   
+#### ✔️ STEP 2. 빠른 IPA 설정 (선택)   
 ##### 빠른분석 설정화면으로 이동  
 설문조사 정보에서 우측 <strong>빠른분석 설정</strong>아이콘을 클릭합니다.    
        <img width="800" alt="image" src="https://github.com/user-attachments/assets/daca7054-c87b-410e-9158-ea8d630d2411">  
        
-#### 빠른분석 설정  
+##### 빠른분석 설정  
 ➊ 빠른 분석 사용여부에 <strong>사용</strong>을 선택합나다.   
 ➋ <strong>분석 데이터 제목</strong>입력합니다.  
 ➌ <strong>전처리 규칙</strong>을 연결합니다.        
@@ -184,7 +184,8 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
        <strong>ℹ</strong>IPA 분석에서는 숫자(단일선택/수치) 유형의 문항(열)만 선택하여 분석이 가능합니다. </strong>
        </div>  
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/6d058ff8-e71c-404a-8797-9bb9dd906c02">
-##### STEP 3. 설문 배포 설정 방법 
+
+##### ✔️STEP 3. 설문 배포 설정 방법 
       
 ➊ 다음과 같이 <strong>설문조사 정보를 입력</strong>하여 설정합니다.  
 ➋ 설문조사 정보를 모두 입력하고, <strong>조사를 진행합니다</strong>아이콘을 클릭합니다.  
