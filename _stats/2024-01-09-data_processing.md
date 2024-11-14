@@ -28,10 +28,10 @@ layout: post
 ##### 새로고침  
 동기화 기능입니다.
 
-  
-<div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
-등록한 전처리 규칙을 분석 대상 데이터에 연결하세요 .
+ <div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
+ 💡 등록한 전처리 규칙을 분석 대상 데이터에 연결하세요.
 </div>
+
 
 ### 전처리 규칙 등록
 전처리 규칙 등록에서는 해당 문항에 대한 결측치 처리 및 문자척도를 숫자척도로 전환하여 원활한 데이터 분석을 실시 할수 있습니다.
