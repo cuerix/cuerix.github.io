@@ -13,17 +13,17 @@ layout: post
   
 #### 설문지 만들기
    ➊ <strong>'새로 만들기'</strong> 아이콘을 클릭합니다.   
-    <div style="box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.3); width: fit-content;">
+    <div style="border: 1px solid grey; width: fit-content;">
     <img width="800" alt="image" src="https://github.com/user-attachments/assets/7043dbc6-13e7-4369-9848-be6cd3fcfac0">     
    </div>  
    
    ➋ 설문지 이름을 입력하고 확인을 클릭합니다.
-   <div style="box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.3); width: fit-content;">
+      <div style="border: 1px solid grey; width: fit-content;">
      <img width="800" alt="image" src="https://github.com/user-attachments/assets/64395101-ad82-4dfc-8ee2-6843d20edc1b"> 
    </div>  
    
    ➌ 설문도구 활용한 설문지 작성을 위해 <strong>Survey Canvas</strong> 아이콘을 클릭하여 이동합니다.  
-   <div style="box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.3); width: fit-content;">
+    <div style="border: 1px solid grey; width: fit-content;">
      <img width="800" alt="image" src="https://github.com/user-attachments/assets/d33d1c3d-e7fd-4893-a17e-3350e53f478c">  
    </div>
    
