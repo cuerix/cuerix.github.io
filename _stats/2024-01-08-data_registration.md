@@ -16,7 +16,7 @@ layout: post
 분석 대상 데이터 제목을 입력하고, 스프레드시트 파일(.xlsx)를 업로드하여 등록합니다.<br>
 
 <div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
- 등록한 데이터를 분석하려면 '데이터 분석'에서 Data Analyzer로 이동하세요.
+ 💡 등록한 데이터를 분석하려면 '데이터 분석'에서 Data Analyzer로 이동하세요.
 </div>
 
 
