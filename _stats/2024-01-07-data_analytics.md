@@ -54,7 +54,7 @@ layout: post
 ➊ 데이터 전처리 규칙 연결에서 <strong>해당 전처리 규칙 이름</strong>을 클릭하고 <strong>규칙 적용</strong> 아이콘을 클릭합니다.
   
   <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
-       <strong> ℹ️</strong> 설문디자인에서 설정한 문항들이 <strong>척도찾기 예제</strong>를 활용하였다면,  큐릭스에서 제공하는 <strong>‘데이터 전처리 기본규칙’</strong>을 연결할 수 있습니다. <br> 만약 <strong>척도입력</strong>을 통해 문항을 설정하였다면, <strong>데이터 전처리에서 규칙을 등록</strong>하셔야합니다. <br> <span style="color:red"> &#8251; 전치리 규칙에 대한 자세한 설명은 <a href="https://cuerix.github.io/stats/2024-01-09-data_processing" target="_blank" style="color: #0066cc;>'데이터 전처리 규칙'</a>에서 확인하세요. </span>
+       <strong> ℹ️</strong> 설문디자인에서 설정한 문항들이 <strong>척도찾기 예제</strong>를 활용하였다면,  큐릭스에서 제공하는 <strong>‘데이터 전처리 기본규칙’</strong>을 연결할 수 있습니다. <br> 만약 <strong>척도입력</strong>을 통해 문항을 설정하였다면, <strong>데이터 전처리에서 규칙을 등록</strong>하셔야합니다. <br> <span style="color:red"> &#8251; 전치리 규칙에 대한 자세한 설명은 <a href="https://cuerix.github.io/stats/2024-01-09-data_processing" target="_blank" style="color: #0066cc;">'데이터 전처리 규칙'</a>에서 확인하세요. </span>
   </div>    
 <br>
            
