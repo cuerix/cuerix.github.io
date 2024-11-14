@@ -26,7 +26,7 @@ layout: post
 
 
 
-####  STEP 1. 전처리 규칙 연결 (설문 응답정보) 
+#####  STEP 1. 전처리 규칙 연결 (설문 응답정보) 
 다음은 응답자가 응답한 설문 조사 데이터에서 <strong>문자척도를 숫자척도를 변환</strong>하기 위한 설정으로 먼저 분석 대상 데이터로 등록 후, 전처리 규칙을 연결합니다. <br><br>
     
  ##### 분석 대상 데이터로 등록   
@@ -35,11 +35,11 @@ layout: post
 ② 분석대상으로 등록할 <strong>데이터 제목</strong>을 입력하고 저장합니다.
    <img width="800" alt="image" src="https://github.com/user-attachments/assets/e61373f8-6dbb-4098-bd36-414ad75c6916">   
 
-③ 저장된 데이터는 <strong>데이터 기본정보</strong>로 이동합니다. <br>
-데이터 기본정보에서 <strong>전처리 규칙 연결</strong>을 클릭합니다.<br>
+③ 저장된 데이터는 <strong>데이터 기본정보</strong>로 이동합니다.   
+데이터 기본정보에서 <strong>전처리 규칙 연결</strong>을 클릭합니다.  
    <img width="800" alt="image" src="https://github.com/user-attachments/assets/4b22c841-9d54-4d19-a26b-48305bc420e1">   
 
-##### 전처리 규칙 연결<br>
+##### 전처리 규칙 연결  
 ④ 데이터 전처리 규칙 연결에서 <strong>해당 전처리 규칙 이름</strong>을 클릭하고 <strong>규칙 적용</strong> 아이콘을 클릭합니다.
 
   <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
@@ -66,8 +66,8 @@ layout: post
 '데이터 기본 정보' 우측 <strong>하위 메뉴</strong>에서 <strong>Data Analzyer</strong> 아이콘을 클릭하여 이동합니다.  
       <img width="800" alt="image" src="https://github.com/user-attachments/assets/708c1ed0-14c4-4c09-8305-e84e9bd08bae">   
 
-#### 메뉴/아이콘 설명
-- ###### 큐릭스 설문조사 응답정보
+##### 메뉴/아이콘 설명
+- ##### 큐릭스 설문조사 응답정보
      설문조사를 통한 응답된 데이터입니다.  
 - ##### 스프레드시트 파일 업로드 데이터
     데이터 등록에서 등록된 데이터입니다.  
@@ -78,7 +78,7 @@ layout: post
 - ##### 데이터 기본정보
      데이터명을 클릭하면 데이터 기본정보로 안내합니다. 설문 기본정보는 데이터 등록일, 데이터 유형을 제공하고, 설문조사 응답정보 데이터인 경우, 설문배포 정보를 제공합니다. 또한, 전처리 규칙을 연결하여 데이터 분석을 할 수 있는 Data Analzyer로 이동합니다.  
 
-## 데이터 기본정보
+### 데이터 기본정보
 데이터 분석 화면에서 데이터명을 클릭하면 데이터 기본정보로 이동합니다.   
 데이터 기본정보에서는 전처리 규칙을 연결하여 Data Analyzer로 이동하여 데이터 분석을 수행할 수 있습니다.
 
@@ -87,7 +87,7 @@ layout: post
 </center>
 <br>  
 
-#### 하위 메뉴 설명
+##### 하위 메뉴 설명
 ##### 데이터 보기/편집
     사용자가 선택한 데이터를 다른 이름으로 저장, 다운로드 할 수 있고, 데이터 셀 단위의 수정을 수행할 수 있습니다. 데이터의 변경이 있는 경우 새 이름으로 저장해 원본 데이터를 보호하십시오. <br><br>
 
