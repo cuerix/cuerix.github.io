@@ -37,7 +37,9 @@ layout: post
 Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 있으며, 더 상세한 설정은 설정 가능을 활용하세요.
   
 <center>
+<div style="border: 1px solid grey; width: fit-content;">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d20cd4b3-3845-4b02-afe2-5a5d0298cf9e">
+</div>
 </center>
 
 #### ✔️ 메뉴 / 아이콘 설명
@@ -158,16 +160,22 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 ##### 설문조사 설정으로 이동  
 설문지 디자인을 완료하였으면 다음과 같이 설정합니다.  
 ➊ 설문지 기본정보 하위메뉴에서  <strong>설문조사 설정</strong>을 클릭합니다.    
- <img width="800" alt="image" src="https://github.com/user-attachments/assets/16aa7654-adec-4259-9997-e59f50817ec6">    
+<div style="border: 1px solid grey; width: fit-content;">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/16aa7654-adec-4259-9997-e59f50817ec6">    
+</div>  
+
 ➋ 설문 진행을 위해 <strong>확인</strong>을 클릭합니다.  
-             <img width="800" alt="image" src="https://github.com/user-attachments/assets/f65fcd8e-94e9-40fa-872d-81558bd7a8e0">
-             
+<div style="border: 1px solid grey; width: fit-content;">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/f65fcd8e-94e9-40fa-872d-81558bd7a8e0">
+</div>             
    
 #### ✔️ STEP 2. 빠른 IPA 설정 (선택)   
 ##### 빠른분석 설정화면으로 이동  
 설문조사 정보에서 우측 <strong>빠른분석 설정</strong>아이콘을 클릭합니다.    
-       <img width="800" alt="image" src="https://github.com/user-attachments/assets/daca7054-c87b-410e-9158-ea8d630d2411">  
-       
+<div style="border: 1px solid grey; width: fit-content;">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/daca7054-c87b-410e-9158-ea8d630d2411">  
+</div>  
+
 ##### 빠른분석 설정  
 ➊ 빠른 분석 사용여부에 <strong>사용</strong>을 선택합나다.   
 ➋ <strong>분석 데이터 제목</strong>입력합니다.  
@@ -184,9 +192,12 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 기술 통계를 분석할 문항(열)을 선택하고 완료 버튼을 클릭합니다.    
 <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
        <strong>ℹ</strong> 기술통계는 숫자(단일선택/수치) 유형의 문항(열)만 선택하여 분석이 가능합니다. </strong>
-       </div>  
-       <img width="800" alt="image" src="https://github.com/user-attachments/assets/27516d09-a07f-4776-80e7-ae062d554767">      
-       
+       </div>    
+ 
+ <div style="border: 1px solid grey; width: fit-content;">
+ <img width="800" alt="image" src="https://github.com/user-attachments/assets/27516d09-a07f-4776-80e7-ae062d554767">      
+ </div>    
+ 
 ##### [분석모듈] IPA 분석 설정  
 ➊ 설문디자인 단계에서 결과변수로 설정한 문항을 선택하고 변수명을 입력합니다.  
 ➋ 선행요인에 해당하는 문항을 선택하고 변수명을 입력합니다.  
@@ -195,11 +206,15 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
        <strong>ℹ</strong>IPA 분석에서는 숫자(단일선택/수치) 유형의 문항(열)만 선택하여 분석이 가능합니다. </strong>
        </div>  
+
+<div style="border: 1px solid grey; width: fit-content;">    
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/6d058ff8-e71c-404a-8797-9bb9dd906c02">
+</div>
 
 ##### ✔️STEP 3. 설문 배포 설정 방법   
 ➊ 다음과 같이 <strong>설문조사 정보를 입력</strong>하여 설정합니다.  
 ➋ 설문조사 정보를 모두 입력하고, <strong>조사를 진행합니다</strong>아이콘을 클릭합니다.  
+
 <div style="border: 1px solid grey; width: fit-content;">
     <img width="800" alt="image" src="https://github.com/user-attachments/assets/6b4a9639-a0de-4cbe-9989-e795de549222">  
 </div>       
