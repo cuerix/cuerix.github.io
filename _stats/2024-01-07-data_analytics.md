@@ -12,11 +12,12 @@ layout: post
 
 
 <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
-       <strong> ℹ️ 분석대상으로 등록된 데이터와 통계분석 목적에 따라 전처리 또는 다른 이름으로 저장한 데이터 목록이 혼재되어 있습니다.  
+       <strong> ℹ️ </strong> 분석대상으로 등록된 데이터와 통계분석 목적에 따라 전처리 또는 다른 이름으로 저장한 데이터 목록이 혼재되어 있습니다.  
 분석 대상 데이터는 원칙적으로 데이터 분석을 즉시 수행할 수 있습니다.
-그런데 설문조사 데이터는 설문지에 노출된 척도를 그대로 수집하므로 대부분 문자 척도를 포함할 가능성이 높습니다. 문자척도는 기술통계 등 통계분석 대상이 아닙니다.  </strong>
+그런데 설문조사 데이터는 설문지에 노출된 척도를 그대로 수집하므로 대부분 문자 척도를 포함할 가능성이 높습니다. 문자척도는 기술통계 등 통계분석 대상이 아닙니다. 
 </div>  
-  
+
+    
 
 <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/031b3002-62b4-41bc-9f7b-a00a68deccab">  
