@@ -12,11 +12,11 @@ layout: post
 </center>  
   
 #### 설문지 만들기
-   ① <strong>'새로 만들기'</strong> 아이콘을 클릭합니다.   
+   ➊ <strong>'새로 만들기'</strong> 아이콘을 클릭합니다.   
     <img width="800" alt="image" src="https://github.com/user-attachments/assets/7043dbc6-13e7-4369-9848-be6cd3fcfac0">     
-   ② 설문지 이름을 입력하고 확인을 클릭합니다.
+   ➋ 설문지 이름을 입력하고 확인을 클릭합니다.
     <img width="800" alt="image" src="https://github.com/user-attachments/assets/64395101-ad82-4dfc-8ee2-6843d20edc1b">     
-   ③ 설문도구 활용한 설문지 작성을 위해 <strong>Survey Canvas</strong> 아이콘을 클릭하여 이동합니다.  
+   ➌ 설문도구 활용한 설문지 작성을 위해 <strong>Survey Canvas</strong> 아이콘을 클릭하여 이동합니다.  
    <img width="800" alt="image" src="https://github.com/user-attachments/assets/d33d1c3d-e7fd-4893-a17e-3350e53f478c">    
           
        
@@ -28,9 +28,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d20cd4b3-3845-4b02-afe2-5a5d0298cf9e">
 </center>
-
 #### 설문 도구 설정
-
 - ##### 설명글
     설명글은 설문 문항과 관련된 추가 정보를 제공합니다.     
 주로 설문지 안내사항이나 응답자에 대한 감사 메시지 등을 포함하여 설문을 이해하는 데 도움을 주거나 배경 정보를 전달합니다.
@@ -60,7 +58,6 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
     디자인 설정에서는 응답유형, 캔버스 여백, 문항 간 간격, 표지, 로고 이미지 추가 등 설문지 디자인 설정할 수 있습니다.
     
 #### 메뉴/아이콘 설명
-
 - ##### 문항 목록
      디자인한 설문 문항 목록 리스트입니다.
     
@@ -72,8 +69,8 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
   
 #### 문항 등록 하기 
 문항을 등록하려면,   
-①상단에 위치한 <strong>설문 도구 설정</strong>아이콘을 클릭하거나,   
-②좌측에서 <strong>문항 목록</strong>을 클릭한 후 도구 설정에서 원하는 항목을 선택하여 등록하실 수 있습니다.  
+➊상단에 위치한 <strong>설문 도구 설정</strong>아이콘을 클릭하거나,   
+➋좌측에서 <strong>문항 목록</strong>을 클릭한 후 도구 설정에서 원하는 항목을 선택하여 등록하실 수 있습니다.  
 보다 자세한 설문 도구설정 방법은 <strong>'설문도구 설정'</strong>을 참조하세요.
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/3e6935f1-7b4d-4ca0-952a-f165abd6b120">
     설문지 디자인을 완료하였으면, 설문지 디자인 기본정보로 이동해</strong>설문조사 설정을 하세요.
@@ -81,7 +78,6 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 [[목차로 이동]](#index)
   
 #### 메뉴 / 아이콘 설명
-
 - ##### 새로 만들기
      새로운 설문지를 생성합니다.  
 - ##### 새로고침  
@@ -115,7 +111,6 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
   
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d92172c2-71ff-4f6e-964b-d8081eb8a4e5">
 </center>
-
 #### 하위 메뉴 설명
 - ##### Survey Canvas  
   설문지 디자인을 할 수 있는 Survey Canvas로 이동합니다.  
@@ -142,9 +137,9 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
      ℹ '문항간 건너뛰기' 사용 시, 건너뛴 문항은 결측치가 발생되므로 반드시 결측처리를 유념한 통계분석을 수행해야 합니다.
      
 #### 문항간 건너뛰기 설정 방법
-  ① <strong>경로 목록</strong>에서 경로명을 입력하고,  
-   ②  <strong>경로 상세설정</strong>에서 출발 문항의 해당 척도를 선택 후, 도착 문항을 선택합니다.  
-    ③  <strong>경로 구조설정</strong>에서 설정할 경로구조명을 선택/추가하여 적용 아이콘을 클릭합니다.  
+  ➊ <strong>경로 목록</strong>에서 경로명을 입력하고,  
+   ➋  <strong>경로 상세설정</strong>에서 출발 문항의 해당 척도를 선택 후, 도착 문항을 선택합니다.  
+    ➌  <strong>경로 구조설정</strong>에서 설정할 경로구조명을 선택/추가하여 적용 아이콘을 클릭합니다.  
        
 ### 설문조사 설정
 <strong>설문조사 설정</strong>은 디자인한 설문지를 바탕으로 설문조사를 진행하기 위한 설정 과정입니다.  
@@ -154,20 +149,18 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/6b4a9639-a0de-4cbe-9989-e795de549222">
 </center>
-
 #### 빠른 분석 
 빠른 분석 설정은 학습자 앞에서 데이터 분석 조건을 설정해 분석 결과 공유대상을 기다리게 하는 불편함을 없애기 위해 설문조사 전 단계에서 필요한 분석 조건을 설정하는 과정입니다.  
 <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/a4ba50a7-e3a8-41a3-b8c0-1c8b8911506b">
 </center>
-
 ##### STEP 1. 설문조사 설정
       
 ##### 설문조사 설정으로 이동  
 설문지 디자인을 완료하였으면 다음과 같이 설정합니다.  
-①설문지 기본정보 하위메뉴에서  <strong>설문조사 설정</strong>을 클릭합니다.    
+➊ 설문지 기본정보 하위메뉴에서  <strong>설문조사 설정</strong>을 클릭합니다.    
  <img width="800" alt="image" src="https://github.com/user-attachments/assets/16aa7654-adec-4259-9997-e59f50817ec6">    
-②설문 진행을 위해 <strong>확인</strong>을 클릭합니다.  
+➋ 설문 진행을 위해 <strong>확인</strong>을 클릭합니다.  
              <img width="800" alt="image" src="https://github.com/user-attachments/assets/f65fcd8e-94e9-40fa-872d-81558bd7a8e0">
              
    
@@ -178,37 +171,35 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
        <img width="800" alt="image" src="https://github.com/user-attachments/assets/daca7054-c87b-410e-9158-ea8d630d2411">  
        
 #### 빠른분석 설정  
-① 빠른 분석 사용여부에 <strong>사용</strong>을 선택합나다.   
-② <strong>분석 데이터 제목</strong>입력합니다.  
-③ <strong>전처리 규칙</strong>을 연결합니다.        
+➊ 빠른 분석 사용여부에 <strong>사용</strong>을 선택합나다.   
+➋ <strong>분석 데이터 제목</strong>입력합니다.  
+➌ <strong>전처리 규칙</strong>을 연결합니다.        
   <strong>ℹ</strong>설문디자인에서 설정한 문항들이 <strong>척도찾기 예제</strong>를 활용하였다면,  큐릭스에서 제공하는 <strong>‘데이터 전처리 기본규칙’</strong>을 연결할 수 있습니다.</strong>  만약 <strong>척도입력</strong>을 통해 문항을 설정하였다면, <strong>데이터 전처리에서 규칙을 등록</strong>하셔야합니다.   
   <span style="color:red">&#8251;전치리 규칙에 대한 자세한 설명은 <strong>'데이터 전처리 규칙'</strong>에서 확인하세요.    
-④ 분석할 <strong>분석모듈</strong>을 체크하고<strong>설정사항 보기</strong>아이콘을 클릭합니다.    
-⑤ 설정을 완료하였으면 <strong>확인</strong>버튼을 누릅니다.  
+➍ 분석할 <strong>분석모듈</strong>을 체크하고<strong>설정사항 보기</strong>아이콘을 클릭합니다.    
+➎ 설정을 완료하였으면 <strong>확인</strong>버튼을 누릅니다.  
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/a4ba50a7-e3a8-41a3-b8c0-1c8b8911506b">  
   
 ##### [분석모듈] 기술 통계 설정  
 기술 통계를 분석할 문항(열)을 선택하고 완료 버튼을 클릭합니다.    
-
 <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
        <strong>ℹ</strong> 기술통계는 숫자(단일선택/수치) 유형의 문항(열)만 선택하여 분석이 가능합니다. </strong>
        </div>  
        <img width="800" alt="image" src="https://github.com/user-attachments/assets/27516d09-a07f-4776-80e7-ae062d554767">      
        
 ##### [분석모듈] IPA 분석 설정  
-① 설문디자인 단계에서 결과변수로 설정한 문항을 선택하고 변수명을 입력합니다.  
-② 선행요인에 해당하는 문항을 선택하고 변수명을 입력합니다.  
-③ 변수추가를 아이콘을 클릭하여 추가 선행요인 변수를 설정합니다.  
-④ 모든 설정을 설정완료 버튼을 클릭합니다.  
+➊ 설문디자인 단계에서 결과변수로 설정한 문항을 선택하고 변수명을 입력합니다.  
+➋ 선행요인에 해당하는 문항을 선택하고 변수명을 입력합니다.  
+➌ 변수추가를 아이콘을 클릭하여 추가 선행요인 변수를 설정합니다.  
+➍ 모든 설정을 설정완료 버튼을 클릭합니다.  
 <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
        <strong>ℹ</strong>IPA 분석에서는 숫자(단일선택/수치) 유형의 문항(열)만 선택하여 분석이 가능합니다. </strong>
        </div>  
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/6d058ff8-e71c-404a-8797-9bb9dd906c02">
-
 ##### STEP 3. 설문 배포 설정 방법 
       
-① 다음과 같이 <strong>설문조사 정보를 입력</strong>하여 설정합니다.  
-② 설문조사 정보를 모두 입력하고, <strong>조사를 진행합니다</strong>아이콘을 클릭합니다.  
+➊ 다음과 같이 <strong>설문조사 정보를 입력</strong>하여 설정합니다.  
+➋ 설문조사 정보를 모두 입력하고, <strong>조사를 진행합니다</strong>아이콘을 클릭합니다.  
     <img width="800" alt="image" src="https://github.com/user-attachments/assets/6b4a9639-a0de-4cbe-9989-e795de549222">  
        
 ##### 설문 조사명       
@@ -235,5 +226,4 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 <div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
 설문조사 설정을 완료하였으면, 설문조사에서 URL/QR를 배포하세요.
 </div>
-
   
