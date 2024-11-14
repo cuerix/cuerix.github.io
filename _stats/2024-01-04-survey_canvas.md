@@ -13,11 +13,20 @@ layout: post
   
 #### 설문지 만들기
    ➊ <strong>'새로 만들기'</strong> 아이콘을 클릭합니다.   
+    <div style="box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.3); width: fit-content;">
     <img width="800" alt="image" src="https://github.com/user-attachments/assets/7043dbc6-13e7-4369-9848-be6cd3fcfac0">     
+   </div>  
+   
    ➋ 설문지 이름을 입력하고 확인을 클릭합니다.
-    <img width="800" alt="image" src="https://github.com/user-attachments/assets/64395101-ad82-4dfc-8ee2-6843d20edc1b">     
+   <div style="box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.3); width: fit-content;">
+     <img width="800" alt="image" src="https://github.com/user-attachments/assets/64395101-ad82-4dfc-8ee2-6843d20edc1b"> 
+   </div>  
+   
    ➌ 설문도구 활용한 설문지 작성을 위해 <strong>Survey Canvas</strong> 아이콘을 클릭하여 이동합니다.  
-   <img width="800" alt="image" src="https://github.com/user-attachments/assets/d33d1c3d-e7fd-4893-a17e-3350e53f478c">    
+   <div style="box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.3); width: fit-content;">
+     <img width="800" alt="image" src="https://github.com/user-attachments/assets/d33d1c3d-e7fd-4893-a17e-3350e53f478c">  
+   </div>
+   
           
        
 ### Survey Canvas  
@@ -106,11 +115,14 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 ### 설문지 디자인 기본정보   
 설문지 디자인 기본정보는 권한(플랜), 설문지 이름, 생성일, 디자인 진행상태 정보를 제공합니다.     
                                                                                                                             
-        ℹ 설문지 디자인 진행상태에서 <strong>Complete 상태인 설문지</strong>는 '설문조사' 메뉴에 <strong>설문조사가 가능한 설문</strong>으로 표시되며, 설문지 배포를 위한 <strong> URL/QR코드</strong>를 생성할 수 있습니다. <strong><span style="color:blue"> 빠른 IPA 분석 설정과 문항 간 건너뛰기 설정 또한 Complete 상태를 원칙</strong>으로 합니다. 
-<center>   
+ <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
+    <strong> ℹ️ </strong> 설문지 디자인 진행상태에서 <strong>Complete 상태인 설문지</strong>는 '설문조사' 메뉴에 <strong>설문조사가 가능한 설문</strong>으로 표시되며, 설문지 배포를 위한 <strong> URL/QR코드</strong>를 생성할 수 있습니다. <strong><span style="color:blue"> 빠른 IPA 분석 설정과 문항 간 건너뛰기 설정 또한 Complete 상태를 원칙</strong>으로 합니다. 
+
+      <center>   
   
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d92172c2-71ff-4f6e-964b-d8081eb8a4e5">
 </center>
+
 #### 하위 메뉴 설명
 - ##### Survey Canvas  
   설문지 디자인을 할 수 있는 Survey Canvas로 이동합니다.  
@@ -133,13 +145,15 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 <center>               
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d8f58d02-fe8f-41d8-b319-3b927467b563">
 </center>
-  
+
+  <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
      ℹ '문항간 건너뛰기' 사용 시, 건너뛴 문항은 결측치가 발생되므로 반드시 결측처리를 유념한 통계분석을 수행해야 합니다.
-     
+  </div>   
+
 #### 문항간 건너뛰기 설정 방법
   ➊ <strong>경로 목록</strong>에서 경로명을 입력하고,  
-   ➋  <strong>경로 상세설정</strong>에서 출발 문항의 해당 척도를 선택 후, 도착 문항을 선택합니다.  
-    ➌  <strong>경로 구조설정</strong>에서 설정할 경로구조명을 선택/추가하여 적용 아이콘을 클릭합니다.  
+  ➋  <strong>경로 상세설정</strong>에서 출발 문항의 해당 척도를 선택 후, 도착 문항을 선택합니다.  
+  ➌  <strong>경로 구조설정</strong>에서 설정할 경로구조명을 선택/추가하여 적용 아이콘을 클릭합니다.  
        
 ### 설문조사 설정
 <strong>설문조사 설정</strong>은 디자인한 설문지를 바탕으로 설문조사를 진행하기 위한 설정 과정입니다.  
@@ -149,13 +163,14 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/6b4a9639-a0de-4cbe-9989-e795de549222">
 </center>
+
 #### 빠른 분석 
 빠른 분석 설정은 학습자 앞에서 데이터 분석 조건을 설정해 분석 결과 공유대상을 기다리게 하는 불편함을 없애기 위해 설문조사 전 단계에서 필요한 분석 조건을 설정하는 과정입니다.  
 <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/a4ba50a7-e3a8-41a3-b8c0-1c8b8911506b">
 </center>
-##### STEP 1. 설문조사 설정
-      
+
+##### STEP 1. 설문조사 설정  
 ##### 설문조사 설정으로 이동  
 설문지 디자인을 완료하였으면 다음과 같이 설정합니다.  
 ➊ 설문지 기본정보 하위메뉴에서  <strong>설문조사 설정</strong>을 클릭합니다.    
@@ -164,8 +179,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
              <img width="800" alt="image" src="https://github.com/user-attachments/assets/f65fcd8e-94e9-40fa-872d-81558bd7a8e0">
              
    
-##### STEP 2. 빠른 IPA 설정 (선택) 
-  
+##### STEP 2. 빠른 IPA 설정 (선택)   
 ##### 빠른분석 설정화면으로 이동  
 설문조사 정보에서 우측 <strong>빠른분석 설정</strong>아이콘을 클릭합니다.    
        <img width="800" alt="image" src="https://github.com/user-attachments/assets/daca7054-c87b-410e-9158-ea8d630d2411">  
