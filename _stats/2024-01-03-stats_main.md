@@ -13,7 +13,9 @@ layout: post
 
 
 <center>
+<div style="border: 1px solid grey; width: fit-content;">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/c231f6ef-ead3-4ad4-9221-4afa92d3c9bd"> 
+</div>
 </center>
 <br>
 
