@@ -245,7 +245,9 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 설문 디자인 단계에서 문항 건너뛰기를 설정한 경우 사용여부를 묻습니다.    
 
  <div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
+   
  💡 설문조사 설정을 완료하였으면,  <a href="https://example.com" target="_blank" style="color: #0066cc;">설문조사<a>에서 URL/QR를 배포하세요.
+
 </div>
 
 
