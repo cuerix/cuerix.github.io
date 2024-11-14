@@ -147,7 +147,9 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 #### 설문조사 배포 설정
 설문조사 배포 설정에서는 설문 응답을 수집하기 위한 배포방법, 응답 기간, 공개여부 등을 설정합니다.
 <center>
+<div style="border: 1px solid grey; width: fit-content;">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/6b4a9639-a0de-4cbe-9989-e795de549222">
+</div>
 </center>
 
 #### 빠른 분석 
