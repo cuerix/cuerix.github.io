@@ -15,8 +15,7 @@ layout: post
 <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
        <strong>ℹ️</strong>사용자는 등간 척도 등 점수 척도가 필요한 경우, 반드시 <strong>[기본규칙 가져오기]</strong>를 통해 전처리 기본규칙을 생성한 후, 설문지를 디자인해야 합니다. 기본규칙 외에 별도의 점수 척도 변환이 필요한 경우, 해당 척도를 척도 셋에 등록한 후 설문지를 디자인하십시오. <span style="color:red">&#8251;<strong>설문지 디자인에 사용한 척도 셋과 전처리 규칙에 등록된 척도 셋이 일치해야만</strong>문자 척도를 점수 척도로 전환할 수 있습니다.   </strong>
 </div>
-</br>
-
+         
 
   <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/f8925c60-f849-4719-964b-23815b377d15">
@@ -30,7 +29,7 @@ layout: post
 ##### 새로고침<br>
 동기화 기능입니다.
 
-</br>  
+  
 <div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
 등록한 전처리 규칙을 분석 대상 데이터에 연결하세요 .
 </div>
@@ -42,7 +41,7 @@ layout: post
   <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/1ab9ae5d-e2b1-425e-83fc-5f56d1e8e9c2">  
   </center>
-</br>  
+    
 
 
 #### 전처리 규칙 등록 방법  
