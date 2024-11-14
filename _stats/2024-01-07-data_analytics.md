@@ -16,9 +16,7 @@ layout: post
 분석 대상 데이터는 원칙적으로 데이터 분석을 즉시 수행할 수 있습니다.
 그런데 설문조사 데이터는 설문지에 노출된 척도를 그대로 수집하므로 대부분 문자 척도를 포함할 가능성이 높습니다. 문자척도는 기술통계 등 통계분석 대상이 아닙니다.  </strong>
 </div>
-
-
-
+  
 
 <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/031b3002-62b4-41bc-9f7b-a00a68deccab">  
@@ -41,11 +39,12 @@ layout: post
 
 ##### 전처리 규칙 연결  
 ④ 데이터 전처리 규칙 연결에서 <strong>해당 전처리 규칙 이름</strong>을 클릭하고 <strong>규칙 적용</strong> 아이콘을 클릭합니다.
-
+  
   <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
        <strong> ℹ️</strong> 설문디자인에서 설정한 문항들이 <strong>척도찾기 예제</strong>를 활용하였다면,  큐릭스에서 제공하는 <strong>‘데이터 전처리 기본규칙’</strong>을 연결할 수 있습니다.</strong> <br> 만약 <strong>척도입력</strong>을 통해 문항을 설정하였다면, <strong>데이터 전처리에서 규칙을 등록</strong>하셔야합니다. <br> <span style="color:red"> &#8251; 전치리 규칙에 대한 자세한 설명은 <strong>'데이터 전처리 규칙'</strong>에서 확인하세요. </span>
   </div>  
-       
+
+         
   <img width="800" alt="image" src="https://github.com/user-attachments/assets/e4362260-77f1-4c43-8446-29bb6e8d8200">  
   
 
@@ -60,7 +59,7 @@ layout: post
    
 
 
-  #### STEP 2. Data Analzyer으로 이동
+#### STEP 2. Data Analzyer으로 이동
 <strong>Data Analzyer</strong>은 분석 대상 데이터를 활용하여 분석을 실시할 수있습니다.   
 
 '데이터 기본 정보' 우측 <strong>하위 메뉴</strong>에서 <strong>Data Analzyer</strong> 아이콘을 클릭하여 이동합니다.  
