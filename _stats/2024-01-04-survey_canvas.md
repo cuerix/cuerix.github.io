@@ -141,6 +141,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 
 #### 빠른 분석 
 빠른 분석 설정은 학습자 앞에서 데이터 분석 조건을 설정해 분석 결과 공유대상을 기다리게 하는 불편함을 없애기 위해 설문조사 전 단계에서 필요한 분석 조건을 설정하는 과정입니다.  
+
 <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/a4ba50a7-e3a8-41a3-b8c0-1c8b8911506b">
 </center>
@@ -162,9 +163,11 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 ##### 빠른분석 설정  
 ➊ 빠른 분석 사용여부에 <strong>사용</strong>을 선택합나다.   
 ➋ <strong>분석 데이터 제목</strong>입력합니다.  
-➌ <strong>전처리 규칙</strong>을 연결합니다.        
+➌ <strong>전처리 규칙</strong>을 연결합니다.          
+ <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
   <strong>ℹ</strong>설문디자인에서 설정한 문항들이 <strong>척도찾기 예제</strong>를 활용하였다면,  큐릭스에서 제공하는 <strong>‘데이터 전처리 기본규칙’</strong>을 연결할 수 있습니다.</strong>  만약 <strong>척도입력</strong>을 통해 문항을 설정하였다면, <strong>데이터 전처리에서 규칙을 등록</strong>하셔야합니다.   
-  <span style="color:red">&#8251;전치리 규칙에 대한 자세한 설명은 <strong>'데이터 전처리 규칙'</strong>에서 확인하세요.    
+  <span style="color:red">&#8251;전치리 규칙에 대한 자세한 설명은 <strong>'데이터 전처리 규칙'</strong>에서 확인하세요. 
+  </div>
 ➍ 분석할 <strong>분석모듈</strong>을 체크하고<strong>설정사항 보기</strong>아이콘을 클릭합니다.    
 ➎ 설정을 완료하였으면 <strong>확인</strong>버튼을 누릅니다.  
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/a4ba50a7-e3a8-41a3-b8c0-1c8b8911506b">  
@@ -186,31 +189,30 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
        </div>  
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/6d058ff8-e71c-404a-8797-9bb9dd906c02">
 
-##### ✔️STEP 3. 설문 배포 설정 방법 
-      
+##### ✔️STEP 3. 설문 배포 설정 방법   
 ➊ 다음과 같이 <strong>설문조사 정보를 입력</strong>하여 설정합니다.  
 ➋ 설문조사 정보를 모두 입력하고, <strong>조사를 진행합니다</strong>아이콘을 클릭합니다.  
     <img width="800" alt="image" src="https://github.com/user-attachments/assets/6b4a9639-a0de-4cbe-9989-e795de549222">  
        
-##### 설문 조사명       
+- ##### 설문 조사명       
 설문 조사의 제목을 설정하는 항목입니다.  
   
-##### 설문조사 메모       
+- ##### 설문조사 메모       
 설문 조사를 준비하면서 필요하거나 중요한 정보를 기록하는 공간입니다. 설문 조사와 관련된 메모나 주의사항, 추가적인 설명 등을 입력하여 관리할 수 있습니다.    
-##### 기간 설정  
+- ##### 기간 설정  
 설문 조사를 진행할 시작일과 종료일을 설정하는 옵션입니다.    
 <img width="800" alt="image"  src="https://github.com/user-attachments/assets/ec155d4d-c6bd-4f2f-ab50-4279348f751c">  
-##### 설문 조사 수량       
+- ##### 설문 조사 수량       
 조사할 응답자의 수량을 지정할 수 있는 항목입니다.    
-##### 설문조사 수량       
+- ##### 설문조사 수량       
 설문 조사의 제목을 설정하는 항목입니다.    
-##### 설문조사 공개여부       
+- ##### 설문조사 공개여부       
 설문 조사의 공개 여부를 설정합니다. 공개 여부에 따라 특정 그룹만 응답할 수 있도록 제한할 수 있습니다. 비공개로 설정할 경우, 비밀번호를 설정할 수 있으며, 답자는 해당 비밀번호를 입력해야만 설문조사에 참여할 수 있습니다.    
-##### 설문 조사 시작일 자동조사 전환 여부       
+- ##### 설문 조사 시작일 자동조사 전환 여부       
 설문 조사 시작일에 자동으로 조사가 진행될지 여부를 선택하는 옵션입니다.    
 ##### 설문조사 응답요청 메세지       
 응답자에게 설문 참여를 요청하는 메시지를 작성할 수 있는 항목입니다.    
-##### 문항 건너뛰기 설정       
+- ##### 문항 건너뛰기 설정       
 설문 디자인 단계에서 문항 건너뛰기를 설정한 경우 사용여부를 묻습니다.    
 
  <div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
