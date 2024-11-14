@@ -26,10 +26,10 @@ layout: post
 
 
 
-#### [STEP 1.] 전처리 규칙 연결 (설문 응답정보) 
+##### [STEP 1.] 전처리 규칙 연결 (설문 응답정보) 
 설문 조사 데이터를 분석대상으로 등록 후, 전처리 규칙을 연결합니다. <br><br>
     
-#### ➤ 분석 대상 데이터로 등록   
+##### ➤ 분석 대상 데이터로 등록   
 ➊ 설문조사 화면에서 '현재 조사중인 설문'의 해당 설문 우측에 있는 <strong>'분석'</strong> 아이콘을 클릭합니다.  
    <img width="800" alt="image" src="https://github.com/user-attachments/assets/289030e2-7059-4e34-93d0-1efb12dca158">   
 ➋ 분석대상으로 등록할 <strong>데이터 제목</strong>을 입력하고 저장합니다.
@@ -61,7 +61,7 @@ layout: post
    
 
 
-#### [STEP 2]. Data Analzyer으로 이동
+##### [STEP 2]. Data Analzyer으로 이동
 <strong>Data Analzyer</strong>은 분석 대상 데이터를 활용하여 분석을 실시할 수있습니다.   
 
 '데이터 기본 정보' 우측 <strong>하위 메뉴</strong>에서 <strong>Data Analzyer</strong> 아이콘을 클릭하여 이동합니다.  
