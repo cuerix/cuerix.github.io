@@ -23,7 +23,7 @@ layout: post
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/031b3002-62b4-41bc-9f7b-a00a68deccab">  
 </center>
 
-##### ➤ 메뉴/아이콘 설명
+#### ➤ 메뉴/아이콘 설명
 - ##### 큐릭스 설문조사 응답정보
      설문조사를 통한 응답된 데이터입니다.  
 - ##### 스프레드시트 파일 업로드 데이터
@@ -37,7 +37,7 @@ layout: post
 
 
 
-##### [STEP 1.] 전처리 규칙 연결 (설문 응답정보) 
+#### [STEP 1.] 전처리 규칙 연결 (설문 응답정보) 
 설문 조사 데이터를 분석대상으로 등록 후, 전처리 규칙을 연결합니다. <br><br>
     
 ##### ➤ 분석 대상 데이터로 등록   
@@ -72,7 +72,7 @@ layout: post
    
 
 
-##### [STEP. 2] Data Analzyer으로 이동
+#### [STEP. 2] Data Analzyer으로 이동
 <strong>Data Analzyer</strong>은 분석 대상 데이터를 활용하여 분석을 실시할 수있습니다.   
 
 '데이터 기본 정보' 우측 <strong>하위 메뉴</strong>에서 <strong>Data Analzyer</strong> 아이콘을 클릭하여 이동합니다.  
@@ -87,7 +87,7 @@ layout: post
 </center>
 <br>  
 
-##### ➤ 하위 메뉴 설명
+#### ➤ 하위 메뉴 설명
 ##### 데이터 보기/편집
 사용자가 선택한 데이터를 다른 이름으로 저장, 다운로드 할 수 있고, 데이터 셀 단위의 수정을 수행할 수 있습니다. 데이터의 변경이 있는 경우 새 이름으로 저장해 원본 데이터를 보호하십시오.  
 
