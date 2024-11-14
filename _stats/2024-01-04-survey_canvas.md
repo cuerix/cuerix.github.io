@@ -83,8 +83,9 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 - ##### 휴지통  
     설문지를 삭제합니다. 설문지 삭제는 설문지 상세보기 하위메뉴에서 설문지 폐기를 사용할 수도 있습니다.    
 
-    
-    새로운 설문지를 등록하였으면, 설문 디자인을 위해 <strong>Survey Canvas</strong>으로 이동 하세요.
+<div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
+ 💡   새로운 설문지를 등록하였으면, 설문 디자인을 위해 <strong>Survey Canvas</strong>으로 이동 하세요.
+</div>
   
   
 ### 설문지 디자인 기본정보   
