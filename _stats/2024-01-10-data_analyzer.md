@@ -12,7 +12,7 @@ layout: post
  <img width="800" alt="image" src="https://github.com/user-attachments/assets/81e904d5-1ba4-4a8c-91fe-c2f13bf45155">  
  </center>
 
-### 데이터 분석 종류 설명
+#### 데이터 분석 종류 설명
 <table>
     <tr>
         <th>분석종류</th>
@@ -75,6 +75,17 @@ layout: post
         <td>순추천지수 (Net Promoter Score) 데이터를 수집하고 자동으로 분석하는 방법입니다. 0~10점 척도에서 9~10점 비율과 0~6점 비율을 비교하여 지수를 나타냅니다.</td>
     </tr>
 </table>
+
+#### 아이콘/메뉴 설명
+
+### 분석 이력  
+ 분석한 결과내역을 저장하여 관리하실 수 있습니다.
+
+### 통계분석 / 계량 분석
+    분석 대상 데이터를 활용하여 데이터 분석을 실시할 수 있습니다.
+### About
+    통계 및 계량 분석의 전체 리스트를 보여줍니다.
+
 
 
 <details>
