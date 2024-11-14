@@ -76,15 +76,14 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 - ##### 저장
      설문지를 저장합니다.
   
-#### 문항 등록 하기 
+- #### 문항 등록 하기 
 문항을 등록하려면,   
-➊상단에 위치한 <strong>설문 도구 설정</strong>아이콘을 클릭하거나,   
-➋좌측에서 <strong>문항 목록</strong>을 클릭한 후 도구 설정에서 원하는 항목을 선택하여 등록하실 수 있습니다.  
-보다 자세한 설문 도구설정 방법은 <strong>'설문도구 설정'</strong>을 참조하세요.
+➊ 상단에 위치한 <strong>설문 도구 설정</strong>아이콘을 클릭하거나,   
+➋ 좌측에서 <strong>문항 목록</strong>을 클릭한 후 도구 설정에서 원하는 항목을 선택하여 등록하실 수 있습니다.  
+※ 보다 자세한 설문 도구설정 방법은 <strong>'설문도구 설정'</strong>을 참조하세요. 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/3e6935f1-7b4d-4ca0-952a-f165abd6b120">
     설문지 디자인을 완료하였으면, 설문지 디자인 기본정보로 이동해</strong>설문조사 설정을 하세요.
   
-[[목차로 이동]](#index)
   
 #### 메뉴 / 아이콘 설명
 - ##### 새로 만들기
@@ -100,8 +99,8 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
      - <strong>Complete</strong>
        설문지 디자인을 완료해 설문조사를 시작할 수 있는 상태입니다.
        Complete 상태 표시는 설문지 이름을 클릭하고 나타난 상세보기에서 사용자가 직접 상태 표시를 Complete로 변경해야 합니다.
-           - <strong>Design(Ing)</strong>   설문지 문항을 디자인하고 있습니다.
-       - Design(Ing) 상태 표시는 No Design 상태에서 설문 문항을 등록하면 자동으로 변환되지만,  
+     - <strong>Design(Ing)</strong>   설문지 문항을 디자인하고 있습니다.
+       Design(Ing) 상태 표시는 No Design 상태에서 설문 문항을 등록하면 자동으로 변환되지만,  
        설문조사 설정을 위해서는 사용자가 설문지 기본정보에서 Complete로 변경해야 합니다.
        Complete는 같은 페이지와 방법으로 Design(Ing)로 변경할 수 있습니다.
 - ##### Survey Canvas  
@@ -117,7 +116,8 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
                                                                                                                             
  <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
     <strong> ℹ️ </strong> 설문지 디자인 진행상태에서 <strong>Complete 상태인 설문지</strong>는 '설문조사' 메뉴에 <strong>설문조사가 가능한 설문</strong>으로 표시되며, 설문지 배포를 위한 <strong> URL/QR코드</strong>를 생성할 수 있습니다. <strong><span style="color:blue"> 빠른 IPA 분석 설정과 문항 간 건너뛰기 설정 또한 Complete 상태를 원칙</strong>으로 합니다. 
-
+    </span> </div>
+    
       <center>   
   
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d92172c2-71ff-4f6e-964b-d8081eb8a4e5">
