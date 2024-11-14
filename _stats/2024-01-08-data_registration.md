@@ -8,7 +8,9 @@ layout: post
 
 분석대상 데이터로 등록합니다.
 <center>
+<div style="border: 1px solid grey; width: fit-content;">
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/5cda754f-4b65-403e-9e90-f7c4a84bea00">  
+</div>
 </center>
 
 
