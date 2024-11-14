@@ -14,7 +14,7 @@ layout: post
 <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
        <strong> ℹ️ </strong> 설문조사 데이터의 경우, 대부분 문자로 된 응답이 포함되어 있기 때문에, 이를 분석에 적합한 숫자 형식으로 변환하기 위한 전처리 규칙이 필요합니다.
 </div>  
-
+<br>
   
 
     
@@ -45,7 +45,7 @@ layout: post
   <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
        <strong> ℹ️</strong> 설문디자인에서 설정한 문항들이 <strong>척도찾기 예제</strong>를 활용하였다면,  큐릭스에서 제공하는 <strong>‘데이터 전처리 기본규칙’</strong>을 연결할 수 있습니다.</strong> <br> 만약 <strong>척도입력</strong>을 통해 문항을 설정하였다면, <strong>데이터 전처리에서 규칙을 등록</strong>하셔야합니다. <br> <span style="color:red"> &#8251; 전치리 규칙에 대한 자세한 설명은 <strong>'데이터 전처리 규칙'</strong>에서 확인하세요. </span>
   </div>    
-
+<br>
            
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/e4362260-77f1-4c43-8446-29bb6e8d8200">  
   
