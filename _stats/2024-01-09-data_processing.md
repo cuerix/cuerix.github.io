@@ -17,8 +17,10 @@ layout: post
          
 
   <center>
+<div style="border: 1px solid grey; width: fit-content;">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/f8925c60-f849-4719-964b-23815b377d15">
-  </center>
+</div>
+</center>
 
 #### ✔️ 아이콘/메뉴 설명
 - ##### 데이터 전처리 기본규칙 가져오기  
@@ -39,8 +41,10 @@ layout: post
 사용자는 분석 대상 데이터 상세 보기에서 전처리 해당 분석 대상 데이터에 여러 개의 규칙을 연결하고, 연결된 규칙 중 1개의 규칙을 선택하여 전처리 규칙을 적용한 분석 대상 데이터를 다른 이름으로 저장해 데이터 분석을 수행할 수 있습니다. 
  
   <center>
+<div style="border: 1px solid grey; width: fit-content;">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/1ab9ae5d-e2b1-425e-83fc-5f56d1e8e9c2">  
-  </center>
+</div>
+</center>
     
 
 
