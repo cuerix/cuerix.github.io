@@ -17,8 +17,24 @@ layout: post
 </center>
 <br>
 
+<style>
+  summary {
+    font-weight: bold;
+    font-size: 1em;
+    background-color: #e6f0ff;
+    color: #333;
+    padding: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s, box-shadow 0.3s;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 0 10px rgba(0, 122, 204, 0.5);
+    margin: 0; 
+  }
 
-#### 메뉴/아이콘 설명
+  
+</style>
+
+  <summary>메뉴/아이콘 설명</summary>
+  
 -  ##### 설문지/문항 검색   
     찾고자하는 설문지를 검색할 수 있습니다.  
 -  ##### [Top 15] Hit Item
@@ -27,15 +43,9 @@ layout: post
      cuerix를 효율적으로 사용하고 분석 결과를 효과적으로 적용 또는 활용하기 위한 사례를 제공합니다. 사용자는 분석 사례를 참고해 다양한 분석 방법을 실무에 적용할 단서(cue)를 발견할 수 있습니다.<br><br>
 -  ##### 설문조사 현황 <br>
     현재 조사중인 설문지를 확인 하실 수 있습니다.
-
-    
+   
 - ##### 데이터 분석 현황 <br>
     분석대상으로 등록된 데이터 현황을 확인할 수 있습니다.
 
     
-
-
-
-
-[[목차로 이동]](#index)
 
