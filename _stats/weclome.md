@@ -17,6 +17,6 @@ layout: post
 4. [설문 조사](/stats/survey)
 5. [아이템 북](/stats/item_book)
 6. [데이터 분석](/stats/data_analytics)
-7. [데이터 등록](#데이터-등록)
+7. [데이터 등록](/stats/data_registration)
 8. [데이터 전처리](/stats/data_processing)
 9. [Data Analyzer](/stats/data_analyzer)
