@@ -93,7 +93,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
  <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
     <strong> ℹ️ </strong>  설문지 디자인 진행상태에서 <strong>Complete 상태인 설문지</strong>는 '설문조사' 메뉴에 <strong>설문조사가 가능한 설문</strong>으로 표시되며, 설문지 배포를 위한 <strong> URL/QR코드</strong>를 생성할 수 있습니다. <strong><span style="color:blue"> 빠른 IPA 분석 설정과 문항 간 건너뛰기 설정 또한 Complete 상태를 원칙으로 합니다. </span> </strong>
  </div>  
-   
+ <br>  
    
  <center>   
  <div style="border: 1px solid grey; width: fit-content;">
@@ -133,7 +133,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
   <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
      ℹ '문항간 건너뛰기' 사용 시, 건너뛴 문항은 결측치가 발생되므로 반드시 결측처리를 유념한 통계분석을 수행해야 합니다.
   </div>   
-
+<br>
 #### ✔️ 문항간 건너뛰기 설정 방법
   ➊ <strong>경로 목록</strong>에서 경로명을 입력하고,  
   ➋  <strong>경로 상세설정</strong>에서 출발 문항의 해당 척도를 선택 후, 도착 문항을 선택합니다.  
@@ -141,7 +141,8 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
        
 ### 설문조사 설정
 <strong>설문조사 설정</strong>은 디자인한 설문지를 바탕으로 설문조사를 진행하기 위한 설정 과정입니다.  
-디자인를 완료한 설문지는 <strong>설문조사 설정</strong>으로 이동하여 <strong>'빠른 분석'</strong><strong>'설문조사 배포 설정'</strong>을 하실 수 있습니다. 
+디자인를 완료한 설문지는 <strong>설문조사 설정</strong>으로 이동하여 <strong>'빠른 분석'</strong><strong>'설문조사 배포 설정'</strong>을 하실 수 있습니다.   
+
 #### 설문조사 배포 설정
 설문조사 배포 설정에서는 설문 응답을 수집하기 위한 배포방법, 응답 기간, 공개여부 등을 설정합니다.
 <center>
@@ -184,7 +185,8 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
  <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
   <strong>ℹ</strong>설문디자인에서 설정한 문항들이 <strong>척도찾기 예제</strong>를 활용하였다면,  큐릭스에서 제공하는 <strong>‘데이터 전처리 기본규칙’</strong>을 연결할 수 있습니다.</strong>  만약 <strong>척도입력</strong>을 통해 문항을 설정하였다면, <strong>데이터 전처리에서 규칙을 등록</strong>하셔야합니다.   
   <span style="color:red">&#8251;전치리 규칙에 대한 자세한 설명은 <strong>'데이터 전처리 규칙'</strong>에서 확인하세요. 
-  </div>  
+  </div> 
+ <br>   
     
 ➍ 분석할 <strong>분석모듈</strong>을 체크하고<strong>설정사항 보기</strong>아이콘을 클릭합니다.    
 ➎ 설정을 완료하였으면 <strong>확인</strong>버튼을 누릅니다.  
