@@ -54,7 +54,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 ➋ 좌측에서 <strong>문항 목록</strong>을 클릭한 후 도구 설정에서 원하는 항목을 선택하여 등록하실 수 있습니다.  
 ※ 보다 자세한 설문 도구설정 방법은 <strong>'설문도구 설정'</strong>을 참조하세요. 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/3e6935f1-7b4d-4ca0-952a-f165abd6b120">
-    설문지 디자인을 완료하였으면, 설문지 디자인 기본정보로 이동해</strong>설문조사 설정을 하세요.
+ 
     
 ##### 메뉴 / 아이콘 설명
 - ##### 새로 만들기
@@ -86,7 +86,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 설문지 디자인 기본정보는 권한(플랜), 설문지 이름, 생성일, 디자인 진행상태 정보를 제공합니다.     
                                                                                                                             
  <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
-    <strong> ℹ️ </strong> 설문지 디자인 진행상태에서 <strong>Complete 상태인 설문지</strong>는 '설문조사' 메뉴에 <strong>설문조사가 가능한 설문</strong>으로 표시되며, 설문지 배포를 위한 <strong> URL/QR코드</strong>를 생성할 수 있습니다. <strong><span style="color:blue"> 빠른 IPA 분석 설정과 문항 간 건너뛰기 설정 또한 Complete 상태를 원칙</strong>으로 합니다. </span>
+    <strong> ℹ️ </strong> 설문지 디자인 진행상태에서 <strong>Complete 상태인 설문지</strong>는 '설문조사' 메뉴에 <strong>설문조사가 가능한 설문</strong>으로 표시되며, 설문지 배포를 위한 <strong> URL/QR코드</strong>를 생성할 수 있습니다. <strong><span style="color:blue"> 빠른 IPA 분석 설정과 문항 간 건너뛰기 설정 또한 Complete 상태를 원칙으로 합니다. </span>
   </div>
     
       <center>   
@@ -109,7 +109,10 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
   설문지 템플릿으로 등록하여 사용할 수 있습니다.    
 - ##### 폐기  
   설문지를 삭제합니다.  
-        
+
+  
+설문지 디자인을 완료하였으면, 설문지 디자인 기본정보로 이동해</strong>설문조사 설정을 하세요.
+      
   
 ### 문항 간 건너뛰기
 응답자가 특정 문항에 대한 답변을 건너뛰거나, 이전의 선택에 따라 다음에 보여질 문항을 조절할 수 있습니다.  
