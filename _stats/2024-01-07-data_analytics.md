@@ -43,14 +43,15 @@ layout: post
 설문 조사 데이터를 분석대상으로 등록 후, 전처리 규칙을 연결합니다. <br><br>
     
 ##### ➤ 분석 대상 데이터로 등록   
-➊ 설문조사 화면에서 '현재 조사중인 설문'의 해당 설문 우측에 있는 <strong>'분석'</strong> 아이콘을 클릭합니다.  
-    <div style="border: 1px solid grey; width: fit-content;">
-    <img width="800" alt="image" src="https://github.com/user-attachments/assets/289030e2-7059-4e34-93d0-1efb12dca158">  
-    </div>
+➊ 설문조사 화면에서 '현재 조사중인 설문'의 해당 설문 우측에 있는 <strong>'분석'</strong> 아이콘을 클릭합니다.    
+    
+  <div style="border: 1px solid grey; width: fit-content;">
+  <img width="800" alt="image" src="https://github.com/user-attachments/assets/289030e2-7059-4e34-93d0-1efb12dca158">  
+  </div>
 ➋ 분석대상으로 등록할 <strong>데이터 제목</strong>을 입력하고 저장합니다.
-    <div style="border: 1px solid grey; width: fit-content;">
-    <img width="800" alt="image" src="https://github.com/user-attachments/assets/e61373f8-6dbb-4098-bd36-414ad75c6916">   
-    </div>
+ <div style="border: 1px solid grey; width: fit-content;">
+ <img width="800" alt="image" src="https://github.com/user-attachments/assets/e61373f8-6dbb-4098-bd36-414ad75c6916">   
+ </div>
 ➌ 저장된 데이터는 <strong>데이터 기본정보</strong>로 이동합니다.   
 데이터 기본정보에서 <strong>전처리 규칙 연결</strong>을 클릭합니다. 
  <div style="border: 1px solid grey; width: fit-content;">
