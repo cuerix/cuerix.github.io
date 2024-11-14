@@ -88,13 +88,13 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
   
   
 ### 설문지 디자인 기본정보   
-설문지 디자인 기본정보는 권한(플랜), 설문지 이름, 생성일, 디자인 진행상태 정보를 제공합니다.     
-                                                                                                                            
+설문지 디자인 기본정보는 권한(플랜), 설문지 이름, 생성일, 디자인 진행상태 정보를 제공합니다.  
+
  <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
     <strong> ℹ️ </strong>  설문지 디자인 진행상태에서 <strong>Complete 상태인 설문지</strong>는 '설문조사' 메뉴에 <strong>설문조사가 가능한 설문</strong>으로 표시되며, 설문지 배포를 위한 <strong> URL/QR코드</strong>를 생성할 수 있습니다. <strong><span style="color:blue"> 빠른 IPA 분석 설정과 문항 간 건너뛰기 설정 또한 Complete 상태를 원칙으로 합니다. </span> </strong>
  </div>  
- 
-    
+   
+   
  <center>   
  <div style="border: 1px solid grey; width: fit-content;">
  <img width="800" alt="image" src="https://github.com/user-attachments/assets/d92172c2-71ff-4f6e-964b-d8081eb8a4e5">
