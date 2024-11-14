@@ -69,21 +69,26 @@ layout: post
 
 
 ➋ 전처리 규칙 연결 여부를 묻는 질문으로서, 연결하고자 하는 전처리 규칙이 해당 척도와 일치하는지 재확인 후, <strong>적용</strong> 아이콘을 클릭합니다.
-   <img width="800" alt="image" src="https://github.com/user-attachments/assets/fe441258-4e6d-425b-9cfc-9e574d9c6341"> <br><br>
-
+    <div style="border: 1px solid grey; width: fit-content;">
+    <img width="800" alt="image" src="https://github.com/user-attachments/assets/fe441258-4e6d-425b-9cfc-9e574d9c6341"> <br><br>
+    </div>
+    
 ➌ 분석대상으로 등록된 데이터에 전처리 규칙을 연결한 후 다른이름으로 저장합니다.  
 등록할 <strong>데이터 제목</strong>을 입력하고 <strong>데이터 내보내기</strong> 아이콘을 클릭합니다.  
 저장된 데이터는 데이터 분석 목록에서 확인하실 수 있습니다.
-   <img width="800" alt="image" src="https://github.com/user-attachments/assets/a52db872-8fd4-413c-b387-62f8bb66ae5e">   
-   
+    <div style="border: 1px solid grey; width: fit-content;">
+    <img width="800" alt="image" src="https://github.com/user-attachments/assets/a52db872-8fd4-413c-b387-62f8bb66ae5e">   
+    </div>
 
 
 #### ✔️ [STEP. 2] Data Analzyer으로 이동
 <strong>Data Analzyer</strong>은 분석 대상 데이터를 활용하여 분석을 실시할 수있습니다.   
 
 '데이터 기본 정보' 우측 <strong>하위 메뉴</strong>에서 <strong>Data Analzyer</strong> 아이콘을 클릭하여 이동합니다.  
+      <div style="border: 1px solid grey; width: fit-content;">
       <img width="800" alt="image" src="https://github.com/user-attachments/assets/708c1ed0-14c4-4c09-8305-e84e9bd08bae">   
-
+      </div>
+      
 ### 데이터 기본정보
 데이터 분석 화면에서 데이터명을 클릭하면 데이터 기본정보로 이동합니다.   
 데이터 기본정보에서는 전처리 규칙을 연결하여 Data Analyzer로 이동하여 데이터 분석을 수행할 수 있습니다.
