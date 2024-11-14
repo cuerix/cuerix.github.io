@@ -12,7 +12,7 @@ layout: post
 </center>
 
 
-#### ➤ 데이터 등록 방법
+#### ✔️ 데이터 등록 방법
 분석 대상 데이터 제목을 입력하고, 스프레드시트 파일(.xlsx)를 업로드하여 등록합니다.<br>
 
 <div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
