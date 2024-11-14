@@ -197,8 +197,9 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 ##### [분석모듈] 기술 통계 설정  
 기술 통계를 분석할 문항(열)을 선택하고 완료 버튼을 클릭합니다.    
 <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
-<strong>ℹ</strong> 기술통계는 숫자(단일선택/수치) 유형의 문항(열)만 선택하여 분석이 가능합니다. </strong>
-</div>    
+<strong>ℹ️</strong> 기술통계는 숫자(단일선택/수치) 유형의 문항(열)만 선택하여 분석이 가능합니다. </strong>
+</div>
+<br>
  
  <div style="border: 1px solid grey; width: fit-content;">
  <img width="800" alt="image" src="https://github.com/user-attachments/assets/27516d09-a07f-4776-80e7-ae062d554767">      
