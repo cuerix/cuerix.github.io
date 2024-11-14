@@ -20,18 +20,16 @@ layout: post
 <style>
   summary {
     font-weight: bold;
-    font-size: 1em;
+    font-size: 1.2em;
     background-color: #e6f0ff;
     color: #333;
     padding: 15px;
-    cursor: pointer;
-    transition: background-color 0.3s, box-shadow 0.3s;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 0 10px rgba(0, 122, 204, 0.5);
     margin: 0; 
   }
-
-  
 </style>
+  
+ 
 
   <summary>메뉴/아이콘 설명</summary>
   
