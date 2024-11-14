@@ -25,8 +25,7 @@ layout: post
 
 
 
-
-#####  ![image](https://github.com/user-attachments/assets/9c8492a7-4a6f-47ff-99c3-660c10952102) 전처리 규칙 연결 (설문 응답정보) 
+<img src="[https://github.com/user-attachments/assets/80eb6ab2-1cc0-464b-a1f8-6e73183d1e0b](https://github.com/user-attachments/assets/9c8492a7-4a6f-47ff-99c3-660c10952102)" alt="image" width="50" height="50"> 전처리 규칙 연결 (설문 응답정보) 
 설문 조사 데이터를 분석대상으로 등록 후, 전처리 규칙을 연결합니다. <br><br>
     
 ##### 분석 대상 데이터로 등록   
