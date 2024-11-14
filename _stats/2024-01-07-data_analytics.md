@@ -12,7 +12,7 @@ layout: post
 
 
 <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
-       <strong> ℹ️ </strong> 설문조사 데이터의 경우, 대부분 문자로 된 응답이 포함되어 있기 때문에, 이를 분석에 적합한 숫자 형식으로 변환하기 위한 전처리 규칙이 필요합니다.
+ <strong> ℹ️ </strong> 설문조사 데이터의 경우, 대부분 문자로 된 응답이 포함되어 있기 때문에, 이를 분석에 적합한 숫자 형식으로 변환하기 위한 전처리 규칙이 필요합니다.
 </div>  
 <br>
   
@@ -20,7 +20,9 @@ layout: post
     
 
 <center>
+<div style="border: 1px solid grey; width: fit-content;">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/031b3002-62b4-41bc-9f7b-a00a68deccab">  
+</div>
 </center>
 
 #### ✔️ 메뉴/아이콘 설명
@@ -42,14 +44,18 @@ layout: post
     
 ##### ➤ 분석 대상 데이터로 등록   
 ➊ 설문조사 화면에서 '현재 조사중인 설문'의 해당 설문 우측에 있는 <strong>'분석'</strong> 아이콘을 클릭합니다.  
-   <img width="800" alt="image" src="https://github.com/user-attachments/assets/289030e2-7059-4e34-93d0-1efb12dca158">   
+    <div style="border: 1px solid grey; width: fit-content;">
+    <img width="800" alt="image" src="https://github.com/user-attachments/assets/289030e2-7059-4e34-93d0-1efb12dca158">  
+    </div>
 ➋ 분석대상으로 등록할 <strong>데이터 제목</strong>을 입력하고 저장합니다.
-   <img width="800" alt="image" src="https://github.com/user-attachments/assets/e61373f8-6dbb-4098-bd36-414ad75c6916">   
-
+    <div style="border: 1px solid grey; width: fit-content;">
+    <img width="800" alt="image" src="https://github.com/user-attachments/assets/e61373f8-6dbb-4098-bd36-414ad75c6916">   
+    </div>
 ➌ 저장된 데이터는 <strong>데이터 기본정보</strong>로 이동합니다.   
-데이터 기본정보에서 <strong>전처리 규칙 연결</strong>을 클릭합니다.  
-   <img width="800" alt="image" src="https://github.com/user-attachments/assets/4b22c841-9d54-4d19-a26b-48305bc420e1">   
-
+데이터 기본정보에서 <strong>전처리 규칙 연결</strong>을 클릭합니다. 
+ <div style="border: 1px solid grey; width: fit-content;">
+ <img width="800" alt="image" src="https://github.com/user-attachments/assets/4b22c841-9d54-4d19-a26b-48305bc420e1">   
+ </div>
 ##### ➤ 전처리 규칙 연결  
 ➊ 데이터 전처리 규칙 연결에서 <strong>해당 전처리 규칙 이름</strong>을 클릭하고 <strong>규칙 적용</strong> 아이콘을 클릭합니다.
   
@@ -57,9 +63,9 @@ layout: post
        <strong> ℹ️</strong> 설문디자인에서 설정한 문항들이 <strong>척도찾기 예제</strong>를 활용하였다면,  큐릭스에서 제공하는 <strong>‘데이터 전처리 기본규칙’</strong>을 연결할 수 있습니다. <br> 만약 <strong>척도입력</strong>을 통해 문항을 설정하였다면, <strong>데이터 전처리에서 규칙을 등록</strong>하셔야합니다. <br> <span style="color:red"> &#8251; 전치리 규칙에 대한 자세한 설명은 <a href="https://cuerix.github.io/stats/2024-01-09-data_processing" target="_blank" style="color: #0066cc;">'데이터 전처리 규칙'</a>에서 확인하세요. </span>
   </div>    
 <br>
-           
+  <div style="border: 1px solid grey; width: fit-content;">          
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/e4362260-77f1-4c43-8446-29bb6e8d8200">  
-  
+  </div>
 
 
 ➋ 전처리 규칙 연결 여부를 묻는 질문으로서, 연결하고자 하는 전처리 규칙이 해당 척도와 일치하는지 재확인 후, <strong>적용</strong> 아이콘을 클릭합니다.
@@ -83,7 +89,9 @@ layout: post
 데이터 기본정보에서는 전처리 규칙을 연결하여 Data Analyzer로 이동하여 데이터 분석을 수행할 수 있습니다.
 
 <center>
+<div style="border: 1px solid grey; width: fit-content;">
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/7430b29d-ccf0-426d-9052-6cb346c087c3">  
+</div>
 </center>
 <br>  
 
