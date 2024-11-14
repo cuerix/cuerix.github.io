@@ -25,6 +25,7 @@ layout: post
 
 
 
+➤
 #### [STEP 1.] 전처리 규칙 연결 (설문 응답정보) 
 설문 조사 데이터를 분석대상으로 등록 후, 전처리 규칙을 연결합니다. <br><br>
     
@@ -60,6 +61,7 @@ layout: post
    
 
 
+➤ 
 #### [STEP 2]. Data Analzyer으로 이동
 <strong>Data Analzyer</strong>은 분석 대상 데이터를 활용하여 분석을 실시할 수있습니다.   
 
