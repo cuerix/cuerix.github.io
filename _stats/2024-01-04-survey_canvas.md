@@ -184,7 +184,8 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
  <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
   <strong>ℹ</strong>설문디자인에서 설정한 문항들이 <strong>척도찾기 예제</strong>를 활용하였다면,  큐릭스에서 제공하는 <strong>‘데이터 전처리 기본규칙’</strong>을 연결할 수 있습니다.</strong>  만약 <strong>척도입력</strong>을 통해 문항을 설정하였다면, <strong>데이터 전처리에서 규칙을 등록</strong>하셔야합니다.   
   <span style="color:red">&#8251;전치리 규칙에 대한 자세한 설명은 <strong>'데이터 전처리 규칙'</strong>에서 확인하세요. 
-  </div>
+  </div>  
+    
 ➍ 분석할 <strong>분석모듈</strong>을 체크하고<strong>설정사항 보기</strong>아이콘을 클릭합니다.    
 ➎ 설정을 완료하였으면 <strong>확인</strong>버튼을 누릅니다.  
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/a4ba50a7-e3a8-41a3-b8c0-1c8b8911506b">  
