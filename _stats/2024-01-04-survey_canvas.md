@@ -119,7 +119,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
   설문지를 삭제합니다.  
 
  <div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
- 💡 설문지 디자인을 완료하였으면, 설문지 디자인 기본정보로 이동해</strong>설문조사 설정을 하세요.
+ 💡 설문지 디자인을 완료하였으면, 설문지 디자인 기본정보로 이동해 설문조사 설정을 하세요.
 </div>
     
   
