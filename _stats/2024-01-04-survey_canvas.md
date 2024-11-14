@@ -130,6 +130,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d8f58d02-fe8f-41d8-b319-3b927467b563">
 </div>
 </center>
+<br>
 <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
 ℹ️ '문항간 건너뛰기' 사용 시, 건너뛴 문항은 결측치가 발생되므로 반드시 결측처리를 유념한 통계분석을 수행해야 합니다.
 </div>   
