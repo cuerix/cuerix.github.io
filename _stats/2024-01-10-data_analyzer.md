@@ -78,35 +78,18 @@ layout: post
 
 #### 아이콘/메뉴 설명
 
-### 분석 이력  
+##### 분석 이력  
  분석한 결과내역을 저장하여 관리하실 수 있습니다.
 
-### 통계분석 / 계량 분석
+##### 통계분석 / 계량 분석
     분석 대상 데이터를 활용하여 데이터 분석을 실시할 수 있습니다.
-### About
+##### About
     통계 및 계량 분석의 전체 리스트를 보여줍니다.
 
 
 
-<details>
-  <summary>아이콘/메뉴 설명</summary>
-  <div class="item">
-    <div class="item-content">
-    <span class="item-title">분석 이력</span><br>
-   분석한 결과내역을 저장하여 관리하실 수 있습니다. <br><br>
-    <span class="item-title">통계분석 / 계량 분석</span><br>
-   분석 대상 데이터를 활용하여 데이터 분석을 실시할 수 있습니다. <br><br>
-    <span class="item-title">About</span><br>
-     통계 및 계량 분석의 전체 리스트를 보여줍니다.
-</details>
 
-
-[[목차로 이동]](#index)
-
-
-<br>  
-<br>  
-
+      
 
 ## 기술통계
 
