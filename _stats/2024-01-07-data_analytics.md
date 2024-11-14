@@ -26,10 +26,10 @@ layout: post
 
 
 
-#### ➤ [STEP 1.] 전처리 규칙 연결 (설문 응답정보) 
+#### [STEP 1.] 전처리 규칙 연결 (설문 응답정보) 
 설문 조사 데이터를 분석대상으로 등록 후, 전처리 규칙을 연결합니다. <br><br>
     
-#### 분석 대상 데이터로 등록   
+#### ➤ 분석 대상 데이터로 등록   
 ➊ 설문조사 화면에서 '현재 조사중인 설문'의 해당 설문 우측에 있는 <strong>'분석'</strong> 아이콘을 클릭합니다.  
    <img width="800" alt="image" src="https://github.com/user-attachments/assets/289030e2-7059-4e34-93d0-1efb12dca158">   
 ➋ 분석대상으로 등록할 <strong>데이터 제목</strong>을 입력하고 저장합니다.
@@ -39,7 +39,7 @@ layout: post
 데이터 기본정보에서 <strong>전처리 규칙 연결</strong>을 클릭합니다.  
    <img width="800" alt="image" src="https://github.com/user-attachments/assets/4b22c841-9d54-4d19-a26b-48305bc420e1">   
 
-##### 전처리 규칙 연결  
+##### ➤ 전처리 규칙 연결  
 ➊ 데이터 전처리 규칙 연결에서 <strong>해당 전처리 규칙 이름</strong>을 클릭하고 <strong>규칙 적용</strong> 아이콘을 클릭합니다.
   
   <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
@@ -61,13 +61,13 @@ layout: post
    
 
 
-#### ➤ [STEP 2]. Data Analzyer으로 이동
+#### [STEP 2]. Data Analzyer으로 이동
 <strong>Data Analzyer</strong>은 분석 대상 데이터를 활용하여 분석을 실시할 수있습니다.   
 
 '데이터 기본 정보' 우측 <strong>하위 메뉴</strong>에서 <strong>Data Analzyer</strong> 아이콘을 클릭하여 이동합니다.  
       <img width="800" alt="image" src="https://github.com/user-attachments/assets/708c1ed0-14c4-4c09-8305-e84e9bd08bae">   
 
-##### 메뉴/아이콘 설명
+##### ➤ 메뉴/아이콘 설명
 - ##### 큐릭스 설문조사 응답정보
      설문조사를 통한 응답된 데이터입니다.  
 - ##### 스프레드시트 파일 업로드 데이터
@@ -88,7 +88,7 @@ layout: post
 </center>
 <br>  
 
-##### 하위 메뉴 설명
+##### ➤ 하위 메뉴 설명
 ##### 데이터 보기/편집
     사용자가 선택한 데이터를 다른 이름으로 저장, 다운로드 할 수 있고, 데이터 셀 단위의 수정을 수행할 수 있습니다. 데이터의 변경이 있는 경우 새 이름으로 저장해 원본 데이터를 보호하십시오. <br><br>
 
