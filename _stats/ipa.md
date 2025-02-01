@@ -1,4 +1,12 @@
-#### 이해하기
+---
+title: IPA 분석
+author: Scotty
+date: 2024-11-11
+category: stats
+layout: post
+---
+
+### 이해하기
 IPA(Importance-Performance Analysis) 분석은 제품, 서비스, 또는 특정 요소에 대한 고객의 **중요도**와 **성과**를 평가하여 개선이 필요한 영역을 식별하는 분석 방법입니다. 주로 고객 만족도 조사를 통해 서비스 개선 전략을 수립하는 데 유용하게 사용됩니다.
 
 ## 1. 중요도(Importance)와 성과(Performance) 평가
