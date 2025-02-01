@@ -51,7 +51,7 @@ ex) 사람의 키와 휴대전화 사용 시간과의 관계.
 
 #### 데이터 구성
 - 행(Rows): 50개
-- 열(Columns): 3개 (변수)
+- 열(Columns): 3개 (변수)  
 ![Image](https://github.com/user-attachments/assets/a43784f2-a1a5-47cf-bf72-77f686c894d9)
 
 #### 변수 설정
