@@ -1,4 +1,4 @@
-  ---
+---
 title: 확인적 요인 분석
 author: Scotty
 date: 2024-11-11
