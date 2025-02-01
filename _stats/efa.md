@@ -85,14 +85,14 @@ Oblimin: 요인 간 관계를 자연스럽게 반영
 
 ### [활용사례] 탐색적 요인분석 
 
-### 데이터  구성
+#### 데이터  구성
 - 행 (Rows): 100개 
 - 열 (Columns): 15개 (변수) 
 
 ![Image](https://github.com/user-attachments/assets/adf07ed0-7afc-4fb9-b727-83526379f558)
 
 
-### 설정
+#### 설정
 #### STEP 1. 변수설정
 다음과 같이 총 15개 변수를 설정하였습니다.  
 ![Image](https://github.com/user-attachments/assets/fcfcbd8a-35df-4238-b62e-f401b2975ee2)
@@ -108,7 +108,7 @@ Oblimin: 요인 간 관계를 자연스럽게 반영
 ![Image](https://github.com/user-attachments/assets/d90c5545-02c2-4ca9-9565-3a4a94314a5d)
 
 
-### 분석 결과
+#### 분석 결과
 ##### 요인적재값
 요인적재값은 각 변수와 추출된 요인 간의 상관 정도를 나타내는 값으로, 변수들이 각 요인에 얼마나 강하게 관련되어 있는지를 보여줍니다.  
 앞에서 설정한 적재 값 표시기준대로 요인적재값이 0.4이상인 부분은 빨간색으로 표시되었습니다.   
