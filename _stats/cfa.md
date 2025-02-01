@@ -62,6 +62,7 @@ CFA에서 중요한 적합도 지표는 모델이 데이터에 얼마나 잘 맞
 
 
 ### 분석 결과
+앞에서 설정한 변수들로 만들어진 측정 모델을 의미합니다.
 ![Image](https://github.com/user-attachments/assets/9730d1f8-d4e9-483a-b7d3-bf541d46df52)
 
 ##### Parameter Estimates
