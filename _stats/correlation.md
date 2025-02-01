@@ -49,16 +49,17 @@ ex) 사람의 키와 휴대전화 사용 시간과의 관계.
 ### [활용사례] 상관 분석 
 다음은 학생들의 공부 시간과 시험 점수 간의 관계를 확인하기 위해 Pearson 상관 분석을 실시하였습니다.
 
-### 데이터 구성
+#### 데이터 구성
 - 행(Rows): 50개
 - 열(Columns): 3개 (변수)
 ![Image](https://github.com/user-attachments/assets/a43784f2-a1a5-47cf-bf72-77f686c894d9)
 
-### 변수 설정
+#### 변수 설정
 다음과 같이 총 3개의 변수를 설정하였습니다.
 ![Image](https://github.com/user-attachments/assets/01331885-f671-4b3a-afbc-4c2488254359)
 
-#### 상관행렬 시각화
+#### 분석결과
+##### 상관행렬 시각화
 ![Image](https://github.com/user-attachments/assets/4b971319-10cd-47a2-bde2-487193252377)
 ![Image](https://github.com/user-attachments/assets/fe09b305-4a79-4e9a-8797-5e195678c159)
 
