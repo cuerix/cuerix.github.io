@@ -67,16 +67,13 @@ layout: post
 
 ##### 선택기준
 요인 간 상관이 없다고 가정하면 → 직교 회전 (Varimax, Quartimax, Equamax)
-
-Varimax: 가장 많이 사용되며 요인을 명확히 구분
-Quartimax: 첫 번째 요인에 집중되도록 조정 (주로 인지능력 연구)
-Equamax: Varimax와 Quartimax의 절충
+- Varimax: 가장 많이 사용되며 요인을 명확히 구분
+- Quartimax: 첫 번째 요인에 집중되도록 조정 (주로 인지능력 연구)
+- Equamax: Varimax와 Quartimax의 절충
 
 요인 간 상관이 있을 가능성이 크다면 → 사교 회전 (Promax, Oblimin)
-
-Promax: 계산이 빠르고 대규모 데이터에 적합
-Oblimin: 요인 간 관계를 자연스럽게 반영
-
+- Promax: 계산이 빠르고 대규모 데이터에 적합
+- Oblimin: 요인 간 관계를 자연스럽게 반영
 
  <div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
  💡 일반적으로 Varimax가 기본 선택이며, 요인 간 상관이 필요할 경우 Promax나 Oblimin을 고려합니다.
@@ -94,17 +91,17 @@ Oblimin: 요인 간 관계를 자연스럽게 반영
 
 
 #### 설정
-##### STEP 1. 변수설정
+##### [STEP 1.] 변수설정
 다음과 같이 총 15개 변수를 설정하였습니다.  
 ![Image](https://github.com/user-attachments/assets/fcfcbd8a-35df-4238-b62e-f401b2975ee2)
 ![Image](https://github.com/user-attachments/assets/6001b902-7664-44b1-be47-3f8f17b39f40)
 
-##### STEP 2. 요인분석 옵션
+##### [STEP 2.] 요인분석 옵션
 다음과 같이 추출할 요인 수를 3개, 요인 적재 값 표시기준 0.4이상으로 설정하였습니다.
 ![Image](https://github.com/user-attachments/assets/a79185f5-f8ba-447c-b07c-3f2e6c011369)
 
 
-##### STEP 3. 요인추출  및 요인회전 방법 선택
+##### [STEP 3.] 요인추출  및 요인회전 방법 선택
 다음과 같이 요인추출은 Varimax, 요인회전 방법으로는 주성분 분석(PCA)로 설정하였습니다.
 ![Image](https://github.com/user-attachments/assets/d90c5545-02c2-4ca9-9565-3a4a94314a5d)
 
