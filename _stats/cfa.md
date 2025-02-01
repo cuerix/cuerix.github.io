@@ -4,7 +4,7 @@ author: Scotty
 date: 2024-11-11
 category: stats
 layout: post
-
+---
 <strong>확인적 요인분석(Confirmatory Factor Analysis, CFA)</strong>은 탐색적 요인분석(Exploratory Factor Analysis, EFA)과는 달리, 이미 가설을 바탕으로 특정한 요인 구조가 데이터를 잘 설명하는지를 검증하는 분석 기법입니다.  
 즉, CFA는 연구자가 설정한 요인 구조가 실제 데이터와 얼마나 잘 맞는지를 검증하는 과정으로, 사전에 정의된 요인 모델이 적합한지 확인하는 데 사용됩니다.
 <center>
