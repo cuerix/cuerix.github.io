@@ -94,17 +94,17 @@ Oblimin: 요인 간 관계를 자연스럽게 반영
 
 
 #### 설정
-#### STEP 1. 변수설정
+##### STEP 1. 변수설정
 다음과 같이 총 15개 변수를 설정하였습니다.  
 ![Image](https://github.com/user-attachments/assets/fcfcbd8a-35df-4238-b62e-f401b2975ee2)
 ![Image](https://github.com/user-attachments/assets/6001b902-7664-44b1-be47-3f8f17b39f40)
 
-#### STEP 2. 요인분석 옵션
+##### STEP 2. 요인분석 옵션
 다음과 같이 추출할 요인 수를 3개, 요인 적재 값 표시기준 0.4이상으로 설정하였습니다.
 ![Image](https://github.com/user-attachments/assets/a79185f5-f8ba-447c-b07c-3f2e6c011369)
 
 
-#### STEP 3. 요인추출  및 요인회전 방법 선택
+##### STEP 3. 요인추출  및 요인회전 방법 선택
 다음과 같이 요인추출은 Varimax, 요인회전 방법으로는 주성분 분석(PCA)로 설정하였습니다.
 ![Image](https://github.com/user-attachments/assets/d90c5545-02c2-4ca9-9565-3a4a94314a5d)
 
