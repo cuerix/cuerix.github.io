@@ -84,7 +84,8 @@ CFA에서 중요한 적합도 지표는 모델이 데이터에 얼마나 잘 맞
 5. **Standardized All (모든 변수의 표준화 값)**:
    - **std.all**을 통해 모든 변수의 상대적인 영향을 비교할 수 있습니다.
 
-![Image](https://github.com/user-attachments/assets/6df241b0-aa68-4c0d-9a77-73bf5d9dea9e)  
+![Image](https://github.com/user-attachments/assets/6df241b0-aa68-4c0d-9a77-73bf5d9dea9e)   
+
 | **변수**       | **설명**                                                                 |
 |----------------|--------------------------------------------------------------------------|
 | **lhs (Left-hand side)** | **좌측 변수**: 모델에서 설명하려는 대상 변수입니다. 즉, 관측변수 또는 종속변수입니다. |
