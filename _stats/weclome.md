@@ -8,6 +8,9 @@ layout: post
 
 [!note]
 
+ [!NOTE]  
+ Highlights information that users should take into account, even when skimming.
+
 
 # 큐릭스 Stats 사용법 안내
 
