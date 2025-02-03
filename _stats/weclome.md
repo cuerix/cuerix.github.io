@@ -15,7 +15,7 @@ layout: post
 > Here's a callout block.
 > It supports **Markdown**, [[Internal link|Wikilinks]], and [[Embed files|embeds]]!
 > ![[Engelbart.jpg]]
->#### :blue_book: <span style="color:#17458f"> Note </span>  
+> #### :blue_book: <span style="color:#17458f"> Note </span>  
 
 
 # 큐릭스 Stats 사용법 안내
