@@ -34,19 +34,19 @@ layout: post
 주요 가정은 다음과 같습니다.
 
 #### 선형성 (Linearity)
-- 독립변수와 종속변수 사이에는 <u>선형적인 관계</u>가 있어야 합니다. 즉, 변수들이 직선적인 관계로 연결되어야 한다는 의미입니다.
+- <u>독립변수와 종속변수 사이에는 선형적인 관계</u>가 있어야 합니다. 즉, 변수들이 직선적인 관계로 연결되어야 한다는 의미입니다.
 - 검토 방법: <span style="background-color:#fff5b1"> 산점도(scatter plot)</span>나 <span style="background-color:#fff5b1"> 잔차 플롯(residual plot)</span>을 통해 선형 관계를 확인할 수 있습니다.  
 
 #### 독립성 (Independence)
-- 각 관측치는 <u>서로 독립적</u>이어야 합니다. 즉, 한 데이터 포인트가 다른 데이터 포인트에 영향을 미치지 않아야 합니다.
+- <u>각 관측치는 서로 독립적</u>이어야 합니다. 즉, 한 데이터 포인트가 다른 데이터 포인트에 영향을 미치지 않아야 합니다.
 - 검토 방법:<span style="background-color:#fff5b1">더미 변수</span>나 <span style="background-color:#fff5b1">Durbin-Watson 테스트</span>를 통해 독립성을 확인할 수 있습니다.
 
 #### 등분산성 (Homoscedasticity)
-- 잔차(실제 값과 예측 값의 차이)의 분산이 일정해야 합니다. 즉, 예측 값이 커지거나 작아져도 잔차의 분산이 일정해야 한다는 의미입니다.
+- <u>잔차(실제 값과 예측 값의 차이)의 분산이 일정</u>해야 합니다. 즉, 예측 값이 커지거나 작아져도 잔차의 분산이 일정해야 한다는 의미입니다.
 - 검토 방법: 잔차 플롯에서 <span style="background-color:#fff5b1">잔차의 분산</span>이 일정한지 확인합니다. 만약 잔차가 특정 패턴을 보이면 이 가정이 위반된 것입니다.
 
 #### 정규성 (Normality)
-- 잔차들이 정규분포를 따라야 합니다. 이는 회귀 분석의 유의성 검정을 정확하게 수행하기 위한 조건입니다.
+- <u>잔차들이 정규분포를 따라야</u> 합니다. 이는 회귀 분석의 유의성 검정을 정확하게 수행하기 위한 조건입니다.
 - 검토 방법: <span style="background-color:#fff5b1">히스토그램</span>이나 <span style="background-color:#fff5b1">Q-Q 플롯</span>을 사용하여 잔차가 정규분포를 따르는지 확인할 수 있습니다.
 
 #### 다중공선성 (Multicollinearity)
