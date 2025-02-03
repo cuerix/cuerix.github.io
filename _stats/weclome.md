@@ -6,6 +6,8 @@ category: stats
 layout: post
 ---
 
+[!note]
+
 
 # 큐릭스 Stats 사용법 안내
 
