@@ -11,6 +11,11 @@ layout: post
  [!NOTE]  
  Highlights information that users should take into account, even when skimming.
 
+ > [!info]
+> Here's a callout block.
+> It supports **Markdown**, [[Internal link|Wikilinks]], and [[Embed files|embeds]]!
+> ![[Engelbart.jpg]]
+
 
 # 큐릭스 Stats 사용법 안내
 
