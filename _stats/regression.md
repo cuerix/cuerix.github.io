@@ -34,7 +34,7 @@ layout: post
 
 #### 선형성 (Linearity)
 - 독립변수와 종속변수 사이에는 <u>선형적인 관계</u>가 있어야 합니다. 즉, 변수들이 직선적인 관계로 연결되어야 한다는 의미입니다.
-- 검토 방법: <span style="background-color:#fff5b1"> 산점도(scatter plot)</span>나 <span style="background-color:#fff5b1"> 잔차 플롯(residual plot)</span>을 통해 선형 관계를 확인할 수 있습니다.
+- 검토 방법: <span style="background-color:#fff5b1"> 산점도(scatter plot)</span>나 <span style="background-color:#fff5b1"> 잔차 플롯(residual plot)</span>을 통해 선형 관계를 확인할 수 있습니다.  
 #### 독립성 (Independence)
 - 각 관측치는 <u>서로 독립적</u>이어야 합니다. 즉, 한 데이터 포인트가 다른 데이터 포인트에 영향을 미치지 않아야 합니다.
 - 검토 방법:<span style="background-color:#fff5b1">더미 변수</span>나 <span style="background-color:#fff5b1">Durbin-Watson 테스트</span>를 통해 독립성을 확인할 수 있습니다.
@@ -46,7 +46,7 @@ layout: post
 - 검토 방법: <span style="background-color:#fff5b1">히스토그램</span>이나 <span style="background-color:#fff5b1">Q-Q 플롯</span>을 사용하여 잔차가 정규분포를 따르는지 확인할 수 있습니다.
 #### 다중공선성 (Multicollinearity)
 - 다중회귀분석에서 여러 독립변수 간에 강한 상관관계가 없어야 합니다. 두 변수 이상의 독립변수가 매우 높은 상관관계를 가지면, 회귀계수가 불안정해질 수 있습니다.
-- 검토 방법: span style="background-color:#fff5b1">분산팽창계수(VIF, Variance Inflation Factor)</span>를 계산하여 다중공선성을 확인할 수 있습니다. VIF 값이 10을 초과하면 다중공선성 문제가 있을 수 있습니다.
+- 검토 방법: <span style="background-color:#fff5b1">분산팽창계수(VIF, Variance Inflation Factor)</span>를 계산하여 다중공선성을 확인할 수 있습니다. VIF 값이 10을 초과하면 다중공선성 문제가 있을 수 있습니다.
 
 
 
@@ -65,7 +65,7 @@ layout: post
 >매개효과는 <span style="background-color:#fff5b1">Baron & Kenny (1986)**의 4단계 검증법</span>이나 <span style="background-color:#fff5b1">부트스트랩(bootstrapping) 방법</span>을 통해 확인할 수 있습니다. 이를 통해 매개변수가 독립변수와 종속변수 간의 관계를 얼마나 강하게 중재하는지 파악할 수 있습니다.
 
 #### 조절효과 (Moderation Effect)
-조절효과는 독립 변수와 종속 변수 간의 관계가 특정한 변수(조절 변수)에 의해 달라지는 경우를 설명하는 개념입니다. 즉, 조절 변수는 독립 변수와 종속 변수 간의 관계의 강도나 방향을 변화시키는 역할을 합니다.
+조절효과는 독립 변수와 종속 변수 간의 관계가 특정한 변수인 조절 변수에 의해 달라지는 경우를 설명하는 개념입니다. 즉, 조절 변수는 독립 변수와 종속 변수 간의 관계의 강도나 방향을 변화시키는 역할을 합니다.
 
 
 ## 4. 회귀분석 결과 해석
