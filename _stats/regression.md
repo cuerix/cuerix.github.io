@@ -31,6 +31,7 @@ layout: post
 ### 2. 회귀분석의 기본 가정
 회귀분석을 수행할 때 모델이 성립하귀 위해 필요한 가정이 있습니다. 이러한 가정들이 충족되지 않으면 분석 결과가 왜곡될 수 있습니다. 
 주요 가정은 다음과 같습니다.
+
 #### 선형성 (Linearity)
 - 독립변수와 종속변수 사이에는 <u>선형적인 관계</u>가 있어야 합니다. 즉, 변수들이 직선적인 관계로 연결되어야 한다는 의미입니다.
 - 검토 방법: <span style="background-color:#fff5b1"> 산점도(scatter plot)</span>나 <span style="background-color:#fff5b1"> 잔차 플롯(residual plot)</span>을 통해 선형 관계를 확인할 수 있습니다.
