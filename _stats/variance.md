@@ -25,13 +25,13 @@ layout: post
 
 
 #### 📋 개념 설명
-- #### 집단 간 분산(Between-group variance)
+##### 집단 간 분산(Between-group variance)
 각 그룹의 평균 차이가 얼마나 큰지를 측정합니다.요인(독립변수)의 효과가 클수록 집단 간 분산이 커집니다.
 
-- #### 집단 내 분산(Within-group variance, Error variance)
+##### 집단 내 분산(Within-group variance, Error variance)
 각 그룹 내부의 데이터가 평균값을 중심으로 얼마나 흩어져 있는지를 측정합니다.
 개별 데이터의 변동을 의미하며, 이는 측정 오차나 개인차 등에 의해 발생합니다.
-- #### F-통계량 (F-ratio) 계산
+##### F-통계량 (F-ratio) 계산
 집단 간 분산을 집단 내 분산으로 나눈 값입니다. F값이 클수록 집단 간 차이가 크며, 일정 수준 이상이면 유의미한 차이라고 판단합니다.
   - 귀무가설(𝐻0): "집단 간 평균 차이가 없다."
   - 대립가설(𝐻1): "집단 간 평균 차이가 있다."
@@ -54,11 +54,11 @@ layout: post
 
 ##### ❗️핵심 포인트  
 독립변수(Factor): 하나의 요인  
-수준(Levels): 요인의 여러 그룹(예: 교육 방법 A, B, C)  
-집단 간 분산(Between-group variance): 각 집단 평균 간 차이  
-집단 내 분산(Within-group variance, Error variance): 개별 데이터의 변동  
-F-검정(F-test): 집단 간 차이가 유의미한지 검정  
-사후 검정(Post-hoc test): 유의미한 경우, 어떤 그룹 간 차이가 나는지 추가 분석 (Tukey, Bonferroni 등)  
+- 수준(Levels): 요인의 여러 그룹(예: 교육 방법 A, B, C)  
+- 집단 간 분산(Between-group variance): 각 집단 평균 간 차이  
+- 집단 내 분산(Within-group variance, Error variance): 개별 데이터의 변동  
+- F-검정(F-test): 집단 간 차이가 유의미한지 검정  
+- 사후 검정(Post-hoc test): 유의미한 경우, 어떤 그룹 간 차이가 나는지 추가 분석 (Tukey, Bonferroni 등)  
 
 2️⃣ 이원 분산분석 (Two-way ANOVA)  
 두 개의 **독립변수(요인)**가 있는 경우 평균 차이를 검정  
