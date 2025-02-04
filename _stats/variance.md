@@ -19,12 +19,11 @@ layout: post
 
 
 ### 1. 분산분석의 개념
-**분산분석(ANOVA)**은 그룹 간 차이를 분석하기 위해 **집단 간 분산(Between-group variance)**과 **집단 내 분산(Within-group variance)**을 비교하여, 평균 차이가 통계적으로 유의미한지를 검정하는 방법입니다.  
+**분산분석(ANOVA)**은 그룹 간 차이를 분석하기 위해 <span style="background-color:#fff5b1">집단 간 분산(Between-group variance)</span>과 <span style="background-color:#fff5b1">집단 내 분산(Within-group variance)</span>을 비교하여, 평균 차이가 통계적으로 유의미한지를 검정하는 방법입니다.  
 
 #### 📋 개념 설명
 - ##### 집단 간 분산(Between-group variance)
-각 그룹의 평균 차이가 얼마나 큰지를 측정합니다. 요인(독립변수)의 효과가 클수록 집단 간 분산이 커집니다.
-
+각 그룹의 평균 차이가 얼마나 큰지를 측정합니다. 요인(독립변수)의 효과가 클수록 집단 간 분산이 커집니다.  
 - ##### 집단 내 분산(Within-group variance, Error variance)
 각 그룹 내부의 데이터가 평균값을 중심으로 얼마나 흩어져 있는지를 측정합니다. 개별 데이터의 변동을 의미하며, 이는 측정 오차나 개인차 등에 의해 발생합니다.
 - ##### F-통계량 (F-ratio) 계산
@@ -45,7 +44,7 @@ layout: post
 ### 3. 분산분석의 유형
 
 #### 일원 분산분석 (One-way ANOVA)  
-- 하나의 **독립변수(요인, factor)**가 여러 개의 **수준(level)**을 가질 때, 이들 간 평균 차이를 검정하는 방법  
+- <span style="background-color:#fff5b1">하나의 독립변수(요인, factor)</span>가 여러 개의 <span style="background-color:#fff5b1">수준(level)</span>을 가질 때, 이들 간 평균 차이를 검정하는 방법  
 - 예시: 세 개의 교육 방법(A, B, C)이 학생들의 시험 점수에 미치는 영향 분석  
 
 ##### ❗️핵심 포인트  
@@ -57,7 +56,7 @@ layout: post
 - 사후 검정(Post-hoc test): 유의미한 경우, 어떤 그룹 간 차이가 나는지 추가 분석 (Tukey, Bonferroni 등)  
 
 #### 이원 분산분석 (Two-way ANOVA)  
-- 두 개의 **독립변수(요인)**가 있는 경우 평균 차이를 검정  
+- <span style="background-color:#fff5b1">두 개의 독립변수(요인)</span>가 있는 경우 평균 차이를 검정  
 - 각 독립변수가 종속변수에 미치는 영향과 상호작용 효과(interaction effect) 분석 가능  
 - 예시: 교육 방법(A, B, C)과 성별(남, 여)이 시험 점수에 미치는 영향 분석  
 
