@@ -81,7 +81,7 @@ layout: post
 
 
 ### 5.사후 검정 (Post-hoc test)
-ANOVA는 집단 간 평균 차이가 존재하는지만 검정하므로, 각 집단 내 어떤 그룹 간 차이가 나는지 알아보려면 **사후 검정(post-hoc test)**이 필요합니다.
+ANOVA는 집단 간 평균 차이가 존재하는지만 검정하므로, <span style="background-color:#fff5b1">각 집단 내 어떤 그룹 간 차이가 나는지</span> 알아보려면 **사후 검정(post-hoc test)**이 필요합니다.
 대표적인 방법:
 - **Tukey's HSD**: 등분산 가정이 충족될 때 사용
 - **Bonferroni**: 다중 비교를 수행할 때 보수적인 방식
