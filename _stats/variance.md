@@ -57,7 +57,7 @@ layout: post
 
 #### 이원 분산분석 (Two-way ANOVA)  
 - <span style="background-color:#fff5b1">두 개의 독립변수(요인)</span>가 있는 경우 평균 차이를 검정  
-- 각 독립변수가 종속변수에 미치는 영향과 상호작용 효과(interaction effect) 분석 가능  
+- 각 독립변수가 종속변수에 미치는 영향과 <span style="background-color:#fff5b1">상호작용 효과(interaction effect)</span> 분석 가능  
 - 예시: 교육 방법(A, B, C)과 성별(남, 여)이 시험 점수에 미치는 영향 분석  
 
 ##### ❗️핵심 포인트  
@@ -68,7 +68,7 @@ layout: post
 
 
 #### 반복 측정 분산분석 (Repeated Measures ANOVA)   
-- 동일한 집단에서 여러 번 측정한 데이터를 비교하는 분산분석  
+- 동일한 집단에서 <span style="background-color:#fff5b1">여러 번 측정한 데이터</span>를 비교하는 분산분석  
 - 개인별 차이를 통제할 수 있어 효율적인 분석 가능  
 - 예시: 동일한 참가자가 1주 차, 2주 차, 3주 차에 걸쳐 수행한 시험 점수 변화 분석  
 
