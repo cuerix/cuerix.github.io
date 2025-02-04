@@ -33,7 +33,7 @@ layout: post
 
 
 ### 2. 분산분석의 기본 가정
-회귀분석을 수행할 때 모델이 성립하귀 위해 필요한 가정이 있습니다. 이러한 가정들이 충족되지 않으면 분석 결과가 왜곡될 수 있습니다. 
+분산분석을 수행할 때 모델이 성립하귀 위해 필요한 가정이 있습니다. 이러한 가정들이 충족되지 않으면 분석 결과가 왜곡될 수 있습니다. 
 주요 가정은 다음과 같습니다.
 
 - 정규성(Normality): 종속변수가 정규분포를 따라야 함
@@ -44,16 +44,16 @@ layout: post
 ### 3. 분산분석의 유형
 
 #### 일원 분산분석 (One-way ANOVA)  
-- <span style="background-color:#fff5b1">하나의 독립변수(요인, factor)</span>가 여러 개의 <span style="background-color:#fff5b1">수준(level)</span>을 가질 때, 이들 간 평균 차이를 검정하는 방법  
+- <span style="background-color:#fff5b1">하나의 독립변수(요인, factor)</span>가 여러 개의 수준(level)을 가질 때, 이들 간 평균 차이를 검정하는 방법  
 - 예시: 세 개의 교육 방법(A, B, C)이 학생들의 시험 점수에 미치는 영향 분석  
 
 ##### ❗️핵심 포인트  
-- 독립변수(Factor): 하나의 요인  
-- 수준(Levels): 요인의 여러 그룹(예: 교육 방법 A, B, C)  
-- 집단 간 분산(Between-group variance): 각 집단 평균 간 차이  
-- 집단 내 분산(Within-group variance, Error variance): 개별 데이터의 변동  
-- F-검정(F-test): 집단 간 차이가 유의미한지 검정  
-- 사후 검정(Post-hoc test): 유의미한 경우, 어떤 그룹 간 차이가 나는지 추가 분석 (Tukey, Bonferroni 등)  
+- **독립변수(Factor)**: 하나의 요인  
+- **수준(Levels)**: 요인의 여러 그룹(예: 교육 방법 A, B, C)  
+- **집단 간 분산(Between-group variance)**: 각 집단 평균 간 차이  
+- **집단 내 분산(Within-group variance, Error variance)**: 개별 데이터의 변동  
+- **F-검정(F-test)**: 집단 간 차이가 유의미한지 검정  
+- **사후 검정(Post-hoc test)**: 유의미한 경우, 어떤 그룹 간 차이가 나는지 추가 분석 (Tukey, Bonferroni 등)  
 
 #### 이원 분산분석 (Two-way ANOVA)  
 - <span style="background-color:#fff5b1">두 개의 독립변수(요인)</span>가 있는 경우 평균 차이를 검정  
@@ -61,10 +61,10 @@ layout: post
 - 예시: 교육 방법(A, B, C)과 성별(남, 여)이 시험 점수에 미치는 영향 분석  
 
 ##### ❗️핵심 포인트  
-- 주효과(Main effect): 각 독립변수(X1,X2)가 개별적으로 종속변수(Y)에 미치는 영향  
-- 상호작용 효과(Interaction effect): 두 독립변수의 결합이 종속변수에 미치는 영향  
-- 교차 효과(Cross-effect): 두 독립변수의 조합에 따라 결과가 달라지는 경우  
-- F-검정(F-test): 각 요인의 영향과 상호작용 효과를 평가  
+- **주효과(Main effect)**: 각 독립변수(X1,X2)가 개별적으로 종속변수(Y)에 미치는 영향  
+- **상호작용 효과(Interaction effect)**: 두 독립변수의 결합이 종속변수에 미치는 영향  
+- **교차 효과(Cross-effect)**: 두 독립변수의 조합에 따라 결과가 달라지는 경우  
+- **F-검정(F-test)**: 각 요인의 영향과 상호작용 효과를 평가  
 
 
 #### 반복 측정 분산분석 (Repeated Measures ANOVA)   
@@ -73,23 +73,19 @@ layout: post
 - 예시: 동일한 참가자가 1주 차, 2주 차, 3주 차에 걸쳐 수행한 시험 점수 변화 분석  
 
 ##### ❗️핵심 포인트  
-- 반복 측정(Repeated measures): 같은 대상에서 여러 번 측정  
-- 이내 집단 설계(Within-subject design): 같은 사람이 여러 조건을 경험  
-- 시간 효과(Time effect): 시간이 지남에 따라 측정값이 변하는지 확인  
-- 구형성(Sphericity): 반복 측정 간 분산이 유사해야 함 (Mauchly's test로 확인)  
-- 대응 t-검정(Paired t-test)과 차이점: 세 개 이상의 시점 비교 가능  
-
-
-
-
+- **반복 측정(Repeated measures)**: 같은 대상에서 여러 번 측정  
+- **이내 집단 설계(Within-subject design)**: 같은 사람이 여러 조건을 경험  
+- **시간 효과(Time effect)**: 시간이 지남에 따라 측정값이 변하는지 확인  
+- **구형성(Sphericity)**: 반복 측정 간 분산이 유사해야 함 (Mauchly's test로 확인)  
+- **대응 t-검정(Paired t-test)과 차이점**: 세 개 이상의 시점 비교 가능  
 
 
 ### 5.사후 검정 (Post-hoc test)
 ANOVA는 집단 간 평균 차이가 존재하는지만 검정하므로, 각 집단 내 어떤 그룹 간 차이가 나는지 알아보려면 **사후 검정(post-hoc test)**이 필요합니다.
 대표적인 방법:
-- Tukey's HSD: 등분산 가정이 충족될 때 사용
-- Bonferroni: 다중 비교를 수행할 때 보수적인 방식
-- Dunnett's test: 한 집단(대조군)과 다른 집단을 비교할 때 사용
+- **Tukey's HSD**: 등분산 가정이 충족될 때 사용
+- **Bonferroni**: 다중 비교를 수행할 때 보수적인 방식
+- **Dunnett's test**: 한 집단(대조군)과 다른 집단을 비교할 때 사용
 
 
 ## 5. 실전 예제 
