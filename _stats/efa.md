@@ -50,6 +50,11 @@ layout: post
 요인분석을 하려면 문항들끼리 일정 수준 이상의 상관관계가 있어야 합니다.  
 → 상관계수가 0.3 이상이면 요인분석이 가능할 가능성이 높음
 
+<div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
+ 💡 사전에 변수들의 상관관계를 확인하실려면 '상관 분석'을 활용할 것을 추천드립니다.
+</div>
+
+
 #### (2) 요인 개수 결정
 몇 개의 요인으로 나눌지 판단 기준은 다음과 같습니다.
 - 스크리 플롯(Scree Plot): 급격히 감소하는 지점에서 요인 개수를 결정합니다.
