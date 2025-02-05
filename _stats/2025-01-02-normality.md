@@ -25,8 +25,6 @@ layout: post
 - 데이터의 약 68%가 평균 ± 1 표준편차 내에 존재
 - 약 95%가 평균 ± 2 표준편차 내에 존재
 - 약 99.7%가 평균 ± 3 표준편차 내에 존재
-![Image](https://github.com/user-attachments/assets/ed6017c5-66b7-48a8-b9e1-6bd0c4dcd79e)
-
 
 
 ### 🔥 정규성 검정의 필요성
