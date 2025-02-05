@@ -14,7 +14,7 @@ layout: post
 ---
 
 ##### 📌 목차
-- (탐색적-요인이란?)[탐색적 요인이란?]
+- [탐색적-요인이란?](탐색적 요인이란?)
 - 탐색적 요인분석의 필요성
 - 핵심 개념
 - 탐색적 요인분석 방법
@@ -57,10 +57,10 @@ layout: post
 → 상관계수가 0.3 이상이면 요인분석이 가능할 가능성이 높음
 
 <div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
- 💡 상관분석에 대한 개념과 설정방법은 [상관 분석] 설명을 참조하세요.
+ 💡 상관분석에 대한 개념과 설정방법은 [상관-분석] 설명을 참조하세요.
 </div>
 
-[상관 분석]: https://github.com/cuerix/cuerix.github.io/blob/main/_stats/correlation.md 
+[상관-분석]: https://github.com/cuerix/cuerix.github.io/blob/main/_stats/correlation.md 
 
 
 #### (2) 요인 개수 결정
