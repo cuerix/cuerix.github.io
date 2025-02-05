@@ -51,7 +51,7 @@ layout: post
 → 상관계수가 0.3 이상이면 요인분석이 가능할 가능성이 높음
 
 <div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
- 💡 사전에 변수들의 상관관계를 확인하실려면 '상관 분석'을 활용할 것을 추천드립니다.
+ 💡 상관분석에 대한 개념과 설정방법은 [상관분석]([http://www.google.co.kr](https://github.com/cuerix/cuerix.github.io/blob/main/_stats/correlation.md) 설명을 참조하세요.
 </div>
 
 
