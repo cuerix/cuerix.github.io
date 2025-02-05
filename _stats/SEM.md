@@ -1,5 +1,5 @@
---- 
-title:구조방정식 
+---
+title: 구조 방정식
 author: Scotty
 date: 2024-11-11
 category: stats
