@@ -18,26 +18,8 @@ layout: post
 🔲 전처리 규칙  
 🔲 데이터 분석  
 
---
-title: 설문 디자인
-author: Scotty
-date: 2024-11-11
-category: stats
-layout: post
----
 
-## 개요
-<strong>설문 디자인</strong>에서는 Survey Canvas의 설문 도구를 활용하여 설문지를 디자인하고, 이를 바탕으로 설문 배포 설정을 통해 설문 조사를 진행할 수 있습니다.
 
---
-
-### 순서
-설문 디자인
-설문 조사 설정
-설문 조사 진행
-전처리 규칙
-데이터 분석
-  
 <center>
   <div style="border: 1px solid grey; width: fit-content;">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/91d233fe-2021-42de-8012-e625b39658c0"> 	
