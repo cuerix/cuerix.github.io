@@ -30,7 +30,7 @@ Survey Canvas
 
 ### 설문지 디자인 메인 화면
 
-설문지 디자인 메인화면에서는 설문지를 관리하는 곳으로 설문지를 새로 등록하거나 Survey Canvas으로 이동하여 설문지를 디자인하실 수 있습니다.
+설문지 디자인 메인화면에서는 디자인한 설문지를 관리하는 곳으로 새로운 설문지 등록, 삭제, Survey Canvas으로 이동하실 수 있습니다.
 
 #### ➕ 새로운 설문지 만들기  
 ![Image](https://github.com/user-attachments/assets/b5ddfa83-71ef-46ae-82e5-dbdabc242278)  
