@@ -33,7 +33,8 @@ Survey Canvas
 설문지 디자인 메인화면에서는 설문지를 관리하는 곳으로 설문지를 새로 등록하거나 Survey Canvas으로 이동하여 설문지를 디자인하실 수 있습니다.
 
 #### ➕ 새로운 설문지 만들기  
-![Image](https://github.com/user-attachments/assets/b5ddfa83-71ef-46ae-82e5-dbdabc242278)
+![Image](https://github.com/user-attachments/assets/b5ddfa83-71ef-46ae-82e5-dbdabc242278)  
+
  ➊ <strong>'새로 만들기'</strong> ![Image](https://github.com/user-attachments/assets/2d9e66c5-a2e7-4072-af99-7d6e4231114f) 아이콘을 클릭합니다.   
  ➋ 설문지 이름을 입력하고 확인을 클릭합니다.  
  ➌ 설문도구 활용한 설문지 작성을 위해 <strong>Survey Canvas</strong> 아이콘을 클릭하여 이동합니다.  
