@@ -59,11 +59,14 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 
 
 ### 설문 도구 설정 기능
-#### 기본 설문 도구
+#### 기본 설문 도구  
+![Image](https://github.com/user-attachments/assets/ccd4ccae-4e7b-48d6-aaba-001c7b5bf7cc)
 
-#### 계량 분석 설문 도구
+#### 계량 분석 설문 도구  
+![Image](https://github.com/user-attachments/assets/e962b208-15da-4116-98ea-90b9bec56af1)
 
-#### 설문지 디자인 설정
+#### 설문지 디자인 설정  
+![Image](https://github.com/user-attachments/assets/e6ec59f8-40e6-4b6e-8b1e-2279b8b8fbe6) 
 
 
 
@@ -77,15 +80,12 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 #### ✔️ 메뉴 / 아이콘 설명
 ##### 문항 목록
      디자인한 설문 문항 목록 리스트입니다.  
-![Image](https://github.com/user-attachments/assets/ccd4ccae-4e7b-48d6-aaba-001c7b5bf7cc)
 
     
 ##### 종료  
     설문지를 종료합니다.  
-![Image](https://github.com/user-attachments/assets/e962b208-15da-4116-98ea-90b9bec56af1)
 ##### 저장
      설문지를 저장합니다.  
-![Image](https://github.com/user-attachments/assets/e6ec59f8-40e6-4b6e-8b1e-2279b8b8fbe6) 
 
 ### 문항 등록 하기
 문항을 등록하려면,   
