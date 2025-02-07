@@ -104,7 +104,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 ![Image](https://github.com/user-attachments/assets/e962b208-15da-4116-98ea-90b9bec56af1)
 
 
-#### **NPS (Net Promoter Score, 순추천지수) 문항**
+** 🏗️ NPS (Net Promoter Score, 순추천지수) 문항 **
 - **목적**: 고객 충성도 측정
 - **예시 문항**:  
   "이 제품/서비스를 친구나 동료에게 추천할 가능성이 얼마나 되나요?"  
@@ -117,7 +117,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 
 
 
-#### **AHP (Analytic Hierarchy Process, 계층 분석법) 문항**
+ ** 📊 AHP (Analytic Hierarchy Process, 계층 분석법) 문항**
 - **목적**: 여러 대안 간의 중요도 평가 및 우선순위 도출
 - **예시 문항**:  
   "A와 B 중 어느 요소가 더 중요하다고 생각하나요?"  
@@ -126,7 +126,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 
 
 
-#### **PSM (Price Sensitivity Meter, 가격 민감도 측정) 문항**
+** 💲 PSM (Price Sensitivity Meter, 가격 민감도 측정) 문항**
 - **목적**: 소비자가 생각하는 적정 가격 범위 측정
 - **예시 문항**:  
   "이 제품의 가격이 너무 비싸서 구매하지 않을 가격은 얼마인가요?"  
@@ -140,7 +140,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 
 
 
-#### **CVM (Contingent Valuation Method, 조건부 가치 측정법) 문항**
+**💰 CVM (Contingent Valuation Method, 조건부 가치 측정법) 문항**
 - **목적**: 시장에서 거래되지 않는 재화(예: 환경 보호, 공공 서비스)의 가치를 평가
 - **예시 문항**:  
   "이 서비스를 이용하기 위해 얼마를 지불할 의향이 있나요?"  
