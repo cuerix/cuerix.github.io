@@ -1,4 +1,4 @@
----
+ ---
 title: 설문 디자인
 author: Scotty
 date: 2024-11-11
@@ -117,7 +117,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 
 
 
- ##### 🏗️ AHP (Analytic Hierarchy Process, 계층 분석법) 문항
+##### 🏗️ AHP (Analytic Hierarchy Process, 계층 분석법) 문항
 - **목적**: 여러 대안 간의 중요도 평가 및 우선순위 도출
 - **예시 문항**:  
   "A와 B 중 어느 요소가 더 중요하다고 생각하나요?"  
