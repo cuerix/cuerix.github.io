@@ -12,8 +12,15 @@ layout: post
 <strong>설문 디자인</strong>에서는 Survey Canvas의 설문 도구를 활용하여 설문지를 디자인하고, 이를 바탕으로 설문 배포 설정을 통해 설문 조사를 진행할 수 있습니다.
 
 
+다음과 같은 기능을 확인하실 수있습니다.
+설문 디자인 메인 화면
+Survey Canvas 
+설문지 기본정보
+문항 간 건너뛰기 설정
+설문조사 설정
+
 ### 순서
-- [x]  **설문 디자인**  
+  [x]  **설문 디자인**  
 - [ ]  설문 조사 설정  
 - [ ]  설문 조사 진행  
 - [ ]  전처리 규칙  
@@ -21,11 +28,23 @@ layout: post
 
 --
 
-- 설문지 디자인 화면
-  - 설문지 기본정보
-    - 설문조사 설정
-    - 문항 간 건너뛰기 설정
-    - 아이템 북 게시
+### 설문지 디자인 메인 화면
+
+설문지 디자인 메인화면에서는 설문지를 관리하는 곳으로 설문지를 새로 등록하거나 Survey Canvas으로 이동하여 설문지를 디자인하실 수 있습니다.
+
+#### ➕ 새로운 설문지 만들기  
+ ➊ <strong>'새로 만들기'</strong> ![Image](https://github.com/user-attachments/assets/2d9e66c5-a2e7-4072-af99-7d6e4231114f) 아이콘을 클릭합니다.   
+ ➋ 설문지 이름을 입력하고 확인을 클릭합니다.  
+ ➌ 설문도구 활용한 설문지 작성을 위해 <strong>Survey Canvas</strong> 아이콘을 클릭하여 이동합니다.  
+
+
+#### 🔗 Survey Canvas으로 이동하기  
+설문지를 디자인하기 위해 ![Image](https://github.com/user-attachments/assets/e29bb4be-d99a-4ea4-b0e1-dd76b2b8f6c3) Survey Canvas 아이콘을 클릭합니다.
+
+
+
+
+
     
 
 
