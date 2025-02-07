@@ -37,12 +37,12 @@ Survey Canvas
 
  ➊ 우측 상단에 <img src="https://github.com/user-attachments/assets/2d9e66c5-a2e7-4072-af99-7d6e4231114f" width="5%"> 아이콘을 클릭합니다.   
  ➋ 설문지 이름을 입력하고 확인을 클릭합니다.  
- ➌ 설문도구 활용한 설문지 작성을 위해 <strong>Survey Canvas</strong> 아이콘을 클릭하여 이동합니다.  
 
 
 #### 🔗 Survey Canvas으로 이동하기  
 ![Image](https://github.com/user-attachments/assets/bfc397aa-e9db-4c5a-a639-b547a719007c)  
- ➊ 설문지를 디자인하기 위해 <img src="https://github.com/user-attachments/assets/9de883b7-4f48-4357-8748-3fc8c8eb3af6" width="3%"> 아이콘을 클릭합니다.
+
+ ➊ 설문도구 활용한 설문지 작성을 위해 <img src="https://github.com/user-attachments/assets/9de883b7-4f48-4357-8748-3fc8c8eb3af6" width="3%"> 아이콘을 클릭합니다.
 
 
 
