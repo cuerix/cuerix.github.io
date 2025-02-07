@@ -41,7 +41,9 @@ Survey Canvas
 
 
 #### 🔗 Survey Canvas으로 이동하기  
-설문지를 디자인하기 위해 <img src="https://github.com/user-attachments/assets/2d9e66c5-a2e7-4072-af99-7d6e4231114f" width="5%"> 아이콘을 클릭합니다.
+![Image](https://github.com/user-attachments/assets/bfc397aa-e9db-4c5a-a639-b547a719007c)
+설문지를 디자인하기 위해 <img src="https://github.com/user-attachments/assets/9de883b7-4f48-4357-8748-3fc8c8eb3af6" width="5%"> 아이콘을 클릭합니다.
+
 
 
 
