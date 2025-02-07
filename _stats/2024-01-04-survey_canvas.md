@@ -35,7 +35,7 @@ Survey Canvas
 #### ➕ 새로운 설문지 만들기  
 ![Image](https://github.com/user-attachments/assets/b5ddfa83-71ef-46ae-82e5-dbdabc242278)  
 
- ➊ 우측 상단에 <img src="https://github.com/user-attachments/assets/2d9e66c5-a2e7-4072-af99-7d6e4231114f" width="5%"> 아이콘을 클릭합니다.   
+ ➊ 우측 상단에 <img src="https://github.com/user-attachments/assets/2d9e66c5-a2e7-4072-af99-7d6e4231114f" width="7%"> 아이콘을 클릭합니다.   
  ➋ 설문지 이름을 입력하고 확인을 클릭합니다.  
 
 
@@ -50,39 +50,24 @@ Survey Canvas
 
 
     
-
-
-
-### 설문지 만들기
-<center>
-  <div style="border: 1px solid grey; width: fit-content;">
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/91d233fe-2021-42de-8012-e625b39658c0"> 	
-  </div>
-  </center>  
-  
-#### 설문지 만들기
-   ➊ <strong>'새로 만들기'</strong> 아이콘을 클릭합니다.   
-   <div style="border: 1px solid grey; width: fit-content;">
-    <img width="800" alt="image" src="https://github.com/user-attachments/assets/7043dbc6-13e7-4369-9848-be6cd3fcfac0">     
-   </div>  
-   
-   ➋ 설문지 이름을 입력하고 확인을 클릭합니다.
-   <div style="border: 1px solid grey; width: fit-content;">
-     <img width="800" alt="image" src="https://github.com/user-attachments/assets/64395101-ad82-4dfc-8ee2-6843d20edc1b"> 
-   </div>  
-   
-   ➌ 설문도구 활용한 설문지 작성을 위해 <strong>Survey Canvas</strong> 아이콘을 클릭하여 이동합니다.  
-   <div style="border: 1px solid grey; width: fit-content;">
-     <img width="800" alt="image" src="https://github.com/user-attachments/assets/d33d1c3d-e7fd-4893-a17e-3350e53f478c">  
-   </div>
-   
           
        
 ### Survey Canvas  
 설문지를 디자인하기 위한 도구 모음입니다.   
 사용자는 다양한 설문도구를 필요에 따라 꺼내 문항을 디자인할 수 있습니다.  
 Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 있으며, 더 상세한 설정은 설정 가능을 활용하세요.
-  
+
+
+### 설문 도구 설정 기능
+#### 기본 설문 도구
+
+#### 계량 분석 설문 도구
+
+#### 설문지 디자인 설정
+
+
+
+
 <center>
 <div style="border: 1px solid grey; width: fit-content;">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d20cd4b3-3845-4b02-afe2-5a5d0298cf9e">
@@ -90,15 +75,18 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 </center>
 
 #### ✔️ 메뉴 / 아이콘 설명
-- ##### 문항 목록
-     디자인한 설문 문항 목록 리스트입니다.
+##### 문항 목록
+     디자인한 설문 문항 목록 리스트입니다.  
+![Image](https://github.com/user-attachments/assets/ccd4ccae-4e7b-48d6-aaba-001c7b5bf7cc)
+
     
-- ##### 종료  
-    설문지를 종료합니다.
-    
-- ##### 저장
-     설문지를 저장합니다.
-  
+##### 종료  
+    설문지를 종료합니다.  
+![Image](https://github.com/user-attachments/assets/e962b208-15da-4116-98ea-90b9bec56af1)
+##### 저장
+     설문지를 저장합니다.  
+![Image](https://github.com/user-attachments/assets/e6ec59f8-40e6-4b6e-8b1e-2279b8b8fbe6) 
+
 ### 문항 등록 하기
 문항을 등록하려면,   
 ➊ 상단에 위치한 <strong>설문 도구 설정</strong>아이콘을 클릭하거나,   
