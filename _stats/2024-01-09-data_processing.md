@@ -24,11 +24,11 @@ layout: post
 </center>
 
 #### ✔️ 아이콘/메뉴 설명
-- ##### 데이터 전처리 기본규칙 가져오기  
+![Image](https://github.com/user-attachments/assets/02948537-5040-44f8-93ff-13bfb4249bc9) 
 큐릭스에서 제공하는 기본 전처리 규칙으로, 설문 디자인의 '척도 예제'에서 사용된 문자척도를 수치척도로 전환한 규칙입니다. <br><br>
-- ##### 새로 만들기  
+![Image](https://github.com/user-attachments/assets/516800e4-a8fc-43cf-a63f-82e5fc92343a)  
 새로운 규칙을 등록합니다. 설문디자인의 척도예제를 활용하지 않고, 직접 입력한 경우 새로운 규칙을 통해서 전처리 규칙을 연결할 수 있습니다. <br><br>
-- ##### 새로고침  
+![Image](https://github.com/user-attachments/assets/c3bcddf9-c1fc-4531-b15a-6e82306a7f31)  
 동기화 기능입니다.
 
  <div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
@@ -47,6 +47,14 @@ layout: post
 </div>
 </center>
     
+
+
+### 큐릭스가 제공하는 전처리 규칙 가져오기
+Survey Canvas에서 설문지를 디자인할 때, 1개 선택에서 척도찾기를 통해 디자인 한 경우, 척도찾기의 예제에 맞게 설정한 전처리 규칙을 사용하시면 편리합니다. 
+
+#### 기본 규칙 가져오는 방법
+![Image](https://github.com/user-attachments/assets/01daac15-e643-4322-9812-304571563620)
+➊ 상단에 데이터 전처리 기본규칙 가져오기 아이콘을 선택합니다.
 
 
 #### ✔️ 전처리 규칙 등록 방법  
