@@ -8,6 +8,14 @@ layout: post
 
 <strong>Stats 메인 페이지</strong>에서는 현재 진행 중인 <strong>'설문조사'</strong>와<strong> '데이터 분석'</strong> 현황을 확인할 수 있습니다. 또한, 설문지와 문항을 검색하여 원하는 설문지를 쉽게 찾을 수 있습니다.  <strong>15가지 추천 설문지</strong>와 더불어 <strong>조사/분석 활용법</strong>을 통해 더욱 효과적으로 활용해 보세요!
 
+
+<center>
+<div style="border: 1px solid grey; width: fit-content;">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/c231f6ef-ead3-4ad4-9221-4afa92d3c9bd"> 
+</div>
+</center>
+<br>
+
 Stats(Apps)에서는 설문지 디자인, 설문 조사 설정, 데이터 분석을 모두 관리할 수 있습니다. 상단 아이콘 설명은 다음과 같습니다.
 
 #### 설문
@@ -20,15 +28,7 @@ Stats(Apps)에서는 설문지 디자인, 설문 조사 설정, 데이터 분석
 - **데이터 등록**: 설문조사 외 데이터를 등록하여 함께 분석할 수 있습니다.
 - **전처리 규칙**: 설문 응답 정보의 문자척도를 숫자척도로 변환하는 작업을 합니다.
 
-
-<center>
-<div style="border: 1px solid grey; width: fit-content;">
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/c231f6ef-ead3-4ad4-9221-4afa92d3c9bd"> 
-</div>
-</center>
-<br>
-
-
+  
 
 #### ✔️메뉴/아이콘 설명
 
