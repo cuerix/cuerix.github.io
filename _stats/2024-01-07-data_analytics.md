@@ -11,10 +11,9 @@ layout: post
 이러한 문자척도는 데이터 분석을 위해 숫자척도로 변환해야 하므로, 분석 설정에서 데이터 전처리 규칙을 연결해야 합니다.
 
 
-<div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
- <strong> ℹ️ </strong> 설문조사 데이터의 경우, 대부분 문자로 된 응답이 포함되어 있기 때문에, 이를 분석에 적합한 숫자 형식으로 변환하기 위한 전처리 규칙이 필요합니다.
-</div>  
-<br>
+<center>
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/031b3002-62b4-41bc-9f7b-a00a68deccab">  
+</center>
   
 
     
