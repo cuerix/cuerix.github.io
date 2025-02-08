@@ -19,11 +19,9 @@ layout: post
 
     
 
-<center>
-<div style="border: 1px solid grey; width: fit-content;">
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/031b3002-62b4-41bc-9f7b-a00a68deccab">  
-</div>
-</center>
+  <center>
+ <img width="800" alt="image" src="https://github.com/user-attachments/assets/81e904d5-1ba4-4a8c-91fe-c2f13bf45155">  
+  </center>
 
 #### ✔️ 메뉴/아이콘 설명
 - ##### 큐릭스 설문조사 응답정보
