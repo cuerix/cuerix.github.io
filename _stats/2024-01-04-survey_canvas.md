@@ -94,7 +94,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 </center>
 
 
-### 📋 설문 도구 설정 기능
+### 설문 도구 설정 기능
 #### 기본 설문 도구  
 ![Image](https://github.com/user-attachments/assets/ccd4ccae-4e7b-48d6-aaba-001c7b5bf7cc)  
 
@@ -206,7 +206,7 @@ NPS 분석에 대한 보다 자세한 내용과 문항설정 및 분석방법은
 --- 
 
  
-### 📂 설문지 디자인 기본정보   
+###  설문지 디자인 기본정보   
 설문지 디자인 기본정보는 권한(플랜), 설문지 이름, 생성일, 디자인 진행상태 정보를 제공합니다.  
 
  <div style="border: 1px solid #1DA1F2; padding: 15px; border-radius: 5px; background-color: #E8F5FD; color: #333;">
