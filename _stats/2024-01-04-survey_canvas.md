@@ -41,7 +41,7 @@ layout: post
 #### 🗂️ 메뉴/아이콘 설명
 
 |메뉴/아이콘|설명|
-|---------------|---|
+|:---:|---|
 |![Image](https://github.com/user-attachments/assets/2d9e66c5-a2e7-4072-af99-7d6e4231114f) |새로운 설문지를 생성합니다.  |
 |![Image](https://github.com/user-attachments/assets/c3bcddf9-c1fc-4531-b15a-6e82306a7f31)|동기화 기능입니다.|
 |![Image](https://github.com/user-attachments/assets/3a80f695-686e-475a-9c62-071c7ac11e71)|(설문지 디자인 상태) 설문지 이름만 등록하고 문항을 디자인하지 않은 상태입니다.|
