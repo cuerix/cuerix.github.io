@@ -37,8 +37,6 @@ layout: post
 <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/91d233fe-2021-42de-8012-e625b39658c0"> 	
 </center>
-</br>
-</br>
 
 #### 메뉴 아이콘 설명
 
