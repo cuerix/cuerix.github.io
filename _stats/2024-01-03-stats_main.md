@@ -1,5 +1,5 @@
 ---
-title: Stats (Apps) 메인화면
+title: Stats(Apps) 메인화면
 author: Scotty
 date: 2024-11-11
 category: stats
