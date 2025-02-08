@@ -10,9 +10,7 @@ layout: post
 
 ## 개요
 <strong>설문 디자인</strong>에서는 Survey Canvas의 설문 도구를 활용하여 설문지를 디자인하고, 이를 바탕으로 설문 배포 설정을 통해 설문 조사를 진행할 수 있습니다.
-<div style="border: 1px solid grey; width: fit-content;">
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/3e6935f1-7b4d-4ca0-952a-f165abd6b120">
-</div> 
+
     
 
 #### 📌 설문지 디자인 기능
