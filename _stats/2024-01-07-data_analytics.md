@@ -10,17 +10,9 @@ layout: post
 설문조사 응답정보 문항 척도는 대부분 문자척도인 경우가 대부분입니다. 예를 들어, 5점 척도의 <strong>‘매우 그렇다’, ‘그렇다’, ‘보통이다’, ‘그렇지 않다’, ‘전혀 그렇지 않다’</strong>와 같은 응답은 문자로 되어 있습니다.   
 이러한 문자척도는 데이터 분석을 위해 숫자척도로 변환해야 하므로, 분석 설정에서 데이터 전처리 규칙을 연결해야 합니다.
 
-
-<center>
+ <center>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/031b3002-62b4-41bc-9f7b-a00a68deccab">  
 </center>
-  
-
-    
-
-  <center>
- <img width="800" alt="image" src="https://github.com/user-attachments/assets/81e904d5-1ba4-4a8c-91fe-c2f13bf45155">  
-  </center>
 
 #### ✔️ 메뉴/아이콘 설명
 - ##### 큐릭스 설문조사 응답정보
