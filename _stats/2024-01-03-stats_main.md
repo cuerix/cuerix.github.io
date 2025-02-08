@@ -7,10 +7,9 @@ layout: post
 ---
 
 <strong>Stats 메인 페이지</strong>에서는 현재 진행 중인 <strong>'설문조사'</strong>와<strong> '데이터 분석'</strong> 현황을 확인할 수 있습니다.  
-또한, 설문지와 문항을 검색하여 원하는 설문지를 쉽게 찾을 수 있습니다.  
-<strong>15가지 추천 설문지</strong>와 더불어 <strong>조사/분석 활용법</strong>을 통해 더욱 효과적으로 활용해 보세요!
+또한, 설문지와 문항을 검색하여 원하는 설문지를 쉽게 찾을 수 있습니다.  <strong>15가지 추천 설문지</strong>와 더불어 <strong>조사/분석 활용법</strong>을 통해 더욱 효과적으로 활용해 보세요!
 
-
+Stats에서는 설문지 디자인부터 분석설문과 분석 
 
 <center>
 <div style="border: 1px solid grey; width: fit-content;">
