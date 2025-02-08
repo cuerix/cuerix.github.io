@@ -43,7 +43,6 @@ layout: post
 |![Image](https://github.com/user-attachments/assets/a5fa2540-1c37-4b41-98e3-35be95a78636) |설문지 디자인을 할 수 있는 Survey Canvas로 이동합니다. |
 |![Image](https://github.com/user-attachments/assets/e99621a3-05f4-4adc-bce9-99bf6ea4d447)  |설문지를 삭제합니다.
 
-  |
 
 
 
