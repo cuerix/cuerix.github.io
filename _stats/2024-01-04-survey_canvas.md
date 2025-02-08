@@ -37,7 +37,7 @@ layout: post
 |메뉴/아이콘|설명|
 |---------------|---|
 |![Image](https://github.com/user-attachments/assets/2d9e66c5-a2e7-4072-af99-7d6e4231114f) |새로운 설문지를 생성합니다.  |
-|새로고침|동기화 기능입니다.|
+|![Image](https://github.com/user-attachments/assets/c3bcddf9-c1fc-4531-b15a-6e82306a7f31)|동기화 기능입니다.|
 |No Design |(설문지 디자인 상태) 설문지 이름만 등록하고 문항을 디자인하지 않은 상태입니다.|
 |Design(Ing)|(설문지 디자인 상태) 설문지 문항을 디자인하고 있습니다. Design(Ing) 상태 표시는 No Design 상태에서 설문 문항을 등록하면 자동으로 변환되지만, 설문조사 설정을 위해서는 사용자가 설문지 기본정보에서 Complete로 변경해야 합니다. Complete는 같은 페이지와 방법으로 Design(Ing)로 변경할 수 있습니다.|
 |Complete  |(설문지 디자인 상태) 설문지 디자인을 완료해 설문조사를 시작할 수 있는 상태입니다. Complete 상태 표시는 설문지 이름을 클릭하고 나타난 상세보기에서 사용자가 직접 상태 표시를 Complete로 변경해야 합니다.  |
