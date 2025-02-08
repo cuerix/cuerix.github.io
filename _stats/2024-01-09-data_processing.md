@@ -56,7 +56,7 @@ layout: post
 Survey Canvas에서 설문지를 디자인할 때, 1개 선택에서 척도찾기를 통해 디자인 한 경우, 척도찾기의 예제에 맞게 설정한 전처리 규칙을 사용하시면 편리합니다. 
 
 #### 기본 규칙 가져오는 방법
-![Image](https://github.com/user-attachments/assets/f4ea1fce-fec4-47c3-b017-14e6b71814ef)  
+![Image](https://github.com/user-attachments/assets/deefd818-2bad-49ca-a468-374ae5bfec22) 
 ➊ 상단에 데이터 전처리 기본규칙 가져오기 아이콘을 선택합니다.
 
 
