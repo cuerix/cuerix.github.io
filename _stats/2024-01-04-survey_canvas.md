@@ -33,6 +33,22 @@ layout: post
 
 설문지 디자인 메인화면에서는 디자인한 설문지를 관리하는 곳으로 새로운 설문지 등록하거나 삭제 또는 설문지 작성을 위한 Survey Canvas 기능이 있습니다.
 
+<center>
+<div style="border: 1px solid grey; width: fit-content;">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/d20cd4b3-3845-4b02-afe2-5a5d0298cf9e">
+</div>
+</center>
+
+#### ✔️ 메뉴 / 아이콘 설명
+##### 문항 목록
+     디자인한 설문 문항 목록 리스트입니다.  
+
+    
+##### 종료  
+    설문지를 종료합니다.  
+##### 저장
+     설문지를 저장합니다.
+
 #### ➕ 새로운 설문지 만들기  
 ![Image](https://github.com/user-attachments/assets/b5ddfa83-71ef-46ae-82e5-dbdabc242278)  
 
@@ -166,21 +182,7 @@ Canvas는 컴퓨터 모니터와 휴대전화 크기로 변경해 설정할 수 
 
 
 
-<center>
-<div style="border: 1px solid grey; width: fit-content;">
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/d20cd4b3-3845-4b02-afe2-5a5d0298cf9e">
-</div>
-</center>
-
-#### ✔️ 메뉴 / 아이콘 설명
-##### 문항 목록
-     디자인한 설문 문항 목록 리스트입니다.  
-
-    
-##### 종료  
-    설문지를 종료합니다.  
-##### 저장
-     설문지를 저장합니다.  
+  
 
 ### 문항 등록 하기
 문항을 등록하려면,   
