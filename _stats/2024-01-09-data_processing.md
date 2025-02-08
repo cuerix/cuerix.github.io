@@ -24,12 +24,15 @@ layout: post
 </center>
 
 #### ✔️ 아이콘/메뉴 설명
-![Image](https://github.com/user-attachments/assets/02948537-5040-44f8-93ff-13bfb4249bc9) 
-큐릭스에서 제공하는 기본 전처리 규칙으로, 설문 디자인의 '척도 예제'에서 사용된 문자척도를 수치척도로 전환한 규칙입니다. <br><br>
-![Image](https://github.com/user-attachments/assets/516800e4-a8fc-43cf-a63f-82e5fc92343a)  
-새로운 규칙을 등록합니다. 설문디자인의 척도예제를 활용하지 않고, 직접 입력한 경우 새로운 규칙을 통해서 전처리 규칙을 연결할 수 있습니다. <br><br>
-![Image](https://github.com/user-attachments/assets/c3bcddf9-c1fc-4531-b15a-6e82306a7f31)  
-동기화 기능입니다.
+
+|메뉴/아이콘|설명|
+|------|---|
+|![Image](https://github.com/user-attachments/assets/02948537-5040-44f8-93ff-13bfb4249bc9)|큐릭스에서 제공하는 기본 전처리 규칙으로, 설문 디자인의 '척도 예제'에서 사용된 문자척도를 수치척도로 전환한 규칙입니다. |
+|![Image](https://github.com/user-attachments/assets/516800e4-a8fc-43cf-a63f-82e5fc92343a)|새로운 규칙을 등록합니다. 설문디자인의 척도예제를 활용하지 않고, 직접 입력한 경우 새로운 규칙을 통해서 전처리 규칙을 연결할 수 있습니다.|
+|![Image](https://github.com/user-attachments/assets/c3bcddf9-c1fc-4531-b15a-6e82306a7f31)|동기화 기능입니다. |
+
+
+
 
  <div style="border: 1px solid #FFD700; padding: 15px; border-radius: 5px; background-color: #FFFACD; color: #333;">
  💡 등록한 전처리 규칙을 분석 대상 데이터에 연결하세요.
