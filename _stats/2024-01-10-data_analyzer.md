@@ -6,11 +6,9 @@ category: stats
 layout: post
 ---
 분석대상 데이터를 틍해 데이터 분석을 할 수 있습니다.
-<center>
-<div style="border: 1px solid grey; width: fit-content;">
-  <img width="800" alt="image" src="https://github.com/user-attachments/assets/80eb6ab2-1cc0-464b-a1f8-6e73183d1e0b">
-</div>
-</center>
+  <center>
+ <img width="800" alt="image" src="https://github.com/user-attachments/assets/81e904d5-1ba4-4a8c-91fe-c2f13bf45155">  
+  </center>
 
 #### 데이터 분석 종류 설명
 <table>
