@@ -101,7 +101,6 @@ layout: post
 - 예시: "가장 좋아하는 색깔을 선택하세요." (① 빨강 ② 파랑 ③ 초록)
 - 용도: 응답자가 명확한 선택을 해야 할 때 사용
 
-### <수치 도구 설정 화면> 
 ![Image](https://github.com/user-attachments/assets/5662ba62-c434-4ca7-ad22-33db84e48b9e)
   
 #### 그룹으로 등록
@@ -120,7 +119,7 @@ layout: post
 - 예시: "좋아하는 과일을 선택하세요." (① 사과 ② 바나나 ③ 포도)
 - 용도: 여러 항목에 대한 응답을 수집할 때 유용
   
-<수치 도구 설정 화면>
+
 ![Image](https://github.com/user-attachments/assets/8bd750e8-d14a-4934-8f22-c6aca2adf3a2)
 
 **🔢 수치 입력**
