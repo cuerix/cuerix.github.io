@@ -85,7 +85,11 @@ layout: post
 #### ✔️ [STEP. 2] Data Analzyer으로 이동
 <strong>Data Analzyer</strong>은 분석 대상 데이터를 활용하여 분석을 실시할 수있습니다.   
 
-'데이터 기본 정보' 우측 <strong>하위 메뉴</strong>에서 <strong>Data Analzyer</strong> 아이콘을 클릭하여 이동합니다.  
+'데이터 기본 정보' 우측 <strong>하위 메뉴</strong>에서 <strong>Data Analzyer</strong> 아이콘을 클릭하여 이동합니다.   
+
+![Image](https://github.com/user-attachments/assets/103a7935-2e60-4041-8724-059a5b3b265b)
+
+
 <div style="border: 1px solid grey; width: fit-content;">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/708c1ed0-14c4-4c09-8305-e84e9bd08bae">   
 </div>
