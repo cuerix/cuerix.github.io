@@ -257,7 +257,9 @@ NPS 분석에 대한 보다 자세한 내용과 문항설정 및 분석방법은
        
 ### 설문조사 설정
 <strong>설문조사 설정</strong>은 디자인한 설문지를 바탕으로 설문조사를 진행하기 위한 설정 과정입니다.  
-디자인를 완료한 설문지는 <strong>설문조사 설정</strong>으로 이동하여 <strong>'빠른 분석'</strong><strong>'설문조사 배포 설정'</strong>을 하실 수 있습니다.   
+디자인를 완료한 설문지는 <strong>설문조사 설정</strong>으로 이동하여 <strong>'빠른 분석'</strong><strong>'설문조사 배포 설정'</strong>을 하실 수 있습니다.  
+
+![Image](https://github.com/user-attachments/assets/5982b9ea-0f69-4284-b84a-c9a7a9b4d016)
 
 ### 설문조사 배포 설정
 설문조사 배포 설정에서는 설문 응답을 수집하기 위한 배포방법, 응답 기간, 공개여부 등을 설정합니다.
