@@ -101,7 +101,11 @@ layout: post
 - 예시: "가장 좋아하는 색깔을 선택하세요." (① 빨강 ② 파랑 ③ 초록)
 - 용도: 응답자가 명확한 선택을 해야 할 때 사용
 -  사용설명:
-
+![Image](https://github.com/user-attachments/assets/5662ba62-c434-4ca7-ad22-33db84e48b9e)
+##### 그룹으로 등록
+![Image](https://github.com/user-attachments/assets/a4ef49c0-16df-4cfc-83ac-1fbe06774333)
+##### 직접 입력
+![Image](https://github.com/user-attachments/assets/f633b79c-3883-4291-b4fa-e4b44f3cfa01)
 
 **☑️ 다중 선택**
 - 목적: 여러 보기 중 여러 항목을 선택 가능
@@ -311,9 +315,15 @@ NPS 분석에 대한 보다 자세한 내용과 문항설정 및 분석방법은
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/daca7054-c87b-410e-9158-ea8d630d2411">  
 </div>  
 
+
+
 ##### 빠른분석 설정  
 
+![Image](https://github.com/user-attachments/assets/9e6c808e-b8b0-416e-8592-e59021167124)
 
+![Image](https://github.com/user-attachments/assets/75cb91e8-0478-4920-944a-d50773024951)
+
+![Image](https://github.com/user-attachments/assets/fa77f73d-1661-4278-8cf8-94bdfc543c32)
 ➊ 빠른 분석 사용여부에 <strong>사용</strong>을 선택합나다.   
 ➋ <strong>분석 데이터 제목</strong>입력합니다.  
 ➌ <strong>전처리 규칙</strong>을 연결합니다.          
