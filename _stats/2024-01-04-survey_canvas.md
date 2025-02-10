@@ -89,25 +89,25 @@ layout: post
 #### 기본 설문 도구  
 ![Image](https://github.com/user-attachments/assets/ccd4ccae-4e7b-48d6-aaba-001c7b5bf7cc)  
 
-**ℹ️ 설명글**
+### ℹ️ 설명글
 - 목적: 설문 항목에 대한 추가 안내나 설명을 제공
 - 예시: "다음은 서비스 만족도에 관한 질문입니다. 각 항목을 평가해 주세요."
 - 용도: 응답자가 질문을 이해하거나 특정 형식을 따르도록 유도
 - 사용설명:
 
-**🔘 1개 선택**
+### 🔘 1개 선택
 - 목적: 여러 보기 중 하나만 선택하는 방식
 - 형식: 라디오 버튼 형태
 - 예시: "가장 좋아하는 색깔을 선택하세요." (① 빨강 ② 파랑 ③ 초록)
 - 용도: 응답자가 명확한 선택을 해야 할 때 사용
 
-<수치 도구 설정 화면> 
+### <수치 도구 설정 화면> 
 ![Image](https://github.com/user-attachments/assets/5662ba62-c434-4ca7-ad22-33db84e48b9e)
   
-그룹으로 등록
+#### 그룹으로 등록
 ![Image](https://github.com/user-attachments/assets/bcb1d5c0-5ac8-4558-b6eb-bbe022dd769c)  
   
-직접 입력
+#### 직접 입력
 ![Image](https://github.com/user-attachments/assets/a4ef49c0-16df-4cfc-83ac-1fbe06774333)  
   
 
