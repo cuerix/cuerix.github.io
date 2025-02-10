@@ -118,7 +118,7 @@ layout: post
 - 형식: 체크박스 형태
 - 예시: "좋아하는 과일을 선택하세요." (① 사과 ② 바나나 ③ 포도)
 - 용도: 여러 항목에 대한 응답을 수집할 때 유용
-- 사용설명:
+- 사용설명:  
 ![Image](https://github.com/user-attachments/assets/8bd750e8-d14a-4934-8f22-c6aca2adf3a2)
 
 **🔢 수치 입력**
@@ -126,7 +126,7 @@ layout: post
 - 형식: 텍스트 입력란, 숫자만 허용 가능
 - 예시: "연령을 입력하세요."
 - 용도: 연령, 점수, 금액 등 정량적인 데이터를 수집할 때 사용
-- 사용설명:
+- 사용설명:  
 ![Image](https://github.com/user-attachments/assets/d7f56034-5002-4375-819e-62da4671d458)
 
 **🔤 텍스트 입력**
@@ -134,16 +134,16 @@ layout: post
 - 형식: 단답형 또는 장문형 텍스트 상자
 - 예시: "의견을 적어 주세요."
 - 용도: 자세한 설명이나 주관적인 의견을 받을 때 사용
-- 사용설명:  
-![Image](https://github.com/user-attachments/assets/39942ac8-0ec2-4b18-8958-4e95339194fe)
+- 사용설명:    
+
 
 **🔽 드롭다운**
 - 목적: 목록에서 하나의 옵션을 선택하도록 유도
 - 형식: 목록에서 선택
 - 예시: "국가를 선택하세요." (▼ 한국, 미국, 일본)
 - 용도: 선택지가 많을 때 공간을 절약하며 깔끔하게 제공
-- 사용설명:
--![Image](https://github.com/user-attachments/assets/a1e4e9ae-0c23-4ff8-841d-415e7590721b)
+- 사용설명:  
+![Image](https://github.com/user-attachments/assets/a1e4e9ae-0c23-4ff8-841d-415e7590721b)
 -  ![Image](https://github.com/user-attachments/assets/fe75f3f7-acab-4b8a-81d4-d41199abeb9b)
 
 
