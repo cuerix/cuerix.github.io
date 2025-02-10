@@ -1,0 +1,6 @@
+## ➕ 새로운 설문지 만들기
+
+![Image](https://github.com/user-attachments/assets/b5ddfa83-71ef-46ae-82e5-dbdabc242278)  
+
+ ➊ 우측 상단에 <img src="https://github.com/user-attachments/assets/2d9e66c5-a2e7-4072-af99-7d6e4231114f" width="7%"> 아이콘을 클릭합니다.   
+ ➋ 설문지 이름을 입력하고 확인을 클릭합니다.  
