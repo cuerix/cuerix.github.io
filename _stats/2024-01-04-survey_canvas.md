@@ -129,6 +129,8 @@ layout: post
 - 예시: "국가를 선택하세요." (▼ 한국, 미국, 일본)
 - 용도: 선택지가 많을 때 공간을 절약하며 깔끔하게 제공
 - 사용설명:
+-![Image](https://github.com/user-attachments/assets/a1e4e9ae-0c23-4ff8-841d-415e7590721b)
+-  ![Image](https://github.com/user-attachments/assets/fe75f3f7-acab-4b8a-81d4-d41199abeb9b)
 
 
 
@@ -146,6 +148,8 @@ layout: post
   - **7~8점**: 중립자 (Passives)
   - **0~6점**: 비추천자 (Detractors)
 - **계산 방법**: 추천자 비율 - 비추천자 비율
+- **설정 방법**:
+![Image](https://github.com/user-attachments/assets/6ea0bda2-9a69-44b5-aaa3-7b1fd3a6650d)   
 
 NPS 분석에 대한 보다 자세한 내용과 문항설정 및 분석방법은 다음버튼을 클릭하세요.
 
@@ -187,12 +191,14 @@ NPS 분석에 대한 보다 자세한 내용과 문항설정 및 분석방법은
 CVM 분석에 대한 보다 자세한 내용과 문항설정 및 분석방법은 다음버튼을 클릭하세요.
 
 
-#### 설문지 디자인 설정  
 ![Image](https://github.com/user-attachments/assets/e6ec59f8-40e6-4b6e-8b1e-2279b8b8fbe6) 
-
+  
+#### 설문지 디자인 설정  
 설문 디자인 설정에서는 설문지 템플릿을 설정하실 수 있습니다.
+![Image](https://github.com/user-attachments/assets/076c0739-1842-4066-beb9-dd2672eaa8b2)
 
-
+##### 저장 및 종료
+![Image](https://github.com/user-attachments/assets/3d142531-6d23-4c1b-98c2-f340ccfb124e)
 
 --- 
 
