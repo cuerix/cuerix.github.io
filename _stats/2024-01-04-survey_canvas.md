@@ -119,8 +119,8 @@ layout: post
 - 예시: "좋아하는 과일을 선택하세요." (① 사과 ② 바나나 ③ 포도)
 - 용도: 여러 항목에 대한 응답을 수집할 때 유용
   
-
 ![Image](https://github.com/user-attachments/assets/8bd750e8-d14a-4934-8f22-c6aca2adf3a2)
+
 
 **🔢 수치 입력**
 - 목적: 숫자 값을 직접 입력 받는 방식
