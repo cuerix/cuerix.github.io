@@ -128,7 +128,6 @@ layout: post
 - 예시: "연령을 입력하세요."
 - 용도: 연령, 점수, 금액 등 정량적인 데이터를 수집할 때 사용
 
-<수치 도구 설정 화면>
 ![Image](https://github.com/user-attachments/assets/d7f56034-5002-4375-819e-62da4671d458)
 
 **🔤 텍스트 입력**
