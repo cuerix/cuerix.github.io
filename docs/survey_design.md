@@ -3,7 +3,7 @@ title: 설문 디자인
 author: Scotty
 date: 2024-11-11
 category: stats
-layout: post
+layout: default
 ---
 
 
