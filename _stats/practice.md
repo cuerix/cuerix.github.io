@@ -36,7 +36,7 @@ flowchart LR
     A-->|의존|B
 ```
 
-
+```mermaid
 graph LR
   %% 측정 모델 (Measurement Model)
   x[Latent Variable: x] --> x1[x1]
