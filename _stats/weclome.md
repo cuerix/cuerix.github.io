@@ -63,7 +63,7 @@ Data Analzyer로 이동하기
 
 ## Index
 1. [로그인 화면](/stats/login)
-1. [id 메인 화면](/stats/id_main](https://cuerix.github.io/stats/2024-01-02-id_main/)
+1. [id 메인 화면](https://cuerix.github.io/stats/2024-01-02-id_main/)
 2. [stats 메인](/stats//stats/stats_main)
 3. [설문디자인](/stats/survey_canvas) 
 4. [설문 조사](/stats/survey)
