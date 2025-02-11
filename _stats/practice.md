@@ -182,7 +182,7 @@ graph LR
   D5 --> D5b[SEM]
 ```
 ```mermaid
-graph LR
+graph TD
   A[독립 변수 X] -->|가설| B[종속 변수 Y]
   B -->|영향| C[매개 변수 M]
   A -->|간접 효과| C
