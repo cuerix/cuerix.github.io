@@ -17,14 +17,14 @@ mermaid: true
 
 Then you can use mermaid syntax in your markdown:
 
-```
+```mermaid
 graph TD
   X[독립변수 X] --> M[매개변수 M]
   M --> Y[종속변수 Y]
   X --> Y
 ```
 
-```
+```mermaid
 graph TD
   X[독립변수 X] --> Y[종속변수 Y]
   Z[조절변수 Z] -.-> Y
