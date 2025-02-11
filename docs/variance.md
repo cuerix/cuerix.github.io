@@ -3,7 +3,7 @@ title: 분산분석
 author: Scotty
 date: 2024-11-11
 category: stats
-layout: post
+layout: default
 ---
 ## 개요
 분산분석(ANOVA, Analysis of Variance)은 **여러 그룹 간 평균 차이를 비교하는 통계 기법**입니다. 집단 간 차이가 우연인지, 특정 요인(factor)에 의해 발생했는지를 검정하는 데 사용됩니다. 독립변수의 개수와 측정 방식에 따라 여러 유형이 있으며, 실험 및 조사 연구에서 널리 활용됩니다.
