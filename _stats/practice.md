@@ -6,7 +6,29 @@ category: stats
 layout: post
 ---
 
-graph TD
-  X[독립변수 X] --> M[매개변수 M]
-  M --> Y[종속변수 Y]
-  X --> Y
+```markdown
+---
+title: Diagrams with mermaid.js
+date: 2023-08-31
+layout: post
+mermaid: true
+---
+```
+
+Then you can use mermaid syntax in your markdown:
+
+```
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
