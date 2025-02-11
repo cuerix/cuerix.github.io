@@ -3,7 +3,7 @@ title: Data Analzyer
 author: Scotty
 date: 2024-11-11
 category: stats
-layout: post
+layout: default
 ---
 분석대상 데이터를 틍해 데이터 분석을 할 수 있습니다.
   <center>
