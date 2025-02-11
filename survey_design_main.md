@@ -2,7 +2,7 @@
 title: 설문지 디자인 메인 화면
 author: Scotty
 date: 2024-11-11
-layout: post
+layout: default
 nav_order: 2
 parent: 설문디자인하기
 ---
