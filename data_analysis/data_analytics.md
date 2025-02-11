@@ -3,7 +3,7 @@ title: 데이터 분석
 author: Scotty
 date: 2024-11-11
 category: stats
-layout: post
+layout: default
 ---
 분석 대상으로 등록된 데이터는 설문조사를 통해 수집된 <strong>'설문조사 응답정보'</strong> 데이터와  데이터 등록에서 등록한 <strong>'스프레드 시트 파일 업로드'</strong> 데이터로 구성됩니다.    
 
