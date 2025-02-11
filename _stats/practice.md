@@ -30,3 +30,6 @@ graph TD
   Z[조절변수 Z] -.-> Y
   Z -.-> X
 ```
+
+flowchart LR
+    A-->|의존|B
