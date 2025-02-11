@@ -6,7 +6,6 @@ category: stats
 layout: post
 nav_order: 2
 parent: 설문 디자인하기
-has children: TRUE
 ---
 
 설문지 디자인 메인화면에서는 디자인한 설문지를 관리하는 곳으로 새로운 설문지 등록하거나 삭제 또는 설문지 작성을 위한 Survey Canvas 기능이 있습니다.
