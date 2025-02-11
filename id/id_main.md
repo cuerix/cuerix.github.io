@@ -1,0 +1,30 @@
+---
+title: ID 메인 화면
+author: Scotty
+date: 2024-11-11
+category: stats
+layout: post
+---
+
+계정으로 로그인 후 다음과 같이 ID 메인 화면으로 이동합니다.
+
+ID 메인 화면에서는  
+ ①설문조사 및 데이터 분석을 할 수 있는 <strong>Stats 앱</strong>,  
+②사용자에 맞춤에 따른 <strong>서비스 플랜</strong>,  
+③고객 상담 문의 및 주문내역 관련 <strong>고객 지원</strong>을 제공합니다.
+
+![Image](https://github.com/user-attachments/assets/dbff03fc-abe3-4b20-bd45-210e8d87905a)
+
+  
+#### 🗂️ 메뉴/아이콘 설명
+
+|메뉴/아이콘|설명|
+|------|---|
+|📱 [STATS](https://cuerix.github.io/stats/3.stats_main/)|설문조사와 다양한 데이터 분석을 할 수 있는 사이트로 이동합니다. |
+|💼 Service Plan|직무별 맞춤, 그룹 사용자, One ID 사용자에 따른 서비스 플랜을 확인할 수 있습니다. |
+|👥 Customer|주문 내역 확인 및 1:1 문의를 할 수 있습니다. |
+
+
+
+
+
