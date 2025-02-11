@@ -3,7 +3,7 @@ title: Survey Canvas
 author: Scotty
 date: 2024-11-11
 category: stats
-layout: post
+layout: default
 ---
 
 ### Survey Canvas  
