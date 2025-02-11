@@ -35,3 +35,52 @@ graph TD
 flowchart LR
     A-->|의존|B
 ```
+
+
+graph LR
+  %% 측정 모델 (Measurement Model)
+  x[Latent Variable: x] --> x1[x1]
+  x --> x2[x2]
+  x --> x3[x3]
+
+  z[Latent Variable: z] --> z1[z1]
+  z --> z2[z2]
+  z --> z3[z3]
+  z --> z4[z4]
+
+  y[Latent Variable: y] --> y1[y1]
+  y --> y2[y2]
+
+  mo[Latent Variable: mo] --> mo1[mo1]
+  mo --> mo2[mo2]
+  mo --> mo3[mo3]
+  mo --> mo4[mo4]
+
+  me[Latent Variable: me] --> me1[me1]
+  me --> me2[me2]
+  me --> me3[me3]
+
+  %% 조절 효과 (Interaction Effect)
+  x_mo[Interaction: x_mo] --> x1.mo1[x1.mo1]
+  x_mo --> x1.mo2[x1.mo2]
+  x_mo --> x1.mo3[x1.mo3]
+  x_mo --> x1.mo4[x1.mo4]
+  
+  x_mo --> x2.mo1[x2.mo1]
+  x_mo --> x2.mo2[x2.mo2]
+  x_mo --> x2.mo3[x2.mo3]
+  x_mo --> x2.mo4[x2.mo4]
+  
+  x_mo --> x3.mo1[x3.mo1]
+  x_mo --> x3.mo2[x3.mo2]
+  x_mo --> x3.mo3[x3.mo3]
+  x_mo --> x3.mo4[x3.mo4]
+
+  %% 경로 모형 (Path Model)
+  y -->|Regression| x
+  y -->|Regression| z
+  y -->|Regression| me
+  y -->|Regression| mo
+  y -->|Regression| x_mo
+  me -->|Regression| x
+  ```
