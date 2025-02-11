@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Knowledge
 nav_order: 2
 has chidlren: true
