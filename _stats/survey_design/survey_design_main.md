@@ -4,6 +4,7 @@ author: Scotty
 date: 2024-11-11
 category: stats
 layout: post
+parent: index
 has children: TRUE
 ---
 
