@@ -198,3 +198,21 @@ graph LR
   style B fill:#f9f,stroke:#333,stroke-width:2px
   style C fill:#f9f,stroke:#333,stroke-width:2px
 ```
+
+```mermaid
+graph LR
+  A[독립 변수 X] -->|가설| B[종속 변수 Y]
+  B -->|영향| C[매개 변수 M]
+  A -->|간접 효과| C
+
+  subgraph SEM 모델
+    direction LR
+    A
+    B
+    C
+  end
+
+  style A fill:#f9f,stroke:#333,stroke-width:2px
+  style B fill:#f9f,stroke:#333,stroke-width:2px
+  style C fill:#f9f,stroke:#333,stroke-width:2px
+```
