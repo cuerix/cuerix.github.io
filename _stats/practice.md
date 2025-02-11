@@ -88,57 +88,20 @@ graph LR
 
 ```mermaid
 graph TD
-  %% 변수의 종류
-  A[변수의 종류] --> B1[명목 변수 (Categorical)]
-  A --> B2[서열 변수 (Ordinal)]
-  A --> B3[등간 변수 (Interval)]
-  A --> B4[비율 변수 (Ratio)]
+  A[변수 유형] --> B[단일 변수 분석]
+  A --> C[두 변수 간 분석]
+  A --> D[다중 변수 분석]
 
-  %% 명목 변수 관련 통계
-  B1 --> C1[빈도 (Frequency)]
-  B1 --> C2[최빈값 (Mode)]
-  B1 --> C3[카이제곱 검정 (Chi-square Test)]
-  B1 --> C4[로지스틱 회귀 (Logistic Regression)]
+  B --> B1[연속형: 평균, 표준편차, 정규성 검정]
+  B --> B2[범주형: 빈도분석, 카이제곱 검정]
 
-  %% 서열 변수 관련 통계
-  B2 --> D1[중앙값 (Median)]
-  B2 --> D2[사분위 범위 (IQR)]
-  B2 --> D3[스피어만 상관계수 (Spearman's ρ)]
-  B2 --> D4[순위 기반 회귀 (Ordinal Regression)]
+  C --> C1[연속형 vs. 연속형: 상관분석, 회귀분석]
+  C --> C2[연속형 vs. 범주형: t-검정, ANOVA]
+  C --> C3[범주형 vs. 범주형: 카이제곱 검정, 피셔의 정확 검정]
 
-  %% 등간 변수 관련 통계
-  B3 --> E1[평균 (Mean)]
-  B3 --> E2[표준편차 (Standard Deviation)]
-  B3 --> E3[피어슨 상관계수 (Pearson's r)]
-  B3 --> E4[t-검정 (t-test)]
-  B3 --> E5[ANOVA (분산 분석)]
-  B3 --> E6[선형 회귀 (Linear Regression)]
-  B3 --> E7[다중 회귀 (Multiple Regression)]
-
-  %% 비율 변수 관련 통계
-  B4 --> F1[평균 (Mean)]
-  B4 --> F2[표준편차 (Standard Deviation)]
-  B4 --> F3[피어슨 상관계수 (Pearson's r)]
-  B4 --> F4[t-검정 (t-test)]
-  B4 --> F5[ANOVA (분산 분석)]
-  B4 --> F6[비율 계산 (Ratio Calculation)]
-  B4 --> F7[선형 회귀 (Linear Regression)]
-  B4 --> F8[다중 회귀 (Multiple Regression)]
-
-  %% 회귀 분석 추가
-  G[회귀 분석 (Regression Analysis)] --> H1[선형 회귀 (Linear Regression)]
-  G --> H2[다중 회귀 (Multiple Regression)]
-  G --> H3[로지스틱 회귀 (Logistic Regression)]
-  G --> H4[순위 기반 회귀 (Ordinal Regression)]
-  G --> H5[프로빗 회귀 (Probit Regression)]
-  G --> H6[포아송 회귀 (Poisson Regression)]
-  G --> H7[혼합효과 모형 (Mixed-Effects Model)]
-
-  %% 회귀 분석이 해당 변수들과 연결
-  B3 -.-> G
-  B4 -.-> G
-  B1 -.-> H3
-  B2 -.-> H4
-
-
+  D --> D1[회귀 분석: 다중선형 회귀, 로지스틱 회귀]
+  D --> D2[요인 분석: EFA, CFA]
+  D --> D3[군집 분석: K-means, 계층적 군집]
+  D --> D4[분산분석: ANOVA, MANOVA]
+  D --> D5[기타 다변량 기법: PCA, SEM]
 ```
