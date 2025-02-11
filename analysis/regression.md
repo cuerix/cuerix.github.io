@@ -3,7 +3,7 @@ title: 회귀 분석
 author: Scotty
 date: 2024-11-11
 category: stats
-layout: post
+layout: default
 ---
 ## 개요
 
