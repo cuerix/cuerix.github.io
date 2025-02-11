@@ -3,7 +3,7 @@ title: 데이터 전처리
 author: Scotty
 date: 2024-11-11
 category: stats
-layout: post
+layout: default
 ---
 ### 개요
 <strong>전처리 규칙</strong>은 <strong>문자척도</strong>로 수집한 설문조사 데이터를 통계분석을 위해 <strong>숫자 척도로 교체</strong>하는 규칙을 등록 또는 관리합니다. 예를 들어 설문조사에 사용한 `매우 그렇다`, `그렇다`, `보통`, `그렇지 않다`, `전혀 그렇지 않다`라는 5점 등간척도는 응답자에게 노출된 문자 척도 그대로 데이터가 수집됩니다.   
