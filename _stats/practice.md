@@ -31,5 +31,7 @@ graph TD
   Z -.-> X
 ```
 
+```mermaid
 flowchart LR
     A-->|의존|B
+```
