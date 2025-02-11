@@ -1,5 +1,5 @@
 ---
-title: 정규성 검정
+title: practice
 author: Scotty
 date: 2024-11-11
 category: stats
