@@ -4,7 +4,9 @@ author: Scotty
 date: 2024-11-11
 category: stats
 layout: post
-has children: 2
+nav_order: 1
+has children: true
+
 ---
 
 
