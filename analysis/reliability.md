@@ -3,7 +3,7 @@ title: 신뢰도 분석
 author: Scotty
 date: 2024-11-11
 category: stats
-layout: post
+layout: default
 ---
 ### 신뢰도 분석
 신뢰도 분석은 측정 도구(예: 설문지, 심리검사, 평가척도 등)의 일관성(Consistency) 과 안정성(Stability) 을 평가하는 방법입니다. 동일한 개념을 반복 측정했을 때 결과가 일관되게 나오는지를 확인하는 것이 핵심입니다.
