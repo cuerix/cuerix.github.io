@@ -5,6 +5,18 @@ date: 2024-11-11
 category: stats
 layout: post
 ---
+
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <!-- 다른 메타데이터나 링크 추가 가능 -->
+</head>
+
+
+
 > ##### TIP
 >
 > This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
