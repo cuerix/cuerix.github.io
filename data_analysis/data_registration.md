@@ -2,7 +2,6 @@
 title: 데이터 등록
 author: Scotty
 date: 2024-11-11
-category: stats
 layout: default
 ---
 
