@@ -1,0 +1,8 @@
+
+collections:
+  stats:
+    output: true  # 이걸 true로 설정해야 개별 페이지가 생성됨
+    permalink: /stats/:path/
+
+
+
