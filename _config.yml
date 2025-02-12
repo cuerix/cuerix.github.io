@@ -1,8 +1,3 @@
-
-collections:
-  stats:
-    output: true  # 이걸 true로 설정해야 개별 페이지가 생성됨
-    permalink: /stats/:path/
-
-
-
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
