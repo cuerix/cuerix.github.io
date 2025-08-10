@@ -5,7 +5,7 @@ description: >-
   이 기술문서를 통해 보다 편리하게 큐릭스 서비스를 이용하시기 바랍니다.
 author: cotes
 date: 2025-08-10 20:55:00 +0800
-categories: [HOME, ABOUT]
+categories: [Home, About]
 tags: [intro]
 pin: true
 ---
