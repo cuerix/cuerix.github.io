@@ -1,7 +1,7 @@
 ---
-title: Member (Guide)
+title: 계정사용 안내
 description: >-
-  큐릭스 서비스 이용을 위한 계정에 대한 가이드 입니다.
+  큐릭스 서비스 이용을 위한 계정사용 안내 입니다.
 author: cuerix
 date: 2025-02-01 20:55:00 +0800
 categories: [Guide, Member Ship]
